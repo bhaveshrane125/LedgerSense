@@ -1,0 +1,41 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000015",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 1,
+        "line_total": "364.50",
+        "quantity": "90.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-013",
+        "line_number": 2,
+        "line_total": "3658.00",
+        "quantity": "31.00",
+        "sku": "OIL-HYD-46-013",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-01-16",
+    "po_number": "PO-000015",
+    "total_amount": "4022.50",
+    "vendor_id": "VEN-001"
+  },
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

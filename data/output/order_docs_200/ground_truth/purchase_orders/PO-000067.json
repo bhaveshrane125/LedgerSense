@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000067",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-055",
+        "line_number": 1,
+        "line_total": "79560.00",
+        "quantity": "102.00",
+        "sku": "FLT-AIR-010-055",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-033",
+        "line_number": 2,
+        "line_total": "1524.00",
+        "quantity": "127.00",
+        "sku": "BLT-M8-040-ZN-033",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 3,
+        "line_total": "6882.00",
+        "quantity": "31.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-039",
+        "line_number": 4,
+        "line_total": "37440.00",
+        "quantity": "64.00",
+        "sku": "FLT-AIR-010-039",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 5,
+        "line_total": "477.73",
+        "quantity": "101.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-09",
+    "po_number": "PO-000067",
+    "total_amount": "125883.73",
+    "vendor_id": "VEN-010"
+  },
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

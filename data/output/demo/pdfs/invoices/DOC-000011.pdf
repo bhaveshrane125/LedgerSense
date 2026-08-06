@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1532 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Nila Industrial Supplies Pvt Ltd \(VEN-001\)) Tj
+T*
+(Tax ID: 99SYNTH0001Z5) Tj
+T*
+(Address: 260 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Invoice No: INV-000011    Document: DOC-000011) Tj
+T*
+(Invoice Date: 2026-01-20    Due Date: 2026-02-19) Tj
+T*
+(PO: PO-000011    GRN: GRN-000011) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   BRG-6205-2RS         Sealed Ball Bearing 6205             88 EA       203.50   17908.00) Tj
+T*
+(2   OIL-HYD-46-029       Hydraulic Oil ISO VG 46              22 LTR      123.90    2725.80) Tj
+T*
+(3   NUT-M8-ZN            M8 Zinc Hex Nut                     135 EA         4.05     546.75) Tj
+T*
+(4   GLV-NIT-L-028        Nitrile Safety Gloves Large          64 PAIR      42.00    2688.00) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 23868.55) Tj
+T*
+(Tax: INR 4296.34) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 28164.89) Tj
+T*
+(Calculated Gross Total: INR 28164.89) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001719 00000 n 
+0000001776 00000 n 
+0000001846 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1895
+%%EOF

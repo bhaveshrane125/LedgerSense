@@ -1,0 +1,195 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "259512.68",
+    "printed_gross_total": null,
+    "subtotal": "219926.00",
+    "tax": "39586.68"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000170",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-07-28",
+    "grn_reference": "GRN-000170",
+    "invoice_date": "2026-06-28",
+    "po_reference": "PO-000170"
+  },
+  "invoice_number": "INV-000170",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-042",
+      "line_number": 1,
+      "line_total": "397.32",
+      "quantity": "84.00",
+      "sku": "NUT-M8-ZN-042",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-026",
+      "line_number": 2,
+      "line_total": "737.88",
+      "quantity": "156.00",
+      "sku": "NUT-M8-ZN-026",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-059",
+      "line_number": 3,
+      "line_total": "22866.00",
+      "quantity": "103.00",
+      "sku": "BRG-6205-2RS-059",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-015",
+      "line_number": 4,
+      "line_total": "93600.00",
+      "quantity": "160.00",
+      "sku": "FLT-AIR-010-015",
+      "tax_rate": "0.18",
+      "unit_price": "585.00",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-034",
+      "line_number": 5,
+      "line_total": "561.60",
+      "quantity": "104.00",
+      "sku": "NUT-M8-ZN-034",
+      "tax_rate": "0.18",
+      "unit_price": "5.40",
+      "uom": "EA"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-063",
+      "line_number": 6,
+      "line_total": "100100.00",
+      "quantity": "154.00",
+      "sku": "FLT-AIR-010-063",
+      "tax_rate": "0.18",
+      "unit_price": "650.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-068",
+      "line_number": 7,
+      "line_total": "1663.20",
+      "quantity": "33.00",
+      "sku": "GLV-NIT-L-068",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-042",
+        "line_number": 1,
+        "line_total": "397.32",
+        "quantity": "84.00",
+        "sku": "NUT-M8-ZN-042",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 2,
+        "line_total": "737.88",
+        "quantity": "156.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 3,
+        "line_total": "22866.00",
+        "quantity": "103.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-015",
+        "line_number": 4,
+        "line_total": "93600.00",
+        "quantity": "160.00",
+        "sku": "FLT-AIR-010-015",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-034",
+        "line_number": 5,
+        "line_total": "561.60",
+        "quantity": "104.00",
+        "sku": "NUT-M8-ZN-034",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-063",
+        "line_number": 6,
+        "line_total": "100100.00",
+        "quantity": "154.00",
+        "sku": "FLT-AIR-010-063",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-068",
+        "line_number": 7,
+        "line_total": "1663.20",
+        "quantity": "33.00",
+        "sku": "GLV-NIT-L-068",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-06-20",
+    "po_number": "PO-000170",
+    "total_amount": "219926.00",
+    "vendor_id": "VEN-003"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

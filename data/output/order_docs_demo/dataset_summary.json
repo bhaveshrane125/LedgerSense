@@ -1,0 +1,29 @@
+{
+  "dataset_id": "DS-001",
+  "failed_pdf_count": 0,
+  "generated_grn_ground_truth_count": 36,
+  "generated_grn_pdf_count": 36,
+  "generated_pdf_count": 40,
+  "generated_po_ground_truth_count": 39,
+  "generated_po_pdf_count": 39,
+  "generator_version": "0.1.0",
+  "layout_distribution": {
+    "CLASSIC": 7,
+    "COMPACT": 7,
+    "INDUSTRIAL": 10,
+    "MINIMAL": 6,
+    "MODERN": 10
+  },
+  "missing_grn_count": 3,
+  "requested_pdf_count": 40,
+  "scenario_distribution": {
+    "ARITHMETIC_ERROR": 3,
+    "CLEAN": 17,
+    "DUPLICATE_CONFIRMED": 1,
+    "MISSING_GRN": 3,
+    "PRICE_VARIANCE_OVER": 4,
+    "QTY_OVER_BILLED": 6,
+    "UOM_MISMATCH": 6
+  },
+  "seed": 42
+}

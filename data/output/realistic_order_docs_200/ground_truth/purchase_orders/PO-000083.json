@@ -1,0 +1,118 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000083",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-073",
+        "line_number": 1,
+        "line_total": "666.00",
+        "quantity": "74.00",
+        "sku": "BLT-M8-040-ZN-073",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-042",
+        "line_number": 2,
+        "line_total": "733.15",
+        "quantity": "155.00",
+        "sku": "NUT-M8-ZN-042",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-041",
+        "line_number": 3,
+        "line_total": "189.00",
+        "quantity": "18.00",
+        "sku": "BLT-M8-040-ZN-041",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 4,
+        "line_total": "3553.20",
+        "quantity": "94.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-057",
+        "line_number": 5,
+        "line_total": "1396.50",
+        "quantity": "133.00",
+        "sku": "BLT-M8-040-ZN-057",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-009",
+        "line_number": 6,
+        "line_total": "264.00",
+        "quantity": "22.00",
+        "sku": "BLT-M8-040-ZN-009",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-061",
+        "line_number": 7,
+        "line_total": "9794.00",
+        "quantity": "83.00",
+        "sku": "OIL-HYD-46-061",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-076",
+        "line_number": 8,
+        "line_total": "6148.80",
+        "quantity": "122.00",
+        "sku": "GLV-NIT-L-076",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-039",
+        "line_number": 9,
+        "line_total": "69615.00",
+        "quantity": "119.00",
+        "sku": "FLT-AIR-010-039",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-25",
+    "po_number": "PO-000083",
+    "total_amount": "92359.65",
+    "vendor_id": "VEN-008"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

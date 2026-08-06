@@ -1,0 +1,52 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000080",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-052",
+        "line_number": 1,
+        "line_total": "1974.00",
+        "quantity": "47.00",
+        "sku": "GLV-NIT-L-052",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 2,
+        "line_total": "24623.50",
+        "quantity": "121.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-042",
+        "line_number": 3,
+        "line_total": "454.08",
+        "quantity": "96.00",
+        "sku": "NUT-M8-ZN-042",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-22",
+    "po_number": "PO-000080",
+    "total_amount": "27051.58",
+    "vendor_id": "VEN-005"
+  },
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

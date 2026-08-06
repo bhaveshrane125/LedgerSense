@@ -1,0 +1,96 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000128",
+    "lines": [
+      {
+        "delivered_sku": "NUT-M8-ZN-050",
+        "item_id": "ITEM-050",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-050",
+        "ordered_sku": "NUT-M8-ZN-050",
+        "quantity_ordered": "153",
+        "quantity_received": "153",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-031",
+        "item_id": "ITEM-031",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-031",
+        "ordered_sku": "FLT-AIR-010-031",
+        "quantity_ordered": "150",
+        "quantity_received": "150",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-058",
+        "item_id": "ITEM-058",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-058",
+        "ordered_sku": "NUT-M8-ZN-058",
+        "quantity_ordered": "6",
+        "quantity_received": "6",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-035",
+        "item_id": "ITEM-035",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-035",
+        "ordered_sku": "BRG-6205-2RS-035",
+        "quantity_ordered": "70",
+        "quantity_received": "70",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-043",
+        "item_id": "ITEM-043",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-043",
+        "ordered_sku": "BRG-6205-2RS-043",
+        "quantity_ordered": "96",
+        "quantity_received": "96",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-039",
+        "item_id": "ITEM-039",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-039",
+        "ordered_sku": "FLT-AIR-010-039",
+        "quantity_ordered": "64",
+        "quantity_received": "64",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000128",
+    "receipt_date": "2026-05-13"
+  },
+  "grn_number": "GRN-000128",
+  "po_number": "PO-000128",
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

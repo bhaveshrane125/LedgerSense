@@ -1,0 +1,30 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000152",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-034",
+        "line_number": 1,
+        "line_total": "518.40",
+        "quantity": "96.00",
+        "sku": "NUT-M8-ZN-034",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-06-02",
+    "po_number": "PO-000152",
+    "total_amount": "518.40",
+    "vendor_id": "VEN-005"
+  },
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

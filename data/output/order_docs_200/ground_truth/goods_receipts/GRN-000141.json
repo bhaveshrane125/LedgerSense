@@ -1,0 +1,67 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000141",
+    "lines": [
+      {
+        "item_id": "ITEM-019",
+        "line_number": "1",
+        "quantity_received": "116",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-032",
+        "line_number": "2",
+        "quantity_received": "84",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-005",
+        "line_number": "3",
+        "quantity_received": "111",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-074",
+        "line_number": "4",
+        "quantity_received": "42",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-015",
+        "line_number": "5",
+        "quantity_received": "109",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-025",
+        "line_number": "6",
+        "quantity_received": "56",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "7",
+        "quantity_received": "109",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000141",
+    "receipt_date": "2026-05-26"
+  },
+  "grn_number": "GRN-000141",
+  "po_number": "PO-000141",
+  "vendor": {
+    "name": "Cobalt Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0011Z4",
+    "vendor_id": "VEN-011"
+  }
+}

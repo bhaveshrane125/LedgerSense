@@ -1,0 +1,175 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "142453.26",
+    "printed_gross_total": null,
+    "subtotal": "120723.10",
+    "tax": "21730.16"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000064",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "MISSING_GRN"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-04-13",
+    "grn_reference": null,
+    "invoice_date": "2026-03-14",
+    "po_reference": "PO-000064"
+  },
+  "invoice_number": "INV-000064",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-056",
+      "line_number": 1,
+      "line_total": "46000.00",
+      "quantity": "50.00",
+      "sku": "PKG-STRAP-16-056",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-019",
+      "line_number": 2,
+      "line_total": "9564.50",
+      "quantity": "47.00",
+      "sku": "BRG-6205-2RS-019",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-032",
+      "line_number": 3,
+      "line_total": "44160.00",
+      "quantity": "48.00",
+      "sku": "PKG-STRAP-16-032",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-068",
+      "line_number": 4,
+      "line_total": "1209.60",
+      "quantity": "24.00",
+      "sku": "GLV-NIT-L-068",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-053",
+      "line_number": 5,
+      "line_total": "18880.00",
+      "quantity": "160.00",
+      "sku": "OIL-HYD-46-053",
+      "tax_rate": "0.18",
+      "unit_price": "118.00",
+      "uom": "LTR"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-073",
+      "line_number": 6,
+      "line_total": "909.00",
+      "quantity": "101.00",
+      "sku": "BLT-M8-040-ZN-073",
+      "tax_rate": "0.18",
+      "unit_price": "9.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-056",
+        "line_number": 1,
+        "line_total": "46000.00",
+        "quantity": "50.00",
+        "sku": "PKG-STRAP-16-056",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 2,
+        "line_total": "9564.50",
+        "quantity": "47.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-032",
+        "line_number": 3,
+        "line_total": "44160.00",
+        "quantity": "48.00",
+        "sku": "PKG-STRAP-16-032",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-068",
+        "line_number": 4,
+        "line_total": "1209.60",
+        "quantity": "24.00",
+        "sku": "GLV-NIT-L-068",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-053",
+        "line_number": 5,
+        "line_total": "18880.00",
+        "quantity": "160.00",
+        "sku": "OIL-HYD-46-053",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-073",
+        "line_number": 6,
+        "line_total": "909.00",
+        "quantity": "101.00",
+        "sku": "BLT-M8-040-ZN-073",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-06",
+    "po_number": "PO-000064",
+    "total_amount": "120723.10",
+    "vendor_id": "VEN-006"
+  },
+  "scenario": "MISSING_GRN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

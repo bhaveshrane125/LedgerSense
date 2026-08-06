@@ -1,0 +1,32 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000188",
+    "lines": [
+      {
+        "item_id": "ITEM-072",
+        "line_number": "1",
+        "quantity_received": "150",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-032",
+        "line_number": "2",
+        "quantity_received": "137",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      }
+    ],
+    "po_number": "PO-000188",
+    "receipt_date": "2026-01-13"
+  },
+  "grn_number": "GRN-000188",
+  "po_number": "PO-000188",
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

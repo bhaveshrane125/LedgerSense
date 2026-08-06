@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000120",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-053",
+        "line_number": 1,
+        "line_total": "4602.00",
+        "quantity": "39.00",
+        "sku": "OIL-HYD-46-053",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-065",
+        "line_number": 2,
+        "line_total": "1496.00",
+        "quantity": "136.00",
+        "sku": "BLT-M8-040-ZN-065",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-079",
+        "line_number": 3,
+        "line_total": "44460.00",
+        "quantity": "57.00",
+        "sku": "FLT-AIR-010-079",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-061",
+        "line_number": 4,
+        "line_total": "17346.00",
+        "quantity": "147.00",
+        "sku": "OIL-HYD-46-061",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-008",
+        "line_number": 5,
+        "line_total": "84042.00",
+        "quantity": "87.00",
+        "sku": "PKG-STRAP-16",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-05-01",
+    "po_number": "PO-000120",
+    "total_amount": "151946.00",
+    "vendor_id": "VEN-007"
+  },
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0007Z4",
+    "vendor_id": "VEN-007"
+  }
+}

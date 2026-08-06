@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1572 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000056    PO Date: 2026-02-26) Tj
+T*
+(Vendor: Saffron Machine Tools Pvt Ltd \(VEN-010\)) Tj
+T*
+(Tax ID: 99SYNTH0010Z4    Payment Terms: NET 30) Tj
+T*
+(Address: 177 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   NUT-M8-ZN-074        M8 Zinc Hex Nut                     148 EA         4.73     700.04) Tj
+T*
+(2   CBL-CU-2C-038        Copper Control Cable 2 Core          16 MTR       79.20    1267.20) Tj
+T*
+(3   FLT-AIR-010-079      Compressed Air Filter Element       159 EA       780.00  124020.00) Tj
+T*
+(4   BRG-6205-2RS         Sealed Ball Bearing 6205            131 EA       203.50   26658.50) Tj
+T*
+(5   BRG-6205-2RS-051     Sealed Ball Bearing 6205             77 EA       222.00   17094.00) Tj
+T*
+(6   GLV-NIT-L-036        Nitrile Safety Gloves Large          62 PAIR      50.40    3124.80) Tj
+T*
+(7   NUT-M8-ZN            M8 Zinc Hex Nut                     159 EA         4.05     643.95) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 173508.49) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001759 00000 n 
+0000001816 00000 n 
+0000001886 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1935
+%%EOF

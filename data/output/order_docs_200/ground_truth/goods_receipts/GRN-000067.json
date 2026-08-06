@@ -1,0 +1,53 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000067",
+    "lines": [
+      {
+        "item_id": "ITEM-055",
+        "line_number": "1",
+        "quantity_received": "102",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-033",
+        "line_number": "2",
+        "quantity_received": "127",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-059",
+        "line_number": "3",
+        "quantity_received": "31",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-039",
+        "line_number": "4",
+        "quantity_received": "64",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-026",
+        "line_number": "5",
+        "quantity_received": "101",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000067",
+    "receipt_date": "2026-03-13"
+  },
+  "grn_number": "GRN-000067",
+  "po_number": "PO-000067",
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "26756.74",
+    "printed_gross_total": null,
+    "subtotal": "22675.20",
+    "tax": "4081.54"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000162",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-07-20",
+    "grn_reference": "GRN-000162",
+    "invoice_date": "2026-06-20",
+    "po_reference": "PO-000162"
+  },
+  "invoice_number": "INV-000162",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-060",
+      "line_number": 1,
+      "line_total": "5359.20",
+      "quantity": "116.00",
+      "sku": "GLV-NIT-L-060",
+      "tax_rate": "0.18",
+      "unit_price": "46.20",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-027",
+      "line_number": 2,
+      "line_total": "17316.00",
+      "quantity": "78.00",
+      "sku": "BRG-6205-2RS-027",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-060",
+        "line_number": 1,
+        "line_total": "5359.20",
+        "quantity": "116.00",
+        "sku": "GLV-NIT-L-060",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-027",
+        "line_number": 2,
+        "line_total": "17316.00",
+        "quantity": "78.00",
+        "sku": "BRG-6205-2RS-027",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-06-12",
+    "po_number": "PO-000162",
+    "total_amount": "22675.20",
+    "vendor_id": "VEN-003"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

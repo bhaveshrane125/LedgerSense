@@ -1,0 +1,60 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000149",
+    "lines": [
+      {
+        "item_id": "ITEM-037",
+        "line_number": "1",
+        "quantity_received": "133",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-059",
+        "line_number": "2",
+        "quantity_received": "123",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-070",
+        "line_number": "3",
+        "quantity_received": "73",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-068",
+        "line_number": "4",
+        "quantity_received": "53",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-064",
+        "line_number": "5",
+        "quantity_received": "32",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-018",
+        "line_number": "6",
+        "quantity_received": "88",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000149",
+    "receipt_date": "2026-06-03"
+  },
+  "grn_number": "GRN-000149",
+  "po_number": "PO-000149",
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

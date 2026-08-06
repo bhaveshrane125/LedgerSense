@@ -1,0 +1,131 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "17563.18",
+    "printed_gross_total": null,
+    "subtotal": "14884.05",
+    "tax": "2679.13"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000028",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "MISSING_GRN"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-08",
+    "grn_reference": null,
+    "invoice_date": "2026-02-06",
+    "po_reference": "PO-000028"
+  },
+  "invoice_number": "INV-000028",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-036",
+      "line_number": 1,
+      "line_total": "3225.60",
+      "quantity": "64.00",
+      "sku": "GLV-NIT-L-036",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-057",
+      "line_number": 2,
+      "line_total": "766.50",
+      "quantity": "73.00",
+      "sku": "BLT-M8-040-ZN-057",
+      "tax_rate": "0.18",
+      "unit_price": "10.50",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-010",
+      "line_number": 3,
+      "line_total": "360.45",
+      "quantity": "89.00",
+      "sku": "NUT-M8-ZN-010",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-037",
+      "line_number": 4,
+      "line_total": "10531.50",
+      "quantity": "85.00",
+      "sku": "OIL-HYD-46-037",
+      "tax_rate": "0.18",
+      "unit_price": "123.90",
+      "uom": "LTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-036",
+        "line_number": 1,
+        "line_total": "3225.60",
+        "quantity": "64.00",
+        "sku": "GLV-NIT-L-036",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-057",
+        "line_number": 2,
+        "line_total": "766.50",
+        "quantity": "73.00",
+        "sku": "BLT-M8-040-ZN-057",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-010",
+        "line_number": 3,
+        "line_total": "360.45",
+        "quantity": "89.00",
+        "sku": "NUT-M8-ZN-010",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-037",
+        "line_number": 4,
+        "line_total": "10531.50",
+        "quantity": "85.00",
+        "sku": "OIL-HYD-46-037",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-01-29",
+    "po_number": "PO-000028",
+    "total_amount": "14884.05",
+    "vendor_id": "VEN-008"
+  },
+  "scenario": "MISSING_GRN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

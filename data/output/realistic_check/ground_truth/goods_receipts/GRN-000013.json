@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Material partially received; balance is pending vendor dispatch.",
+    "grn_number": "GRN-000013",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-009",
+        "item_id": "ITEM-009",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-009",
+        "ordered_sku": "BLT-M8-040-ZN-009",
+        "quantity_ordered": "142",
+        "quantity_received": "142",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-022",
+        "item_id": "ITEM-022",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-022",
+        "ordered_sku": "CBL-CU-2C-022",
+        "quantity_ordered": "37",
+        "quantity_received": "37",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-016",
+        "item_id": "ITEM-016",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-016",
+        "ordered_sku": "PKG-STRAP-16-016",
+        "quantity_ordered": "150",
+        "quantity_received": "150",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010",
+        "item_id": "ITEM-007",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-007",
+        "ordered_sku": "FLT-AIR-010",
+        "quantity_ordered": "151",
+        "quantity_received": "135",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 16 EA"
+      }
+    ],
+    "po_number": "PO-000013",
+    "receipt_date": "2026-01-18"
+  },
+  "grn_number": "GRN-000013",
+  "po_number": "PO-000013",
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

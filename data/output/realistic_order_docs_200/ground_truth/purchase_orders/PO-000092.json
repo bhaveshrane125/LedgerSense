@@ -1,0 +1,107 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000092",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-012",
+        "line_number": 1,
+        "line_total": "6652.80",
+        "quantity": "132.00",
+        "sku": "GLV-NIT-L-012",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 2,
+        "line_total": "11682.00",
+        "quantity": "99.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-058",
+        "line_number": 3,
+        "line_total": "345.60",
+        "quantity": "64.00",
+        "sku": "NUT-M8-ZN-058",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-045",
+        "line_number": 4,
+        "line_total": "12036.00",
+        "quantity": "102.00",
+        "sku": "OIL-HYD-46-045",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-004",
+        "line_number": 5,
+        "line_total": "1108.80",
+        "quantity": "24.00",
+        "sku": "GLV-NIT-L",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-054",
+        "line_number": 6,
+        "line_total": "7840.80",
+        "quantity": "99.00",
+        "sku": "CBL-CU-2C-054",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-007",
+        "line_number": 7,
+        "line_total": "47580.00",
+        "quantity": "61.00",
+        "sku": "FLT-AIR-010",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 8,
+        "line_total": "2442.00",
+        "quantity": "11.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-04-03",
+    "po_number": "PO-000092",
+    "total_amount": "89688.00",
+    "vendor_id": "VEN-003"
+  },
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

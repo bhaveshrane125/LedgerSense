@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000147",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C-070",
+        "item_id": "ITEM-070",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-070",
+        "ordered_sku": "CBL-CU-2C-070",
+        "quantity_ordered": "23",
+        "quantity_received": "23",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16",
+        "item_id": "ITEM-008",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-008",
+        "ordered_sku": "PKG-STRAP-16",
+        "quantity_ordered": "16",
+        "quantity_received": "16",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-068",
+        "item_id": "ITEM-068",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-068",
+        "ordered_sku": "GLV-NIT-L-068",
+        "quantity_ordered": "5",
+        "quantity_received": "5",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46",
+        "item_id": "ITEM-005",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-005",
+        "ordered_sku": "OIL-HYD-46",
+        "quantity_ordered": "109",
+        "quantity_received": "109",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000147",
+    "receipt_date": "2026-06-01"
+  },
+  "grn_number": "GRN-000147",
+  "po_number": "PO-000147",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

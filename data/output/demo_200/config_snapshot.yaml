@@ -1,0 +1,36 @@
+dataset:
+  name: ledgersense_synthetic_v1
+  pdf_count: 200
+  output_directory: output/demo_200
+  seed: 42
+
+master_data:
+  locale: en_IN
+  currency: INR
+  vendor_count: 15
+  item_count: 80
+
+invoice:
+  min_line_items: 1
+  max_line_items: 8
+  layouts:
+    - MODERN
+    - CLASSIC
+    - COMPACT
+    - INDUSTRIAL
+    - MINIMAL
+
+scenarios:
+  CLEAN: 0.35
+  PRICE_VARIANCE_OVER: 0.2
+  QTY_OVER_BILLED: 0.15
+  MISSING_GRN: 0.1
+  UOM_MISMATCH: 0.1
+  DUPLICATE_CONFIRMED: 0.05
+  ARITHMETIC_ERROR: 0.05
+
+rendering:
+  add_noise: false
+  add_rotation: false
+  render_po_pdfs: false
+  render_grn_pdfs: false

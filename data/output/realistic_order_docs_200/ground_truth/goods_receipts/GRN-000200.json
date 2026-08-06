@@ -1,0 +1,83 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Material partially received; balance is pending vendor dispatch.",
+    "grn_number": "GRN-000200",
+    "lines": [
+      {
+        "delivered_sku": "GLV-NIT-L-068",
+        "item_id": "ITEM-068",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-068",
+        "ordered_sku": "GLV-NIT-L-068",
+        "quantity_ordered": "40",
+        "quantity_received": "40",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-031",
+        "item_id": "ITEM-031",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-031",
+        "ordered_sku": "FLT-AIR-010-031",
+        "quantity_ordered": "75",
+        "quantity_received": "75",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-054",
+        "item_id": "ITEM-054",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-054",
+        "ordered_sku": "CBL-CU-2C-054",
+        "quantity_ordered": "27",
+        "quantity_received": "27",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-063",
+        "item_id": "ITEM-063",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-063",
+        "ordered_sku": "FLT-AIR-010-063",
+        "quantity_ordered": "15",
+        "quantity_received": "15",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16",
+        "item_id": "ITEM-008",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-008",
+        "ordered_sku": "PKG-STRAP-16",
+        "quantity_ordered": "63",
+        "quantity_received": "49",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "ROLL",
+        "variance_note": "Short received by 14 ROLL"
+      }
+    ],
+    "po_number": "PO-000200",
+    "receipt_date": "2026-01-25"
+  },
+  "grn_number": "GRN-000200",
+  "po_number": "PO-000200",
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

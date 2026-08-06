@@ -1,0 +1,109 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "9929.70",
+    "printed_gross_total": null,
+    "subtotal": "8415.00",
+    "tax": "1514.70"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000029",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "UOM_MISMATCH"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-09",
+    "grn_reference": "GRN-000029",
+    "invoice_date": "2026-02-07",
+    "po_reference": "PO-000029"
+  },
+  "invoice_number": "INV-000029",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-030",
+      "line_number": 1,
+      "line_total": "4176.00",
+      "quantity": "58.00",
+      "sku": "CBL-CU-2C-030",
+      "tax_rate": "0.18",
+      "unit_price": "72.00",
+      "uom": "ALT"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-050",
+      "line_number": 2,
+      "line_total": "81.00",
+      "quantity": "20.00",
+      "sku": "NUT-M8-ZN-050",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-020",
+      "line_number": 3,
+      "line_total": "4158.00",
+      "quantity": "110.00",
+      "sku": "GLV-NIT-L-020",
+      "tax_rate": "0.18",
+      "unit_price": "37.80",
+      "uom": "PAIR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-030",
+        "line_number": 1,
+        "line_total": "4176.00",
+        "quantity": "58.00",
+        "sku": "CBL-CU-2C-030",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-050",
+        "line_number": 2,
+        "line_total": "81.00",
+        "quantity": "20.00",
+        "sku": "NUT-M8-ZN-050",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 3,
+        "line_total": "4158.00",
+        "quantity": "110.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-01-30",
+    "po_number": "PO-000029",
+    "total_amount": "8415.00",
+    "vendor_id": "VEN-003"
+  },
+  "scenario": "UOM_MISMATCH",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

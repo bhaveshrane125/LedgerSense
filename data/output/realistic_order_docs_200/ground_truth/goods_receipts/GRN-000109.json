@@ -1,0 +1,109 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000109",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-073",
+        "item_id": "ITEM-073",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-073",
+        "ordered_sku": "BLT-M8-040-ZN-073",
+        "quantity_ordered": "57",
+        "quantity_received": "57",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C",
+        "item_id": "ITEM-006",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-006",
+        "ordered_sku": "CBL-CU-2C",
+        "quantity_ordered": "150",
+        "quantity_received": "150",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L",
+        "item_id": "ITEM-004",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-004",
+        "ordered_sku": "GLV-NIT-L",
+        "quantity_ordered": "110",
+        "quantity_received": "110",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-011",
+        "item_id": "ITEM-011",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-011",
+        "ordered_sku": "BRG-6205-2RS-011",
+        "quantity_ordered": "11",
+        "quantity_received": "11",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-079",
+        "item_id": "ITEM-079",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-079",
+        "ordered_sku": "FLT-AIR-010-079",
+        "quantity_ordered": "131",
+        "quantity_received": "131",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-074",
+        "item_id": "ITEM-074",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-074",
+        "ordered_sku": "NUT-M8-ZN-074",
+        "quantity_ordered": "143",
+        "quantity_received": "143",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-034",
+        "item_id": "ITEM-034",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-034",
+        "ordered_sku": "NUT-M8-ZN-034",
+        "quantity_ordered": "78",
+        "quantity_received": "78",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000109",
+    "receipt_date": "2026-04-24"
+  },
+  "grn_number": "GRN-000109",
+  "po_number": "PO-000109",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

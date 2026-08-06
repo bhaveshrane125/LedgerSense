@@ -1,0 +1,30 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000166",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-045",
+        "line_number": 1,
+        "line_total": "11918.00",
+        "quantity": "101.00",
+        "sku": "OIL-HYD-46-045",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-06-16",
+    "po_number": "PO-000166",
+    "total_amount": "11918.00",
+    "vendor_id": "VEN-008"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

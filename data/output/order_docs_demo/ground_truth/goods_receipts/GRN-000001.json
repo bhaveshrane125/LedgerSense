@@ -1,0 +1,46 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000001",
+    "lines": [
+      {
+        "item_id": "ITEM-006",
+        "line_number": "1",
+        "quantity_received": "146",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-015",
+        "line_number": "2",
+        "quantity_received": "60",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-013",
+        "line_number": "3",
+        "quantity_received": "87",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-009",
+        "line_number": "4",
+        "quantity_received": "18",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000001",
+    "receipt_date": "2026-01-06"
+  },
+  "grn_number": "GRN-000001",
+  "po_number": "PO-000001",
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

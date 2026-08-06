@@ -1,0 +1,219 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "78058.32",
+    "printed_gross_total": null,
+    "subtotal": "66151.12",
+    "tax": "11907.20"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000139",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "MISSING_GRN"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-06-27",
+    "grn_reference": null,
+    "invoice_date": "2026-05-28",
+    "po_reference": "PO-000139"
+  },
+  "invoice_number": "INV-000139",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-020",
+      "line_number": 1,
+      "line_total": "3024.00",
+      "quantity": "80.00",
+      "sku": "GLV-NIT-L-020",
+      "tax_rate": "0.18",
+      "unit_price": "37.80",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-078",
+      "line_number": 2,
+      "line_total": "11160.00",
+      "quantity": "155.00",
+      "sku": "CBL-CU-2C-078",
+      "tax_rate": "0.18",
+      "unit_price": "72.00",
+      "uom": "MTR"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-066",
+      "line_number": 3,
+      "line_total": "425.70",
+      "quantity": "90.00",
+      "sku": "NUT-M8-ZN-066",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-018",
+      "line_number": 4,
+      "line_total": "598.50",
+      "quantity": "133.00",
+      "sku": "NUT-M8-ZN-018",
+      "tax_rate": "0.18",
+      "unit_price": "4.50",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-042",
+      "line_number": 5,
+      "line_total": "633.82",
+      "quantity": "134.00",
+      "sku": "NUT-M8-ZN-042",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-041",
+      "line_number": 6,
+      "line_total": "1470.00",
+      "quantity": "140.00",
+      "sku": "BLT-M8-040-ZN-041",
+      "tax_rate": "0.18",
+      "unit_price": "10.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-021",
+      "line_number": 7,
+      "line_total": "15983.10",
+      "quantity": "129.00",
+      "sku": "OIL-HYD-46-021",
+      "tax_rate": "0.18",
+      "unit_price": "123.90",
+      "uom": "LTR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-051",
+      "line_number": 8,
+      "line_total": "32856.00",
+      "quantity": "148.00",
+      "sku": "BRG-6205-2RS-051",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 1,
+        "line_total": "3024.00",
+        "quantity": "80.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-078",
+        "line_number": 2,
+        "line_total": "11160.00",
+        "quantity": "155.00",
+        "sku": "CBL-CU-2C-078",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-066",
+        "line_number": 3,
+        "line_total": "425.70",
+        "quantity": "90.00",
+        "sku": "NUT-M8-ZN-066",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 4,
+        "line_total": "598.50",
+        "quantity": "133.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-042",
+        "line_number": 5,
+        "line_total": "633.82",
+        "quantity": "134.00",
+        "sku": "NUT-M8-ZN-042",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-041",
+        "line_number": 6,
+        "line_total": "1470.00",
+        "quantity": "140.00",
+        "sku": "BLT-M8-040-ZN-041",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-021",
+        "line_number": 7,
+        "line_total": "15983.10",
+        "quantity": "129.00",
+        "sku": "OIL-HYD-46-021",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 8,
+        "line_total": "32856.00",
+        "quantity": "148.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-20",
+    "po_number": "PO-000139",
+    "total_amount": "66151.12",
+    "vendor_id": "VEN-009"
+  },
+  "scenario": "MISSING_GRN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Saffron Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0009Z4",
+    "vendor_id": "VEN-009"
+  }
+}

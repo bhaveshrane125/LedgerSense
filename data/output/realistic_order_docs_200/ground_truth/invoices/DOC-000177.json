@@ -1,0 +1,85 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "758.27",
+    "printed_gross_total": null,
+    "subtotal": "642.60",
+    "tax": "115.67"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000177",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-08-04",
+    "grn_reference": "GRN-000177",
+    "invoice_date": "2026-07-05",
+    "po_reference": "PO-000177"
+  },
+  "invoice_number": "INV-000177",
+  "layout": "CLASSIC",
+  "line_items": [
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-058",
+      "line_number": 1,
+      "line_total": "502.20",
+      "quantity": "93.00",
+      "sku": "NUT-M8-ZN-058",
+      "tax_rate": "0.18",
+      "unit_price": "5.40",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-034",
+      "line_number": 2,
+      "line_total": "140.40",
+      "quantity": "26.00",
+      "sku": "NUT-M8-ZN-034",
+      "tax_rate": "0.18",
+      "unit_price": "5.40",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-058",
+        "line_number": 1,
+        "line_total": "502.20",
+        "quantity": "93.00",
+        "sku": "NUT-M8-ZN-058",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-034",
+        "line_number": 2,
+        "line_total": "140.40",
+        "quantity": "26.00",
+        "sku": "NUT-M8-ZN-034",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-06-27",
+    "po_number": "PO-000177",
+    "total_amount": "642.60",
+    "vendor_id": "VEN-005"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "16340.64",
+    "printed_gross_total": null,
+    "subtotal": "13848.00",
+    "tax": "2492.64"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000077",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-04-26",
+    "grn_reference": "GRN-000077",
+    "invoice_date": "2026-03-27",
+    "po_reference": "PO-000077"
+  },
+  "invoice_number": "INV-000077",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-001",
+      "line_number": 1,
+      "line_total": "972.00",
+      "quantity": "81.00",
+      "sku": "BLT-M8-040-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "12.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-027",
+      "line_number": 2,
+      "line_total": "12876.00",
+      "quantity": "58.00",
+      "sku": "BRG-6205-2RS-027",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-001",
+        "line_number": 1,
+        "line_total": "972.00",
+        "quantity": "81.00",
+        "sku": "BLT-M8-040-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-027",
+        "line_number": 2,
+        "line_total": "12876.00",
+        "quantity": "58.00",
+        "sku": "BRG-6205-2RS-027",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-19",
+    "po_number": "PO-000077",
+    "total_amount": "13848.00",
+    "vendor_id": "VEN-010"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

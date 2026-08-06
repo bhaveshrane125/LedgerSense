@@ -1,0 +1,63 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "8130.67",
+    "printed_gross_total": null,
+    "subtotal": "6890.40",
+    "tax": "1240.27"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000063",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-04-12",
+    "grn_reference": "GRN-000063",
+    "invoice_date": "2026-03-13",
+    "po_reference": "PO-000063"
+  },
+  "invoice_number": "INV-000063",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-006",
+      "line_number": 1,
+      "line_total": "6890.40",
+      "quantity": "87.00",
+      "sku": "CBL-CU-2C",
+      "tax_rate": "0.18",
+      "unit_price": "79.20",
+      "uom": "MTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-006",
+        "line_number": 1,
+        "line_total": "6890.40",
+        "quantity": "87.00",
+        "sku": "CBL-CU-2C",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      }
+    ],
+    "po_date": "2026-03-05",
+    "po_number": "PO-000063",
+    "total_amount": "6890.40",
+    "vendor_id": "VEN-015"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

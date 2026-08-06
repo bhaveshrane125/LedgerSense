@@ -1,0 +1,122 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000033",
+    "lines": [
+      {
+        "delivered_sku": "GLV-NIT-L-044",
+        "item_id": "ITEM-044",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-044",
+        "ordered_sku": "GLV-NIT-L-044",
+        "quantity_ordered": "70",
+        "quantity_received": "70",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L",
+        "item_id": "ITEM-004",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-004",
+        "ordered_sku": "GLV-NIT-L",
+        "quantity_ordered": "91",
+        "quantity_received": "91",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-064",
+        "item_id": "ITEM-064",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-064",
+        "ordered_sku": "PKG-STRAP-16-064",
+        "quantity_ordered": "75",
+        "quantity_received": "75",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-042",
+        "item_id": "ITEM-042",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-042",
+        "ordered_sku": "NUT-M8-ZN-042",
+        "quantity_ordered": "156",
+        "quantity_received": "156",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-024",
+        "item_id": "ITEM-024",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-024",
+        "ordered_sku": "PKG-STRAP-16-024",
+        "quantity_ordered": "74",
+        "quantity_received": "74",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-063",
+        "item_id": "ITEM-063",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-063",
+        "ordered_sku": "FLT-AIR-010-063",
+        "quantity_ordered": "146",
+        "quantity_received": "146",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-028",
+        "item_id": "ITEM-028",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-028",
+        "ordered_sku": "GLV-NIT-L-028",
+        "quantity_ordered": "6",
+        "quantity_received": "6",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-046",
+        "item_id": "ITEM-046",
+        "line_number": "8",
+        "ordered_item_id": "ITEM-046",
+        "ordered_sku": "CBL-CU-2C-046",
+        "quantity_ordered": "136",
+        "quantity_received": "136",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000033",
+    "receipt_date": "2026-02-07"
+  },
+  "grn_number": "GRN-000033",
+  "po_number": "PO-000033",
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

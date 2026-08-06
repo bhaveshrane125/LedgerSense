@@ -1,0 +1,241 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "128845.00",
+    "printed_gross_total": null,
+    "subtotal": "109190.68",
+    "tax": "19654.32"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000123",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "PRICE_VARIANCE_OVER"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-06-11",
+    "grn_reference": "GRN-000123",
+    "invoice_date": "2026-05-12",
+    "po_reference": "PO-000123"
+  },
+  "invoice_number": "INV-000123",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-033",
+      "line_number": 1,
+      "line_total": "390.60",
+      "quantity": "31.00",
+      "sku": "BLT-M8-040-ZN-033",
+      "tax_rate": "0.18",
+      "unit_price": "12.60",
+      "uom": "EA"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-062",
+      "line_number": 2,
+      "line_total": "13305.60",
+      "quantity": "154.00",
+      "sku": "CBL-CU-2C-062",
+      "tax_rate": "0.18",
+      "unit_price": "86.40",
+      "uom": "MTR"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-028",
+      "line_number": 3,
+      "line_total": "3276.00",
+      "quantity": "65.00",
+      "sku": "GLV-NIT-L-028",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-026",
+      "line_number": 4,
+      "line_total": "312.18",
+      "quantity": "66.00",
+      "sku": "NUT-M8-ZN-026",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-069",
+      "line_number": 5,
+      "line_total": "2076.80",
+      "quantity": "16.00",
+      "sku": "OIL-HYD-46-069",
+      "tax_rate": "0.18",
+      "unit_price": "129.80",
+      "uom": "LTR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-035",
+      "line_number": 6,
+      "line_total": "23143.50",
+      "quantity": "139.00",
+      "sku": "BRG-6205-2RS-035",
+      "tax_rate": "0.18",
+      "unit_price": "166.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-072",
+      "line_number": 7,
+      "line_total": "56120.00",
+      "quantity": "61.00",
+      "sku": "PKG-STRAP-16-072",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-075",
+      "line_number": 8,
+      "line_total": "10489.50",
+      "quantity": "63.00",
+      "sku": "BRG-6205-2RS-075",
+      "tax_rate": "0.18",
+      "unit_price": "166.50",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-018",
+      "line_number": 9,
+      "line_total": "76.50",
+      "quantity": "17.00",
+      "sku": "NUT-M8-ZN-018",
+      "tax_rate": "0.18",
+      "unit_price": "4.50",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-033",
+        "line_number": 1,
+        "line_total": "372.00",
+        "quantity": "31.00",
+        "sku": "BLT-M8-040-ZN-033",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-062",
+        "line_number": 2,
+        "line_total": "13305.60",
+        "quantity": "154.00",
+        "sku": "CBL-CU-2C-062",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-028",
+        "line_number": 3,
+        "line_total": "3276.00",
+        "quantity": "65.00",
+        "sku": "GLV-NIT-L-028",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 4,
+        "line_total": "312.18",
+        "quantity": "66.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-069",
+        "line_number": 5,
+        "line_total": "2076.80",
+        "quantity": "16.00",
+        "sku": "OIL-HYD-46-069",
+        "tax_rate": "0.18",
+        "unit_price": "129.80",
+        "uom": "LTR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 6,
+        "line_total": "23143.50",
+        "quantity": "139.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-072",
+        "line_number": 7,
+        "line_total": "56120.00",
+        "quantity": "61.00",
+        "sku": "PKG-STRAP-16-072",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-075",
+        "line_number": 8,
+        "line_total": "10489.50",
+        "quantity": "63.00",
+        "sku": "BRG-6205-2RS-075",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 9,
+        "line_total": "76.50",
+        "quantity": "17.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-04",
+    "po_number": "PO-000123",
+    "total_amount": "109172.08",
+    "vendor_id": "VEN-006"
+  },
+  "scenario": "PRICE_VARIANCE_OVER",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

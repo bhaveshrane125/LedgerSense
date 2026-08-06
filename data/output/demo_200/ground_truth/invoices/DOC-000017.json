@@ -1,0 +1,63 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "1125.72",
+    "printed_gross_total": null,
+    "subtotal": "954.00",
+    "tax": "171.72"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000017",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-25",
+    "grn_reference": "GRN-000017",
+    "invoice_date": "2026-01-26",
+    "po_reference": "PO-000017"
+  },
+  "invoice_number": "INV-000017",
+  "layout": "CLASSIC",
+  "line_items": [
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-025",
+      "line_number": 1,
+      "line_total": "954.00",
+      "quantity": "106.00",
+      "sku": "BLT-M8-040-ZN-025",
+      "tax_rate": "0.18",
+      "unit_price": "9.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-025",
+        "line_number": 1,
+        "line_total": "954.00",
+        "quantity": "106.00",
+        "sku": "BLT-M8-040-ZN-025",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-18",
+    "po_number": "PO-000017",
+    "total_amount": "954.00",
+    "vendor_id": "VEN-004"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

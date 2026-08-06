@@ -1,0 +1,153 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "56712.28",
+    "printed_gross_total": null,
+    "subtotal": "48061.25",
+    "tax": "8651.03"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000068",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-04-17",
+    "grn_reference": "GRN-000068",
+    "invoice_date": "2026-03-18",
+    "po_reference": "PO-000068"
+  },
+  "invoice_number": "INV-000068",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-003",
+      "line_number": 1,
+      "line_total": "5291.00",
+      "quantity": "26.00",
+      "sku": "BRG-6205-2RS",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-051",
+      "line_number": 2,
+      "line_total": "35298.00",
+      "quantity": "159.00",
+      "sku": "BRG-6205-2RS-051",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-036",
+      "line_number": 3,
+      "line_total": "6602.40",
+      "quantity": "131.00",
+      "sku": "GLV-NIT-L-036",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-002",
+      "line_number": 4,
+      "line_total": "311.85",
+      "quantity": "77.00",
+      "sku": "NUT-M8-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-073",
+      "line_number": 5,
+      "line_total": "558.00",
+      "quantity": "62.00",
+      "sku": "BLT-M8-040-ZN-073",
+      "tax_rate": "0.18",
+      "unit_price": "9.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 1,
+        "line_total": "3256.00",
+        "quantity": "16.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 2,
+        "line_total": "35298.00",
+        "quantity": "159.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-036",
+        "line_number": 3,
+        "line_total": "6602.40",
+        "quantity": "131.00",
+        "sku": "GLV-NIT-L-036",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 4,
+        "line_total": "311.85",
+        "quantity": "77.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-073",
+        "line_number": 5,
+        "line_total": "558.00",
+        "quantity": "62.00",
+        "sku": "BLT-M8-040-ZN-073",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-10",
+    "po_number": "PO-000068",
+    "total_amount": "46026.25",
+    "vendor_id": "VEN-005"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

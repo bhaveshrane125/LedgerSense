@@ -1,0 +1,96 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000137",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-007",
+        "line_number": 1,
+        "line_total": "17160.00",
+        "quantity": "22.00",
+        "sku": "FLT-AIR-010",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-073",
+        "line_number": 2,
+        "line_total": "918.00",
+        "quantity": "102.00",
+        "sku": "BLT-M8-040-ZN-073",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-072",
+        "line_number": 3,
+        "line_total": "122360.00",
+        "quantity": "133.00",
+        "sku": "PKG-STRAP-16-072",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-025",
+        "line_number": 4,
+        "line_total": "1071.00",
+        "quantity": "119.00",
+        "sku": "BLT-M8-040-ZN-025",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-047",
+        "line_number": 5,
+        "line_total": "84240.00",
+        "quantity": "144.00",
+        "sku": "FLT-AIR-010-047",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-071",
+        "line_number": 6,
+        "line_total": "48750.00",
+        "quantity": "75.00",
+        "sku": "FLT-AIR-010-071",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-037",
+        "line_number": 7,
+        "line_total": "19824.00",
+        "quantity": "160.00",
+        "sku": "OIL-HYD-46-037",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-05-18",
+    "po_number": "PO-000137",
+    "total_amount": "294323.00",
+    "vendor_id": "VEN-001"
+  },
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

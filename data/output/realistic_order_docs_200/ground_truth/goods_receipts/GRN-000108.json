@@ -1,0 +1,96 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000108",
+    "lines": [
+      {
+        "delivered_sku": "BRG-6205-2RS-011",
+        "item_id": "ITEM-011",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-011",
+        "ordered_sku": "BRG-6205-2RS-011",
+        "quantity_ordered": "81",
+        "quantity_received": "81",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-033",
+        "item_id": "ITEM-033",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-033",
+        "ordered_sku": "BLT-M8-040-ZN-033",
+        "quantity_ordered": "140",
+        "quantity_received": "140",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-026",
+        "item_id": "ITEM-026",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-026",
+        "ordered_sku": "NUT-M8-ZN-026",
+        "quantity_ordered": "27",
+        "quantity_received": "27",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-071",
+        "item_id": "ITEM-071",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-071",
+        "ordered_sku": "FLT-AIR-010-071",
+        "quantity_ordered": "132",
+        "quantity_received": "132",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-036",
+        "item_id": "ITEM-036",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-036",
+        "ordered_sku": "GLV-NIT-L-036",
+        "quantity_ordered": "47",
+        "quantity_received": "47",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-017",
+        "item_id": "ITEM-017",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-017",
+        "ordered_sku": "BLT-M8-040-ZN-017",
+        "quantity_ordered": "155",
+        "quantity_received": "155",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000108",
+    "receipt_date": "2026-04-23"
+  },
+  "grn_number": "GRN-000108",
+  "po_number": "PO-000108",
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

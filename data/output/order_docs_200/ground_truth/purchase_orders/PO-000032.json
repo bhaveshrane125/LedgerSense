@@ -1,0 +1,85 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000032",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-028",
+        "line_number": 1,
+        "line_total": "5594.40",
+        "quantity": "111.00",
+        "sku": "GLV-NIT-L-028",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 2,
+        "line_total": "15096.00",
+        "quantity": "68.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-042",
+        "line_number": 3,
+        "line_total": "113.52",
+        "quantity": "24.00",
+        "sku": "NUT-M8-ZN-042",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-044",
+        "line_number": 4,
+        "line_total": "4687.20",
+        "quantity": "124.00",
+        "sku": "GLV-NIT-L-044",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-049",
+        "line_number": 5,
+        "line_total": "88.00",
+        "quantity": "8.00",
+        "sku": "BLT-M8-040-ZN-049",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-036",
+        "line_number": 6,
+        "line_total": "7156.80",
+        "quantity": "142.00",
+        "sku": "GLV-NIT-L-036",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-02-02",
+    "po_number": "PO-000032",
+    "total_amount": "32735.92",
+    "vendor_id": "VEN-007"
+  },
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0007Z4",
+    "vendor_id": "VEN-007"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "18492.61",
+    "printed_gross_total": null,
+    "subtotal": "15671.70",
+    "tax": "2820.91"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000026",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-06",
+    "grn_reference": "GRN-000026",
+    "invoice_date": "2026-02-04",
+    "po_reference": "PO-000026"
+  },
+  "invoice_number": "INV-000026",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-014",
+      "line_number": 1,
+      "line_total": "5313.60",
+      "quantity": "82.00",
+      "sku": "CBL-CU-2C-014",
+      "tax_rate": "0.18",
+      "unit_price": "64.80",
+      "uom": "MTR"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-005",
+      "line_number": 2,
+      "line_total": "10301.40",
+      "quantity": "97.00",
+      "sku": "OIL-HYD-46",
+      "tax_rate": "0.18",
+      "unit_price": "106.20",
+      "uom": "LTR"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-002",
+      "line_number": 3,
+      "line_total": "56.70",
+      "quantity": "14.00",
+      "sku": "NUT-M8-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-014",
+        "line_number": 1,
+        "line_total": "5313.60",
+        "quantity": "82.00",
+        "sku": "CBL-CU-2C-014",
+        "tax_rate": "0.18",
+        "unit_price": "64.80",
+        "uom": "MTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-005",
+        "line_number": 2,
+        "line_total": "10301.40",
+        "quantity": "97.00",
+        "sku": "OIL-HYD-46",
+        "tax_rate": "0.18",
+        "unit_price": "106.20",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 3,
+        "line_total": "56.70",
+        "quantity": "14.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-27",
+    "po_number": "PO-000026",
+    "total_amount": "15671.70",
+    "vendor_id": "VEN-005"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

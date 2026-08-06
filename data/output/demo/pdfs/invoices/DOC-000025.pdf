@@ -1,0 +1,81 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1335 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Nila Industrial Supplies Pvt Ltd \(VEN-001\)) Tj
+T*
+(Tax ID: 99SYNTH0001Z5) Tj
+T*
+(Address: 260 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Invoice No: INV-000025    Document: DOC-000025) Tj
+T*
+(Invoice Date: 2026-02-03    Due Date: 2026-03-05) Tj
+T*
+(PO: PO-000025    GRN: MISSING) Tj
+T*
+(Currency: INR    Scenario: MISSING_GRN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   BRG-6205-2RS         Sealed Ball Bearing 6205             42 EA       203.50    8547.00) Tj
+T*
+(2   OIL-HYD-46-029       Hydraulic Oil ISO VG 46             143 LTR      123.90   17717.70) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 26264.70) Tj
+T*
+(Tax: INR 4727.65) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 30992.35) Tj
+T*
+(Calculated Gross Total: INR 30992.35) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001522 00000 n 
+0000001579 00000 n 
+0000001649 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1698
+%%EOF

@@ -1,0 +1,30 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000115",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-046",
+        "line_number": 1,
+        "line_total": "12355.20",
+        "quantity": "143.00",
+        "sku": "CBL-CU-2C-046",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      }
+    ],
+    "po_date": "2026-04-26",
+    "po_number": "PO-000115",
+    "total_amount": "12355.20",
+    "vendor_id": "VEN-003"
+  },
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

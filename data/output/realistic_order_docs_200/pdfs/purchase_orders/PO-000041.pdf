@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1471 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000041    PO Date: 2026-02-11) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Tax ID: 99SYNTH0005Z7    Payment Terms: NET 30) Tj
+T*
+(Address: 109 Test Estate, Pune, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   BRG-6205-2RS-059     Sealed Ball Bearing 6205            112 EA       222.00   24864.00) Tj
+T*
+(2   NUT-M8-ZN-010        M8 Zinc Hex Nut                      33 EA         4.05     133.65) Tj
+T*
+(3   CBL-CU-2C-030        Copper Control Cable 2 Core         143 MTR       72.00   10296.00) Tj
+T*
+(4   NUT-M8-ZN-034        M8 Zinc Hex Nut                      61 EA         5.40     329.40) Tj
+T*
+(5   GLV-NIT-L-076        Nitrile Safety Gloves Large          42 PAIR      50.40    2116.80) Tj
+T*
+(6   NUT-M8-ZN-026        M8 Zinc Hex Nut                      72 EA         4.73     340.56) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 38080.41) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001658 00000 n 
+0000001715 00000 n 
+0000001785 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1834
+%%EOF

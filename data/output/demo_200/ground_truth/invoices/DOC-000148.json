@@ -1,0 +1,63 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "382.32",
+    "printed_gross_total": null,
+    "subtotal": "324.00",
+    "tax": "58.32"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000148",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-07-06",
+    "grn_reference": "GRN-000148",
+    "invoice_date": "2026-06-06",
+    "po_reference": "PO-000148"
+  },
+  "invoice_number": "INV-000148",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-002",
+      "line_number": 1,
+      "line_total": "324.00",
+      "quantity": "80.00",
+      "sku": "NUT-M8-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 1,
+        "line_total": "324.00",
+        "quantity": "80.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-29",
+    "po_number": "PO-000148",
+    "total_amount": "324.00",
+    "vendor_id": "VEN-015"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

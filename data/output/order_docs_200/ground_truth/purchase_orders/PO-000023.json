@@ -1,0 +1,85 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000023",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-060",
+        "line_number": 1,
+        "line_total": "2171.40",
+        "quantity": "47.00",
+        "sku": "GLV-NIT-L-060",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-057",
+        "line_number": 2,
+        "line_total": "262.50",
+        "quantity": "25.00",
+        "sku": "BLT-M8-040-ZN-057",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-079",
+        "line_number": 3,
+        "line_total": "59280.00",
+        "quantity": "76.00",
+        "sku": "FLT-AIR-010-079",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-028",
+        "line_number": 4,
+        "line_total": "6804.00",
+        "quantity": "135.00",
+        "sku": "GLV-NIT-L-028",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-066",
+        "line_number": 5,
+        "line_total": "420.97",
+        "quantity": "89.00",
+        "sku": "NUT-M8-ZN-066",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-061",
+        "line_number": 6,
+        "line_total": "3186.00",
+        "quantity": "27.00",
+        "sku": "OIL-HYD-46-061",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-01-24",
+    "po_number": "PO-000023",
+    "total_amount": "72124.87",
+    "vendor_id": "VEN-010"
+  },
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

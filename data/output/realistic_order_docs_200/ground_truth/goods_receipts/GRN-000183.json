@@ -1,0 +1,83 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000183",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-017",
+        "item_id": "ITEM-017",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-017",
+        "ordered_sku": "BLT-M8-040-ZN-017",
+        "quantity_ordered": "96",
+        "quantity_received": "70",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 26 EA"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-039",
+        "item_id": "ITEM-039",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-039",
+        "ordered_sku": "FLT-AIR-010-039",
+        "quantity_ordered": "68",
+        "quantity_received": "68",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-021",
+        "item_id": "ITEM-021",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-021",
+        "ordered_sku": "OIL-HYD-46-021",
+        "quantity_ordered": "25",
+        "quantity_received": "25",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-036",
+        "item_id": "ITEM-036",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-036",
+        "ordered_sku": "GLV-NIT-L-036",
+        "quantity_ordered": "99",
+        "quantity_received": "99",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-012",
+        "item_id": "ITEM-012",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-012",
+        "ordered_sku": "GLV-NIT-L-012",
+        "quantity_ordered": "46",
+        "quantity_received": "46",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000183",
+    "receipt_date": "2026-01-08"
+  },
+  "grn_number": "GRN-000183",
+  "po_number": "PO-000183",
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0007Z4",
+    "vendor_id": "VEN-007"
+  }
+}

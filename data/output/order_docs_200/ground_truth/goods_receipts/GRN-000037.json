@@ -1,0 +1,60 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000037",
+    "lines": [
+      {
+        "item_id": "ITEM-002",
+        "line_number": "1",
+        "quantity_received": "121",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-054",
+        "line_number": "2",
+        "quantity_received": "43",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-063",
+        "line_number": "3",
+        "quantity_received": "115",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "4",
+        "quantity_received": "49",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-056",
+        "line_number": "5",
+        "quantity_received": "137",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-047",
+        "line_number": "6",
+        "quantity_received": "73",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000037",
+    "receipt_date": "2026-02-11"
+  },
+  "grn_number": "GRN-000037",
+  "po_number": "PO-000037",
+  "vendor": {
+    "name": "Saffron Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0009Z4",
+    "vendor_id": "VEN-009"
+  }
+}

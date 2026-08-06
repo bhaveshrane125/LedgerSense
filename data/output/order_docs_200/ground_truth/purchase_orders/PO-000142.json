@@ -1,0 +1,52 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000142",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-067",
+        "line_number": 1,
+        "line_total": "17704.50",
+        "quantity": "87.00",
+        "sku": "BRG-6205-2RS-067",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-027",
+        "line_number": 2,
+        "line_total": "27972.00",
+        "quantity": "126.00",
+        "sku": "BRG-6205-2RS-027",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-072",
+        "line_number": 3,
+        "line_total": "126960.00",
+        "quantity": "138.00",
+        "sku": "PKG-STRAP-16-072",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-05-23",
+    "po_number": "PO-000142",
+    "total_amount": "172636.50",
+    "vendor_id": "VEN-012"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 45",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

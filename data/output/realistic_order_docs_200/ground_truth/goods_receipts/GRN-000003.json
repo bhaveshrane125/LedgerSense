@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000003",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-013",
+        "item_id": "ITEM-013",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-013",
+        "ordered_sku": "OIL-HYD-46-013",
+        "quantity_ordered": "107",
+        "quantity_received": "107",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16",
+        "item_id": "ITEM-008",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-008",
+        "ordered_sku": "PKG-STRAP-16",
+        "quantity_ordered": "90",
+        "quantity_received": "90",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000003",
+    "receipt_date": "2026-01-08"
+  },
+  "grn_number": "GRN-000003",
+  "po_number": "PO-000003",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

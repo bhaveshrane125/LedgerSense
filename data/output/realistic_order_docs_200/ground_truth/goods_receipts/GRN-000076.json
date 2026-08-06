@@ -1,0 +1,57 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000076",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-045",
+        "item_id": "ITEM-045",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-045",
+        "ordered_sku": "OIL-HYD-46-045",
+        "quantity_ordered": "76",
+        "quantity_received": "76",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-056",
+        "item_id": "ITEM-056",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-056",
+        "ordered_sku": "PKG-STRAP-16-056",
+        "quantity_ordered": "155",
+        "quantity_received": "155",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-015",
+        "item_id": "ITEM-015",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-015",
+        "ordered_sku": "FLT-AIR-010-015",
+        "quantity_ordered": "128",
+        "quantity_received": "108",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 20 EA"
+      }
+    ],
+    "po_number": "PO-000076",
+    "receipt_date": "2026-03-22"
+  },
+  "grn_number": "GRN-000076",
+  "po_number": "PO-000076",
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

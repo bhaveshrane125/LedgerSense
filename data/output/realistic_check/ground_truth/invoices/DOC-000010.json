@@ -1,0 +1,109 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "81845.45",
+    "printed_gross_total": null,
+    "subtotal": "69360.55",
+    "tax": "12484.90"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000010",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "ITEMS_MISSING"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-18",
+    "grn_reference": "GRN-000010",
+    "invoice_date": "2026-01-19",
+    "po_reference": "PO-000010"
+  },
+  "invoice_number": "INV-000010",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-022",
+      "line_number": 1,
+      "line_total": "3477.60",
+      "quantity": "46.00",
+      "sku": "CBL-CU-2C-022",
+      "tax_rate": "0.18",
+      "unit_price": "75.60",
+      "uom": "MTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-016",
+      "line_number": 2,
+      "line_total": "65320.00",
+      "quantity": "71.00",
+      "sku": "PKG-STRAP-16-016",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-018",
+      "line_number": 3,
+      "line_total": "562.95",
+      "quantity": "139.00",
+      "sku": "NUT-M8-ZN-018",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-022",
+        "line_number": 1,
+        "line_total": "3477.60",
+        "quantity": "46.00",
+        "sku": "CBL-CU-2C-022",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-016",
+        "line_number": 2,
+        "line_total": "65320.00",
+        "quantity": "71.00",
+        "sku": "PKG-STRAP-16-016",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 3,
+        "line_total": "562.95",
+        "quantity": "139.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-11",
+    "po_number": "PO-000010",
+    "total_amount": "69360.55",
+    "vendor_id": "VEN-002"
+  },
+  "scenario": "ITEMS_MISSING",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

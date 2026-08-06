@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000040",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-053",
+        "item_id": "ITEM-053",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-053",
+        "ordered_sku": "OIL-HYD-46-053",
+        "quantity_ordered": "156",
+        "quantity_received": "156",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-058",
+        "item_id": "ITEM-058",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-058",
+        "ordered_sku": "NUT-M8-ZN-058",
+        "quantity_ordered": "124",
+        "quantity_received": "124",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000040",
+    "receipt_date": "2026-02-14"
+  },
+  "grn_number": "GRN-000040",
+  "po_number": "PO-000040",
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

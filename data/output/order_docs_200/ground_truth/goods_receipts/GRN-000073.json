@@ -1,0 +1,46 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000073",
+    "lines": [
+      {
+        "item_id": "ITEM-061",
+        "line_number": "1",
+        "quantity_received": "87",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-004",
+        "line_number": "2",
+        "quantity_received": "160",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-080",
+        "line_number": "3",
+        "quantity_received": "60",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-072",
+        "line_number": "4",
+        "quantity_received": "20",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      }
+    ],
+    "po_number": "PO-000073",
+    "receipt_date": "2026-03-19"
+  },
+  "grn_number": "GRN-000073",
+  "po_number": "PO-000073",
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

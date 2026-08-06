@@ -1,0 +1,135 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000046",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-057",
+        "item_id": "ITEM-057",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-057",
+        "ordered_sku": "BLT-M8-040-ZN-057",
+        "quantity_ordered": "35",
+        "quantity_received": "35",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010",
+        "item_id": "ITEM-007",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-007",
+        "ordered_sku": "FLT-AIR-010",
+        "quantity_ordered": "11",
+        "quantity_received": "11",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-027",
+        "item_id": "ITEM-027",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-027",
+        "ordered_sku": "BRG-6205-2RS-027",
+        "quantity_ordered": "159",
+        "quantity_received": "159",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-035",
+        "item_id": "ITEM-035",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-035",
+        "ordered_sku": "BRG-6205-2RS-035",
+        "quantity_ordered": "65",
+        "quantity_received": "65",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-071",
+        "item_id": "ITEM-071",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-071",
+        "ordered_sku": "FLT-AIR-010-071",
+        "quantity_ordered": "44",
+        "quantity_received": "44",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-017",
+        "item_id": "ITEM-017",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-017",
+        "ordered_sku": "BLT-M8-040-ZN-017",
+        "quantity_ordered": "83",
+        "quantity_received": "83",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-037",
+        "item_id": "ITEM-037",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-037",
+        "ordered_sku": "OIL-HYD-46-037",
+        "quantity_ordered": "145",
+        "quantity_received": "145",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-080",
+        "item_id": "ITEM-080",
+        "line_number": "8",
+        "ordered_item_id": "ITEM-080",
+        "ordered_sku": "PKG-STRAP-16-080",
+        "quantity_ordered": "7",
+        "quantity_received": "7",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-063",
+        "item_id": "ITEM-063",
+        "line_number": "9",
+        "ordered_item_id": "ITEM-063",
+        "ordered_sku": "FLT-AIR-010-063",
+        "quantity_ordered": "145",
+        "quantity_received": "145",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000046",
+    "receipt_date": "2026-02-20"
+  },
+  "grn_number": "GRN-000046",
+  "po_number": "PO-000046",
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

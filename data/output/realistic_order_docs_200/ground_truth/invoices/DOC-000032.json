@@ -1,0 +1,219 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "386111.10",
+    "printed_gross_total": null,
+    "subtotal": "327212.80",
+    "tax": "58898.30"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000032",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "PARTIAL_RECEIPT"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-12",
+    "grn_reference": "GRN-000032",
+    "invoice_date": "2026-02-10",
+    "po_reference": "PO-000032"
+  },
+  "invoice_number": "INV-000032",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-047",
+      "line_number": 1,
+      "line_total": "74295.00",
+      "quantity": "127.00",
+      "sku": "FLT-AIR-010-047",
+      "tax_rate": "0.18",
+      "unit_price": "585.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-059",
+      "line_number": 2,
+      "line_total": "27306.00",
+      "quantity": "123.00",
+      "sku": "BRG-6205-2RS-059",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-020",
+      "line_number": 3,
+      "line_total": "4347.00",
+      "quantity": "115.00",
+      "sku": "GLV-NIT-L-020",
+      "tax_rate": "0.18",
+      "unit_price": "37.80",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-056",
+      "line_number": 4,
+      "line_total": "142600.00",
+      "quantity": "155.00",
+      "sku": "PKG-STRAP-16-056",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-023",
+      "line_number": 5,
+      "line_total": "46800.00",
+      "quantity": "72.00",
+      "sku": "FLT-AIR-010-023",
+      "tax_rate": "0.18",
+      "unit_price": "650.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-067",
+      "line_number": 6,
+      "line_total": "17501.00",
+      "quantity": "86.00",
+      "sku": "BRG-6205-2RS-067",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-035",
+      "line_number": 7,
+      "line_total": "10989.00",
+      "quantity": "66.00",
+      "sku": "BRG-6205-2RS-035",
+      "tax_rate": "0.18",
+      "unit_price": "166.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-069",
+      "line_number": 8,
+      "line_total": "3374.80",
+      "quantity": "26.00",
+      "sku": "OIL-HYD-46-069",
+      "tax_rate": "0.18",
+      "unit_price": "129.80",
+      "uom": "LTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-047",
+        "line_number": 1,
+        "line_total": "74295.00",
+        "quantity": "127.00",
+        "sku": "FLT-AIR-010-047",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 2,
+        "line_total": "27306.00",
+        "quantity": "123.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 3,
+        "line_total": "4347.00",
+        "quantity": "115.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-056",
+        "line_number": 4,
+        "line_total": "142600.00",
+        "quantity": "155.00",
+        "sku": "PKG-STRAP-16-056",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-023",
+        "line_number": 5,
+        "line_total": "46800.00",
+        "quantity": "72.00",
+        "sku": "FLT-AIR-010-023",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-067",
+        "line_number": 6,
+        "line_total": "17501.00",
+        "quantity": "86.00",
+        "sku": "BRG-6205-2RS-067",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 7,
+        "line_total": "10989.00",
+        "quantity": "66.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-069",
+        "line_number": 8,
+        "line_total": "3374.80",
+        "quantity": "26.00",
+        "sku": "OIL-HYD-46-069",
+        "tax_rate": "0.18",
+        "unit_price": "129.80",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-02-02",
+    "po_number": "PO-000032",
+    "total_amount": "327212.80",
+    "vendor_id": "VEN-002"
+  },
+  "scenario": "PARTIAL_RECEIPT",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

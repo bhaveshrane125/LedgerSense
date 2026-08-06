@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 2042 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(TAX INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Saffron Warehouse Services Pvt Ltd \(VEN-009\)) Tj
+T*
+(Tax ID: 99SYNTH0009Z4) Tj
+T*
+(Address: 696 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000004    Document: DOC-000004) Tj
+T*
+(Invoice Date: 2026-01-13    Due Date: 2026-02-12) Tj
+T*
+(PO: PO-000004    GRN: GRN-000004) Tj
+T*
+(Currency: INR    Scenario: CLEAN) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   NUT-M8-ZN-018        M8 Zinc Hex Nut                      29 EA         4.50     130.50) Tj
+T*
+(2   FLT-AIR-010-055      Compressed Air Filter Element        16 EA       780.00   12480.00) Tj
+T*
+(3   PKG-STRAP-16-024     Polyester Packing Strap 16mm        142 ROLL    1104.00  156768.00) Tj
+T*
+(4   GLV-NIT-L-036        Nitrile Safety Gloves Large           7 PAIR      50.40     352.80) Tj
+T*
+(5   GLV-NIT-L-060        Nitrile Safety Gloves Large          27 PAIR      46.20    1247.40) Tj
+T*
+(6   PKG-STRAP-16-032     Polyester Packing Strap 16mm         64 ROLL     920.00   58880.00) Tj
+T*
+(7   NUT-M8-ZN-010        M8 Zinc Hex Nut                      46 EA         4.05     186.30) Tj
+T*
+(8   BLT-M8-040-ZN-057    M8x40 Hex Bolt Zinc                 108 EA        10.50    1134.00) Tj
+T*
+(9   FLT-AIR-010-071      Compressed Air Filter Element       128 EA       650.00   83200.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 314379.00) Tj
+T*
+(Tax: INR 56588.22) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 370967.22) Tj
+T*
+(Calculated Gross Total: INR 370967.22) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002229 00000 n 
+0000002286 00000 n 
+0000002356 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2405
+%%EOF

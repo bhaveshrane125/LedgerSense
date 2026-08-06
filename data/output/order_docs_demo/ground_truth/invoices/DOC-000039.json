@@ -1,0 +1,153 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "115065.49",
+    "printed_gross_total": null,
+    "subtotal": "97513.13",
+    "tax": "17552.36"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000039",
+  "duplicate_of_document_id": "DOC-000030",
+  "expected_exception_codes": [
+    "DUPLICATE_CONFIRMED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-10",
+    "grn_reference": "GRN-000030",
+    "invoice_date": "2026-02-08",
+    "po_reference": "PO-000030"
+  },
+  "invoice_number": "INV-000030",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-027",
+      "line_number": 1,
+      "line_total": "10295.25",
+      "quantity": "53.00",
+      "sku": "BRG-6205-2RS-027",
+      "tax_rate": "0.18",
+      "unit_price": "194.25",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-026",
+      "line_number": 2,
+      "line_total": "501.38",
+      "quantity": "106.00",
+      "sku": "NUT-M8-ZN-026",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-028",
+      "line_number": 3,
+      "line_total": "3696.00",
+      "quantity": "88.00",
+      "sku": "GLV-NIT-L-028",
+      "tax_rate": "0.18",
+      "unit_price": "42.00",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-008",
+      "line_number": 4,
+      "line_total": "82800.00",
+      "quantity": "75.00",
+      "sku": "PKG-STRAP-16",
+      "tax_rate": "0.18",
+      "unit_price": "1104.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-001",
+      "line_number": 5,
+      "line_total": "220.50",
+      "quantity": "21.00",
+      "sku": "BLT-M8-040-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "10.50",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-027",
+        "line_number": 1,
+        "line_total": "10295.25",
+        "quantity": "53.00",
+        "sku": "BRG-6205-2RS-027",
+        "tax_rate": "0.18",
+        "unit_price": "194.25",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 2,
+        "line_total": "501.38",
+        "quantity": "106.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-028",
+        "line_number": 3,
+        "line_total": "3696.00",
+        "quantity": "88.00",
+        "sku": "GLV-NIT-L-028",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-008",
+        "line_number": 4,
+        "line_total": "82800.00",
+        "quantity": "75.00",
+        "sku": "PKG-STRAP-16",
+        "tax_rate": "0.18",
+        "unit_price": "1104.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-001",
+        "line_number": 5,
+        "line_total": "220.50",
+        "quantity": "21.00",
+        "sku": "BLT-M8-040-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-31",
+    "po_number": "PO-000030",
+    "total_amount": "97513.13",
+    "vendor_id": "VEN-003"
+  },
+  "scenario": "DUPLICATE_CONFIRMED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

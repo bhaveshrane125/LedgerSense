@@ -1,0 +1,109 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "162351.13",
+    "printed_gross_total": "162350.13",
+    "subtotal": "137585.70",
+    "tax": "24765.43"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000099",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "ARITHMETIC_ERROR"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-05-18",
+    "grn_reference": "GRN-000099",
+    "invoice_date": "2026-04-18",
+    "po_reference": "PO-000099"
+  },
+  "invoice_number": "INV-000099",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-006",
+      "line_number": 1,
+      "line_total": "9187.20",
+      "quantity": "116.00",
+      "sku": "CBL-CU-2C",
+      "tax_rate": "0.18",
+      "unit_price": "79.20",
+      "uom": "MTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-032",
+      "line_number": 2,
+      "line_total": "126960.00",
+      "quantity": "138.00",
+      "sku": "PKG-STRAP-16-032",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-057",
+      "line_number": 3,
+      "line_total": "1438.50",
+      "quantity": "137.00",
+      "sku": "BLT-M8-040-ZN-057",
+      "tax_rate": "0.18",
+      "unit_price": "10.50",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-006",
+        "line_number": 1,
+        "line_total": "9187.20",
+        "quantity": "116.00",
+        "sku": "CBL-CU-2C",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-032",
+        "line_number": 2,
+        "line_total": "126960.00",
+        "quantity": "138.00",
+        "sku": "PKG-STRAP-16-032",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-057",
+        "line_number": 3,
+        "line_total": "1438.50",
+        "quantity": "137.00",
+        "sku": "BLT-M8-040-ZN-057",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-04-10",
+    "po_number": "PO-000099",
+    "total_amount": "137585.70",
+    "vendor_id": "VEN-009"
+  },
+  "scenario": "ARITHMETIC_ERROR",
+  "source_contains_intentional_error": true,
+  "vendor": {
+    "name": "Saffron Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0009Z4",
+    "vendor_id": "VEN-009"
+  }
+}

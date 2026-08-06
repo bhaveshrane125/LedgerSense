@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1514 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000034    Receipt Date: 2026-02-08) Tj
+T*
+(Linked PO: PO-000034) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-004\)) Tj
+T*
+(Condition: Receiving team recorded a delivered item mismatch.) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Ordered Item  Delivered SKU        Recv     Rej  UOM   Status) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-063      FLT-AIR-010-063            79      0 EA    ACCEPTED  ) Tj
+T*
+(2   ITEM-072      PKG-STRAP-16-072           60      0 ROLL  ACCEPTED  ) Tj
+T*
+(3   ITEM-031      FLT-AIR-010-031           107      0 EA    ACCEPTED  ) Tj
+T*
+(4   ITEM-061      OIL-HYD-46-061             66      0 LTR   ACCEPTED  ) Tj
+T*
+(5   ITEM-080      PKG-STRAP-16-080           82      0 ROLL  ACCEPTED  ) Tj
+T*
+(6   ITEM-058      FLT-AIR-010-055           152      0 EA    WRONG_ITEM) Tj
+T*
+(    Note: Delivered FLT-AIR-010-055 instead of ordered SKU NUT-M8-ZN-058) Tj
+T*
+(7   ITEM-003      BRG-6205-2RS               98      0 EA    ACCEPTED  ) Tj
+T*
+(8   ITEM-012      GLV-NIT-L-012             125      0 PAIR  ACCEPTED  ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001701 00000 n 
+0000001758 00000 n 
+0000001828 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1877
+%%EOF

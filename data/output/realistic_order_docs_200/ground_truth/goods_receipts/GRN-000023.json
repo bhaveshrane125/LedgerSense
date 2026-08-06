@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000023",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C-014",
+        "item_id": "ITEM-014",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-014",
+        "ordered_sku": "CBL-CU-2C-014",
+        "quantity_ordered": "60",
+        "quantity_received": "60",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-055",
+        "item_id": "ITEM-055",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-055",
+        "ordered_sku": "FLT-AIR-010-055",
+        "quantity_ordered": "49",
+        "quantity_received": "49",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000023",
+    "receipt_date": "2026-01-28"
+  },
+  "grn_number": "GRN-000023",
+  "po_number": "PO-000023",
+  "vendor": {
+    "name": "Cobalt Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0011Z4",
+    "vendor_id": "VEN-011"
+  }
+}

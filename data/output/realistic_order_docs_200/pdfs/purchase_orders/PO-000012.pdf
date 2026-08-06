@@ -1,0 +1,79 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1665 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000012    PO Date: 2026-01-13) Tj
+T*
+(Vendor: Nila Machine Tools Pvt Ltd \(VEN-002\)) Tj
+T*
+(Tax ID: 99SYNTH0002Z1    Payment Terms: NET 15) Tj
+T*
+(Address: 40 Test Estate, Chennai, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   GLV-NIT-L-036        Nitrile Safety Gloves Large         145 PAIR      50.40    7308.00) Tj
+T*
+(2   CBL-CU-2C            Copper Control Cable 2 Core         113 MTR       79.20    8949.60) Tj
+T*
+(3   BLT-M8-040-ZN        M8x40 Hex Bolt Zinc                 147 EA        12.00    1764.00) Tj
+T*
+(4   BRG-6205-2RS-043     Sealed Ball Bearing 6205              6 EA       185.00    1110.00) Tj
+T*
+(5   BLT-M8-040-ZN-017    M8x40 Hex Bolt Zinc                  32 EA        11.00     352.00) Tj
+T*
+(6   NUT-M8-ZN-034        M8 Zinc Hex Nut                      23 EA         5.40     124.20) Tj
+T*
+(7   OIL-HYD-46-021       Hydraulic Oil ISO VG 46              42 LTR      123.90    5203.80) Tj
+T*
+(8   BLT-M8-040-ZN-057    M8x40 Hex Bolt Zinc                 143 EA        10.50    1501.50) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 26313.10) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001852 00000 n 
+0000001909 00000 n 
+0000001979 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2028
+%%EOF

@@ -1,0 +1,79 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1671 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000145    PO Date: 2026-05-26) Tj
+T*
+(Vendor: Saffron Machine Tools Pvt Ltd \(VEN-010\)) Tj
+T*
+(Tax ID: 99SYNTH0010Z4    Payment Terms: NET 30) Tj
+T*
+(Address: 177 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   CBL-CU-2C-038        Copper Control Cable 2 Core         131 MTR       79.20   10375.20) Tj
+T*
+(2   GLV-NIT-L-020        Nitrile Safety Gloves Large         144 PAIR      37.80    5443.20) Tj
+T*
+(3   NUT-M8-ZN-026        M8 Zinc Hex Nut                      90 EA         4.73     425.70) Tj
+T*
+(4   BRG-6205-2RS-043     Sealed Ball Bearing 6205             69 EA       185.00   12765.00) Tj
+T*
+(5   CBL-CU-2C-030        Copper Control Cable 2 Core         129 MTR       72.00    9288.00) Tj
+T*
+(6   BLT-M8-040-ZN-049    M8x40 Hex Bolt Zinc                 129 EA        11.00    1419.00) Tj
+T*
+(7   BLT-M8-040-ZN-073    M8x40 Hex Bolt Zinc                 121 EA         9.00    1089.00) Tj
+T*
+(8   PKG-STRAP-16-032     Polyester Packing Strap 16mm         47 ROLL     920.00   43240.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 84045.10) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001858 00000 n 
+0000001915 00000 n 
+0000001985 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2034
+%%EOF

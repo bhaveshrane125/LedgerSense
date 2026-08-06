@@ -1,0 +1,39 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000029",
+    "lines": [
+      {
+        "item_id": "ITEM-030",
+        "line_number": "1",
+        "quantity_received": "58",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-050",
+        "line_number": "2",
+        "quantity_received": "20",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-020",
+        "line_number": "3",
+        "quantity_received": "110",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      }
+    ],
+    "po_number": "PO-000029",
+    "receipt_date": "2026-02-03"
+  },
+  "grn_number": "GRN-000029",
+  "po_number": "PO-000029",
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

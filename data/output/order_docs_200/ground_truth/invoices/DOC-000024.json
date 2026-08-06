@@ -1,0 +1,131 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "172747.75",
+    "printed_gross_total": null,
+    "subtotal": "146396.40",
+    "tax": "26351.35"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000024",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-04",
+    "grn_reference": "GRN-000024",
+    "invoice_date": "2026-02-02",
+    "po_reference": "PO-000024"
+  },
+  "invoice_number": "INV-000024",
+  "layout": "CLASSIC",
+  "line_items": [
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-019",
+      "line_number": 1,
+      "line_total": "26862.00",
+      "quantity": "132.00",
+      "sku": "BRG-6205-2RS-019",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-004",
+      "line_number": 2,
+      "line_total": "7392.00",
+      "quantity": "160.00",
+      "sku": "GLV-NIT-L",
+      "tax_rate": "0.18",
+      "unit_price": "46.20",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-006",
+      "line_number": 3,
+      "line_total": "1742.40",
+      "quantity": "22.00",
+      "sku": "CBL-CU-2C",
+      "tax_rate": "0.18",
+      "unit_price": "79.20",
+      "uom": "MTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-032",
+      "line_number": 4,
+      "line_total": "110400.00",
+      "quantity": "120.00",
+      "sku": "PKG-STRAP-16-032",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 1,
+        "line_total": "25437.50",
+        "quantity": "125.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-004",
+        "line_number": 2,
+        "line_total": "7392.00",
+        "quantity": "160.00",
+        "sku": "GLV-NIT-L",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-006",
+        "line_number": 3,
+        "line_total": "1742.40",
+        "quantity": "22.00",
+        "sku": "CBL-CU-2C",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-032",
+        "line_number": 4,
+        "line_total": "110400.00",
+        "quantity": "120.00",
+        "sku": "PKG-STRAP-16-032",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-01-25",
+    "po_number": "PO-000024",
+    "total_amount": "144971.90",
+    "vendor_id": "VEN-013"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

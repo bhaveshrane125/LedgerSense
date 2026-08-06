@@ -1,0 +1,109 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000017",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-029",
+        "item_id": "ITEM-029",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-029",
+        "ordered_sku": "OIL-HYD-46-029",
+        "quantity_ordered": "120",
+        "quantity_received": "120",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN",
+        "item_id": "ITEM-002",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-002",
+        "ordered_sku": "NUT-M8-ZN",
+        "quantity_ordered": "77",
+        "quantity_received": "77",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C",
+        "item_id": "ITEM-006",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-006",
+        "ordered_sku": "CBL-CU-2C",
+        "quantity_ordered": "112",
+        "quantity_received": "98",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "MTR",
+        "variance_note": "Short received by 14 MTR"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-013",
+        "item_id": "ITEM-013",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-013",
+        "ordered_sku": "OIL-HYD-46-013",
+        "quantity_ordered": "146",
+        "quantity_received": "146",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN",
+        "item_id": "ITEM-001",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-001",
+        "ordered_sku": "BLT-M8-040-ZN",
+        "quantity_ordered": "128",
+        "quantity_received": "128",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-027",
+        "item_id": "ITEM-027",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-027",
+        "ordered_sku": "BRG-6205-2RS-027",
+        "quantity_ordered": "43",
+        "quantity_received": "43",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-009",
+        "item_id": "ITEM-009",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-009",
+        "ordered_sku": "BLT-M8-040-ZN-009",
+        "quantity_ordered": "52",
+        "quantity_received": "52",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000017",
+    "receipt_date": "2026-01-22"
+  },
+  "grn_number": "GRN-000017",
+  "po_number": "PO-000017",
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

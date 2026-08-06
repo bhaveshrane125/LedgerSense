@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000105",
+    "lines": [
+      {
+        "delivered_sku": "FLT-AIR-010-031",
+        "item_id": "ITEM-031",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-031",
+        "ordered_sku": "FLT-AIR-010-031",
+        "quantity_ordered": "145",
+        "quantity_received": "145",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-064",
+        "item_id": "ITEM-064",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-064",
+        "ordered_sku": "PKG-STRAP-16-064",
+        "quantity_ordered": "150",
+        "quantity_received": "110",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "ROLL",
+        "variance_note": "Short received by 40 ROLL"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L",
+        "item_id": "ITEM-004",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-004",
+        "ordered_sku": "GLV-NIT-L",
+        "quantity_ordered": "98",
+        "quantity_received": "98",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-047",
+        "item_id": "ITEM-047",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-047",
+        "ordered_sku": "FLT-AIR-010-047",
+        "quantity_ordered": "123",
+        "quantity_received": "123",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000105",
+    "receipt_date": "2026-04-20"
+  },
+  "grn_number": "GRN-000105",
+  "po_number": "PO-000105",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

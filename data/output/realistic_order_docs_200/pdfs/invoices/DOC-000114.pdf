@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1736 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Nila Industrial Supplies Pvt Ltd \(VEN-001\)) Tj
+T*
+(Tax ID: 99SYNTH0001Z5) Tj
+T*
+(Address: 260 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Invoice No: INV-000114    Document: DOC-000114) Tj
+T*
+(Invoice Date: 2026-05-03    Due Date: 2026-06-02) Tj
+T*
+(PO: PO-000114    GRN: MISSING) Tj
+T*
+(Currency: INR    Scenario: MISSING_GRN) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   PKG-STRAP-16-064     Polyester Packing Strap 16mm         31 ROLL     966.00   29946.00) Tj
+T*
+(2   OIL-HYD-46-077       Hydraulic Oil ISO VG 46             114 LTR      141.60   16142.40) Tj
+T*
+(3   OIL-HYD-46-061       Hydraulic Oil ISO VG 46              38 LTR      118.00    4484.00) Tj
+T*
+(4   OIL-HYD-46-037       Hydraulic Oil ISO VG 46              71 LTR      123.90    8796.90) Tj
+T*
+(5   OIL-HYD-46-069       Hydraulic Oil ISO VG 46              97 LTR      129.80   12590.60) Tj
+T*
+(6   NUT-M8-ZN            M8 Zinc Hex Nut                     107 EA         4.05     433.35) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 72393.25) Tj
+T*
+(Tax: INR 13030.79) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 85424.04) Tj
+T*
+(Calculated Gross Total: INR 85424.04) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001923 00000 n 
+0000001980 00000 n 
+0000002050 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2099
+%%EOF

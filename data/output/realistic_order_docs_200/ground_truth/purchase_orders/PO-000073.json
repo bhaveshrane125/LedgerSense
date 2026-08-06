@@ -1,0 +1,96 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000073",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-015",
+        "line_number": 1,
+        "line_total": "5850.00",
+        "quantity": "10.00",
+        "sku": "FLT-AIR-010-015",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-036",
+        "line_number": 2,
+        "line_total": "8013.60",
+        "quantity": "159.00",
+        "sku": "GLV-NIT-L-036",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-074",
+        "line_number": 3,
+        "line_total": "340.56",
+        "quantity": "72.00",
+        "sku": "NUT-M8-ZN-074",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 4,
+        "line_total": "1298.00",
+        "quantity": "11.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-055",
+        "line_number": 5,
+        "line_total": "39000.00",
+        "quantity": "50.00",
+        "sku": "FLT-AIR-010-055",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-072",
+        "line_number": 6,
+        "line_total": "67160.00",
+        "quantity": "73.00",
+        "sku": "PKG-STRAP-16-072",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-075",
+        "line_number": 7,
+        "line_total": "13819.50",
+        "quantity": "83.00",
+        "sku": "BRG-6205-2RS-075",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-15",
+    "po_number": "PO-000073",
+    "total_amount": "135481.66",
+    "vendor_id": "VEN-006"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

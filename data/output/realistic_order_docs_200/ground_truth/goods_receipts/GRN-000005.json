@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000005",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C-022",
+        "item_id": "ITEM-022",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-022",
+        "ordered_sku": "CBL-CU-2C-022",
+        "quantity_ordered": "4",
+        "quantity_received": "4",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-049",
+        "item_id": "ITEM-049",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-049",
+        "ordered_sku": "BLT-M8-040-ZN-049",
+        "quantity_ordered": "103",
+        "quantity_received": "73",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 30 EA"
+      }
+    ],
+    "po_number": "PO-000005",
+    "receipt_date": "2026-01-10"
+  },
+  "grn_number": "GRN-000005",
+  "po_number": "PO-000005",
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

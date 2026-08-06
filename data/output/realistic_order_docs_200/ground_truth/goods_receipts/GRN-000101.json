@@ -1,0 +1,135 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000101",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C",
+        "item_id": "ITEM-006",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-006",
+        "ordered_sku": "CBL-CU-2C",
+        "quantity_ordered": "44",
+        "quantity_received": "44",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-046",
+        "item_id": "ITEM-046",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-046",
+        "ordered_sku": "CBL-CU-2C-046",
+        "quantity_ordered": "11",
+        "quantity_received": "11",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-056",
+        "item_id": "ITEM-056",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-056",
+        "ordered_sku": "PKG-STRAP-16-056",
+        "quantity_ordered": "40",
+        "quantity_received": "40",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-036",
+        "item_id": "ITEM-036",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-036",
+        "ordered_sku": "GLV-NIT-L-036",
+        "quantity_ordered": "159",
+        "quantity_received": "159",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16",
+        "item_id": "ITEM-008",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-008",
+        "ordered_sku": "PKG-STRAP-16",
+        "quantity_ordered": "116",
+        "quantity_received": "116",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-010",
+        "item_id": "ITEM-010",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-010",
+        "ordered_sku": "NUT-M8-ZN-010",
+        "quantity_ordered": "12",
+        "quantity_received": "12",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-052",
+        "item_id": "ITEM-052",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-052",
+        "ordered_sku": "GLV-NIT-L-052",
+        "quantity_ordered": "36",
+        "quantity_received": "36",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-047",
+        "item_id": "ITEM-047",
+        "line_number": "8",
+        "ordered_item_id": "ITEM-047",
+        "ordered_sku": "FLT-AIR-010-047",
+        "quantity_ordered": "21",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-066",
+        "item_id": "ITEM-066",
+        "line_number": "9",
+        "ordered_item_id": "ITEM-066",
+        "ordered_sku": "NUT-M8-ZN-066",
+        "quantity_ordered": "64",
+        "quantity_received": "64",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000101",
+    "receipt_date": "2026-04-16"
+  },
+  "grn_number": "GRN-000101",
+  "po_number": "PO-000101",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

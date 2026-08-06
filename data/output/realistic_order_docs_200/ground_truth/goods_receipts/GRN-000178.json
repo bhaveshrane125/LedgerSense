@@ -1,0 +1,83 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000178",
+    "lines": [
+      {
+        "delivered_sku": "BRG-6205-2RS-027",
+        "item_id": "ITEM-027",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-027",
+        "ordered_sku": "BRG-6205-2RS-027",
+        "quantity_ordered": "46",
+        "quantity_received": "46",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-076",
+        "item_id": "ITEM-076",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-076",
+        "ordered_sku": "GLV-NIT-L-076",
+        "quantity_ordered": "39",
+        "quantity_received": "39",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-045",
+        "item_id": "ITEM-045",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-045",
+        "ordered_sku": "OIL-HYD-46-045",
+        "quantity_ordered": "56",
+        "quantity_received": "56",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-079",
+        "item_id": "ITEM-079",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-079",
+        "ordered_sku": "FLT-AIR-010-079",
+        "quantity_ordered": "56",
+        "quantity_received": "56",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-055",
+        "item_id": "ITEM-055",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-055",
+        "ordered_sku": "FLT-AIR-010-055",
+        "quantity_ordered": "19",
+        "quantity_received": "16",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 3 EA"
+      }
+    ],
+    "po_number": "PO-000178",
+    "receipt_date": "2026-07-02"
+  },
+  "grn_number": "GRN-000178",
+  "po_number": "PO-000178",
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 2051 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-006\)) Tj
+T*
+(Tax ID: 99SYNTH0006Z8) Tj
+T*
+(Address: 559 Test Estate, Ahmedabad, Fictional India) Tj
+T*
+(Invoice No: INV-000123    Document: DOC-000123) Tj
+T*
+(Invoice Date: 2026-05-12    Due Date: 2026-06-11) Tj
+T*
+(PO: PO-000123    GRN: GRN-000123) Tj
+T*
+(Currency: INR    Scenario: PRICE_VARIANCE_OVER) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   BLT-M8-040-ZN-033    M8x40 Hex Bolt Zinc                  31 EA        12.60     390.60) Tj
+T*
+(2   CBL-CU-2C-062        Copper Control Cable 2 Core         154 MTR       86.40   13305.60) Tj
+T*
+(3   GLV-NIT-L-028        Nitrile Safety Gloves Large          65 PAIR      50.40    3276.00) Tj
+T*
+(4   NUT-M8-ZN-026        M8 Zinc Hex Nut                      66 EA         4.73     312.18) Tj
+T*
+(5   OIL-HYD-46-069       Hydraulic Oil ISO VG 46              16 LTR      129.80    2076.80) Tj
+T*
+(6   BRG-6205-2RS-035     Sealed Ball Bearing 6205            139 EA       166.50   23143.50) Tj
+T*
+(7   PKG-STRAP-16-072     Polyester Packing Strap 16mm         61 ROLL     920.00   56120.00) Tj
+T*
+(8   BRG-6205-2RS-075     Sealed Ball Bearing 6205             63 EA       166.50   10489.50) Tj
+T*
+(9   NUT-M8-ZN-018        M8 Zinc Hex Nut                      17 EA         4.50      76.50) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 109190.68) Tj
+T*
+(Tax: INR 19654.32) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 128845.00) Tj
+T*
+(Calculated Gross Total: INR 128845.00) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002238 00000 n 
+0000002295 00000 n 
+0000002365 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2414
+%%EOF

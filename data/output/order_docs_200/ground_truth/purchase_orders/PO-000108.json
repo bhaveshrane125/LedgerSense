@@ -1,0 +1,85 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000108",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-031",
+        "line_number": 1,
+        "line_total": "58012.50",
+        "quantity": "85.00",
+        "sku": "FLT-AIR-010-031",
+        "tax_rate": "0.18",
+        "unit_price": "682.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-050",
+        "line_number": 2,
+        "line_total": "117.45",
+        "quantity": "29.00",
+        "sku": "NUT-M8-ZN-050",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-011",
+        "line_number": 3,
+        "line_total": "14818.50",
+        "quantity": "89.00",
+        "sku": "BRG-6205-2RS-011",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-048",
+        "line_number": 4,
+        "line_total": "33948.00",
+        "quantity": "41.00",
+        "sku": "PKG-STRAP-16-048",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 5,
+        "line_total": "4602.00",
+        "quantity": "39.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-004",
+        "line_number": 6,
+        "line_total": "600.60",
+        "quantity": "13.00",
+        "sku": "GLV-NIT-L",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-04-19",
+    "po_number": "PO-000108",
+    "total_amount": "112099.05",
+    "vendor_id": "VEN-009"
+  },
+  "vendor": {
+    "name": "Saffron Warehouse Services Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0009Z4",
+    "vendor_id": "VEN-009"
+  }
+}

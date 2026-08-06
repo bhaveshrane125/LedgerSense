@@ -1,0 +1,87 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "39606.94",
+    "printed_gross_total": null,
+    "subtotal": "33565.20",
+    "tax": "6041.74"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000113",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-06-01",
+    "grn_reference": "GRN-000113",
+    "invoice_date": "2026-05-02",
+    "po_reference": "PO-000113"
+  },
+  "invoice_number": "INV-000113",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-012",
+      "line_number": 1,
+      "line_total": "6703.20",
+      "quantity": "133.00",
+      "sku": "GLV-NIT-L-012",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-051",
+      "line_number": 2,
+      "line_total": "26862.00",
+      "quantity": "121.00",
+      "sku": "BRG-6205-2RS-051",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-012",
+        "line_number": 1,
+        "line_total": "6703.20",
+        "quantity": "133.00",
+        "sku": "GLV-NIT-L-012",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 2,
+        "line_total": "26862.00",
+        "quantity": "121.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-04-24",
+    "po_number": "PO-000113",
+    "total_amount": "33565.20",
+    "vendor_id": "VEN-008"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

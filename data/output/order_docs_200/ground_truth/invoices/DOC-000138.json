@@ -1,0 +1,173 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "161583.61",
+    "printed_gross_total": null,
+    "subtotal": "136935.26",
+    "tax": "24648.35"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000138",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-06-26",
+    "grn_reference": "GRN-000138",
+    "invoice_date": "2026-05-27",
+    "po_reference": "PO-000138"
+  },
+  "invoice_number": "INV-000138",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-044",
+      "line_number": 1,
+      "line_total": "4006.80",
+      "quantity": "106.00",
+      "sku": "GLV-NIT-L-044",
+      "tax_rate": "0.18",
+      "unit_price": "37.80",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-072",
+      "line_number": 2,
+      "line_total": "121440.00",
+      "quantity": "132.00",
+      "sku": "PKG-STRAP-16-072",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-047",
+      "line_number": 3,
+      "line_total": "8190.00",
+      "quantity": "14.00",
+      "sku": "FLT-AIR-010-047",
+      "tax_rate": "0.18",
+      "unit_price": "585.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-019",
+      "line_number": 4,
+      "line_total": "3052.50",
+      "quantity": "15.00",
+      "sku": "BRG-6205-2RS-019",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-026",
+      "line_number": 5,
+      "line_total": "61.49",
+      "quantity": "13.00",
+      "sku": "NUT-M8-ZN-026",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-066",
+      "line_number": 6,
+      "line_total": "184.47",
+      "quantity": "39.00",
+      "sku": "NUT-M8-ZN-066",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-044",
+        "line_number": 1,
+        "line_total": "4006.80",
+        "quantity": "106.00",
+        "sku": "GLV-NIT-L-044",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-072",
+        "line_number": 2,
+        "line_total": "121440.00",
+        "quantity": "132.00",
+        "sku": "PKG-STRAP-16-072",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-047",
+        "line_number": 3,
+        "line_total": "8190.00",
+        "quantity": "14.00",
+        "sku": "FLT-AIR-010-047",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 4,
+        "line_total": "3052.50",
+        "quantity": "15.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 5,
+        "line_total": "61.49",
+        "quantity": "13.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-066",
+        "line_number": 6,
+        "line_total": "184.47",
+        "quantity": "39.00",
+        "sku": "NUT-M8-ZN-066",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-19",
+    "po_number": "PO-000138",
+    "total_amount": "136935.26",
+    "vendor_id": "VEN-007"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0007Z4",
+    "vendor_id": "VEN-007"
+  }
+}

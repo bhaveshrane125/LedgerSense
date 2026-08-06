@@ -1,0 +1,85 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "9261.35",
+    "printed_gross_total": null,
+    "subtotal": "7848.60",
+    "tax": "1412.75"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000045",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-25",
+    "grn_reference": "GRN-000045",
+    "invoice_date": "2026-02-23",
+    "po_reference": "PO-000045"
+  },
+  "invoice_number": "INV-000045",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-070",
+      "line_number": 1,
+      "line_total": "7063.20",
+      "quantity": "109.00",
+      "sku": "CBL-CU-2C-070",
+      "tax_rate": "0.18",
+      "unit_price": "64.80",
+      "uom": "MTR"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-060",
+      "line_number": 2,
+      "line_total": "785.40",
+      "quantity": "17.00",
+      "sku": "GLV-NIT-L-060",
+      "tax_rate": "0.18",
+      "unit_price": "46.20",
+      "uom": "PAIR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-070",
+        "line_number": 1,
+        "line_total": "7063.20",
+        "quantity": "109.00",
+        "sku": "CBL-CU-2C-070",
+        "tax_rate": "0.18",
+        "unit_price": "64.80",
+        "uom": "MTR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-060",
+        "line_number": 2,
+        "line_total": "785.40",
+        "quantity": "17.00",
+        "sku": "GLV-NIT-L-060",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-02-15",
+    "po_number": "PO-000045",
+    "total_amount": "7848.60",
+    "vendor_id": "VEN-014"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

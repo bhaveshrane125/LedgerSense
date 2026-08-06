@@ -1,0 +1,96 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000133",
+    "lines": [
+      {
+        "delivered_sku": "BRG-6205-2RS",
+        "item_id": "ITEM-003",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-003",
+        "ordered_sku": "BRG-6205-2RS",
+        "quantity_ordered": "22",
+        "quantity_received": "22",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-051",
+        "item_id": "ITEM-051",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-051",
+        "ordered_sku": "BRG-6205-2RS-051",
+        "quantity_ordered": "15",
+        "quantity_received": "15",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-033",
+        "item_id": "ITEM-033",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-033",
+        "ordered_sku": "BLT-M8-040-ZN-033",
+        "quantity_ordered": "112",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN",
+        "item_id": "ITEM-001",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-001",
+        "ordered_sku": "BLT-M8-040-ZN",
+        "quantity_ordered": "92",
+        "quantity_received": "92",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-028",
+        "item_id": "ITEM-028",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-028",
+        "ordered_sku": "GLV-NIT-L-028",
+        "quantity_ordered": "20",
+        "quantity_received": "20",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-075",
+        "item_id": "ITEM-075",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-075",
+        "ordered_sku": "BRG-6205-2RS-075",
+        "quantity_ordered": "142",
+        "quantity_received": "142",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000133",
+    "receipt_date": "2026-05-18"
+  },
+  "grn_number": "GRN-000133",
+  "po_number": "PO-000133",
+  "vendor": {
+    "name": "Cobalt Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0011Z4",
+    "vendor_id": "VEN-011"
+  }
+}

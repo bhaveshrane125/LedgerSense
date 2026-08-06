@@ -1,0 +1,30 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000131",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-064",
+        "line_number": 1,
+        "line_total": "138138.00",
+        "quantity": "143.00",
+        "sku": "PKG-STRAP-16-064",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-05-12",
+    "po_number": "PO-000131",
+    "total_amount": "138138.00",
+    "vendor_id": "VEN-007"
+  },
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0007Z4",
+    "vendor_id": "VEN-007"
+  }
+}
