@@ -1,0 +1,96 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000094",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-076",
+        "line_number": 1,
+        "line_total": "3024.00",
+        "quantity": "60.00",
+        "sku": "GLV-NIT-L-076",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-052",
+        "line_number": 2,
+        "line_total": "3738.00",
+        "quantity": "89.00",
+        "sku": "GLV-NIT-L-052",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-068",
+        "line_number": 3,
+        "line_total": "2368.80",
+        "quantity": "47.00",
+        "sku": "GLV-NIT-L-068",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-011",
+        "line_number": 4,
+        "line_total": "3829.50",
+        "quantity": "23.00",
+        "sku": "BRG-6205-2RS-011",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 5,
+        "line_total": "29748.00",
+        "quantity": "134.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-040",
+        "line_number": 6,
+        "line_total": "27324.00",
+        "quantity": "33.00",
+        "sku": "PKG-STRAP-16-040",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-044",
+        "line_number": 7,
+        "line_total": "5254.20",
+        "quantity": "139.00",
+        "sku": "GLV-NIT-L-044",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-04-05",
+    "po_number": "PO-000094",
+    "total_amount": "75286.50",
+    "vendor_id": "VEN-004"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

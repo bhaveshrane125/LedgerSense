@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000131",
+    "lines": [
+      {
+        "delivered_sku": "NUT-M8-ZN-042",
+        "item_id": "ITEM-042",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-042",
+        "ordered_sku": "NUT-M8-ZN-042",
+        "quantity_ordered": "56",
+        "quantity_received": "56",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-067",
+        "item_id": "ITEM-067",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-067",
+        "ordered_sku": "BRG-6205-2RS-067",
+        "quantity_ordered": "153",
+        "quantity_received": "153",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-057",
+        "item_id": "ITEM-057",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-057",
+        "ordered_sku": "BLT-M8-040-ZN-057",
+        "quantity_ordered": "129",
+        "quantity_received": "129",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-015",
+        "item_id": "ITEM-015",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-015",
+        "ordered_sku": "FLT-AIR-010-015",
+        "quantity_ordered": "27",
+        "quantity_received": "27",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000131",
+    "receipt_date": "2026-05-16"
+  },
+  "grn_number": "GRN-000131",
+  "po_number": "PO-000131",
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

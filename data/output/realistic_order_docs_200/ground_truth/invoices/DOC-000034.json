@@ -1,0 +1,219 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "342045.77",
+    "printed_gross_total": null,
+    "subtotal": "289869.30",
+    "tax": "52176.47"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000034",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "WRONG_ITEM_DELIVERED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-14",
+    "grn_reference": "GRN-000034",
+    "invoice_date": "2026-02-12",
+    "po_reference": "PO-000034"
+  },
+  "invoice_number": "INV-000034",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-063",
+      "line_number": 1,
+      "line_total": "51350.00",
+      "quantity": "79.00",
+      "sku": "FLT-AIR-010-063",
+      "tax_rate": "0.18",
+      "unit_price": "650.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-072",
+      "line_number": 2,
+      "line_total": "55200.00",
+      "quantity": "60.00",
+      "sku": "PKG-STRAP-16-072",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-031",
+      "line_number": 3,
+      "line_total": "73027.50",
+      "quantity": "107.00",
+      "sku": "FLT-AIR-010-031",
+      "tax_rate": "0.18",
+      "unit_price": "682.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-061",
+      "line_number": 4,
+      "line_total": "7788.00",
+      "quantity": "66.00",
+      "sku": "OIL-HYD-46-061",
+      "tax_rate": "0.18",
+      "unit_price": "118.00",
+      "uom": "LTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-080",
+      "line_number": 5,
+      "line_total": "75440.00",
+      "quantity": "82.00",
+      "sku": "PKG-STRAP-16-080",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-058",
+      "line_number": 6,
+      "line_total": "820.80",
+      "quantity": "152.00",
+      "sku": "NUT-M8-ZN-058",
+      "tax_rate": "0.18",
+      "unit_price": "5.40",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-003",
+      "line_number": 7,
+      "line_total": "19943.00",
+      "quantity": "98.00",
+      "sku": "BRG-6205-2RS",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-012",
+      "line_number": 8,
+      "line_total": "6300.00",
+      "quantity": "125.00",
+      "sku": "GLV-NIT-L-012",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-063",
+        "line_number": 1,
+        "line_total": "51350.00",
+        "quantity": "79.00",
+        "sku": "FLT-AIR-010-063",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-072",
+        "line_number": 2,
+        "line_total": "55200.00",
+        "quantity": "60.00",
+        "sku": "PKG-STRAP-16-072",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-031",
+        "line_number": 3,
+        "line_total": "73027.50",
+        "quantity": "107.00",
+        "sku": "FLT-AIR-010-031",
+        "tax_rate": "0.18",
+        "unit_price": "682.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-061",
+        "line_number": 4,
+        "line_total": "7788.00",
+        "quantity": "66.00",
+        "sku": "OIL-HYD-46-061",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-080",
+        "line_number": 5,
+        "line_total": "75440.00",
+        "quantity": "82.00",
+        "sku": "PKG-STRAP-16-080",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-058",
+        "line_number": 6,
+        "line_total": "820.80",
+        "quantity": "152.00",
+        "sku": "NUT-M8-ZN-058",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 7,
+        "line_total": "19943.00",
+        "quantity": "98.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-012",
+        "line_number": 8,
+        "line_total": "6300.00",
+        "quantity": "125.00",
+        "sku": "GLV-NIT-L-012",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-02-04",
+    "po_number": "PO-000034",
+    "total_amount": "289869.30",
+    "vendor_id": "VEN-004"
+  },
+  "scenario": "WRONG_ITEM_DELIVERED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

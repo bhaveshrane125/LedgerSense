@@ -1,0 +1,87 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "58742.43",
+    "printed_gross_total": null,
+    "subtotal": "49781.72",
+    "tax": "8960.71"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000194",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "PRICE_VARIANCE_OVER"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-22",
+    "grn_reference": "GRN-000194",
+    "invoice_date": "2026-01-23",
+    "po_reference": "PO-000194"
+  },
+  "invoice_number": "INV-000194",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-014",
+      "line_number": 1,
+      "line_total": "7461.72",
+      "quantity": "94.00",
+      "sku": "CBL-CU-2C-014",
+      "tax_rate": "0.18",
+      "unit_price": "79.38",
+      "uom": "MTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-032",
+      "line_number": 2,
+      "line_total": "42320.00",
+      "quantity": "46.00",
+      "sku": "PKG-STRAP-16-032",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-014",
+        "line_number": 1,
+        "line_total": "7106.40",
+        "quantity": "94.00",
+        "sku": "CBL-CU-2C-014",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-032",
+        "line_number": 2,
+        "line_total": "42320.00",
+        "quantity": "46.00",
+        "sku": "PKG-STRAP-16-032",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-01-15",
+    "po_number": "PO-000194",
+    "total_amount": "49426.40",
+    "vendor_id": "VEN-012"
+  },
+  "scenario": "PRICE_VARIANCE_OVER",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

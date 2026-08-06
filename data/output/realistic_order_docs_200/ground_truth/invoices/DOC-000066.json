@@ -1,0 +1,85 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "84960.71",
+    "printed_gross_total": null,
+    "subtotal": "72000.60",
+    "tax": "12960.11"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000066",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-04-15",
+    "grn_reference": "GRN-000066",
+    "invoice_date": "2026-03-16",
+    "po_reference": "PO-000066"
+  },
+  "invoice_number": "INV-000066",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-046",
+      "line_number": 1,
+      "line_total": "13305.60",
+      "quantity": "154.00",
+      "sku": "CBL-CU-2C-046",
+      "tax_rate": "0.18",
+      "unit_price": "86.40",
+      "uom": "MTR"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-031",
+      "line_number": 2,
+      "line_total": "58695.00",
+      "quantity": "86.00",
+      "sku": "FLT-AIR-010-031",
+      "tax_rate": "0.18",
+      "unit_price": "682.50",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-046",
+        "line_number": 1,
+        "line_total": "13305.60",
+        "quantity": "154.00",
+        "sku": "CBL-CU-2C-046",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-031",
+        "line_number": 2,
+        "line_total": "58695.00",
+        "quantity": "86.00",
+        "sku": "FLT-AIR-010-031",
+        "tax_rate": "0.18",
+        "unit_price": "682.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-08",
+    "po_number": "PO-000066",
+    "total_amount": "72000.60",
+    "vendor_id": "VEN-003"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

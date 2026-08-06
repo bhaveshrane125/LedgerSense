@@ -1,0 +1,96 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000165",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-056",
+        "line_number": 1,
+        "line_total": "125120.00",
+        "quantity": "136.00",
+        "sku": "PKG-STRAP-16-056",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-014",
+        "line_number": 2,
+        "line_total": "11037.60",
+        "quantity": "146.00",
+        "sku": "CBL-CU-2C-014",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 3,
+        "line_total": "615.60",
+        "quantity": "152.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-013",
+        "line_number": 4,
+        "line_total": "18708.90",
+        "quantity": "151.00",
+        "sku": "OIL-HYD-46-013",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-034",
+        "line_number": 5,
+        "line_total": "324.00",
+        "quantity": "60.00",
+        "sku": "NUT-M8-ZN-034",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 6,
+        "line_total": "13924.00",
+        "quantity": "118.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-066",
+        "line_number": 7,
+        "line_total": "468.27",
+        "quantity": "99.00",
+        "sku": "NUT-M8-ZN-066",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-06-15",
+    "po_number": "PO-000165",
+    "total_amount": "170198.37",
+    "vendor_id": "VEN-013"
+  },
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "payment_terms": "NET 45",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000141",
+    "lines": [
+      {
+        "delivered_sku": "GLV-NIT-L-028",
+        "item_id": "ITEM-028",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-028",
+        "ordered_sku": "GLV-NIT-L-028",
+        "quantity_ordered": "34",
+        "quantity_received": "24",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "PAIR",
+        "variance_note": "Short received by 10 PAIR"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-025",
+        "item_id": "ITEM-025",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-025",
+        "ordered_sku": "BLT-M8-040-ZN-025",
+        "quantity_ordered": "126",
+        "quantity_received": "126",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000141",
+    "receipt_date": "2026-05-26"
+  },
+  "grn_number": "GRN-000141",
+  "po_number": "PO-000141",
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

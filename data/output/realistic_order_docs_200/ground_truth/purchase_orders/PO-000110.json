@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000110",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-052",
+        "line_number": 1,
+        "line_total": "1848.00",
+        "quantity": "44.00",
+        "sku": "GLV-NIT-L-052",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-039",
+        "line_number": 2,
+        "line_total": "67860.00",
+        "quantity": "116.00",
+        "sku": "FLT-AIR-010-039",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 3,
+        "line_total": "24420.00",
+        "quantity": "110.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-010",
+        "line_number": 4,
+        "line_total": "514.35",
+        "quantity": "127.00",
+        "sku": "NUT-M8-ZN-010",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-008",
+        "line_number": 5,
+        "line_total": "117852.00",
+        "quantity": "122.00",
+        "sku": "PKG-STRAP-16",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-04-21",
+    "po_number": "PO-000110",
+    "total_amount": "212494.35",
+    "vendor_id": "VEN-008"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

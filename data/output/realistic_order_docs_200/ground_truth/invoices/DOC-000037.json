@@ -1,0 +1,131 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "70603.39",
+    "printed_gross_total": null,
+    "subtotal": "59833.38",
+    "tax": "10770.01"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000037",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "ITEMS_MISSING"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-17",
+    "grn_reference": "GRN-000037",
+    "invoice_date": "2026-02-15",
+    "po_reference": "PO-000037"
+  },
+  "invoice_number": "INV-000037",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-063",
+      "line_number": 1,
+      "line_total": "49400.00",
+      "quantity": "76.00",
+      "sku": "FLT-AIR-010-063",
+      "tax_rate": "0.18",
+      "unit_price": "650.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-014",
+      "line_number": 2,
+      "line_total": "9374.40",
+      "quantity": "124.00",
+      "sku": "CBL-CU-2C-014",
+      "tax_rate": "0.18",
+      "unit_price": "75.60",
+      "uom": "MTR"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-002",
+      "line_number": 3,
+      "line_total": "510.30",
+      "quantity": "126.00",
+      "sku": "NUT-M8-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-074",
+      "line_number": 4,
+      "line_total": "548.68",
+      "quantity": "116.00",
+      "sku": "NUT-M8-ZN-074",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-063",
+        "line_number": 1,
+        "line_total": "49400.00",
+        "quantity": "76.00",
+        "sku": "FLT-AIR-010-063",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-014",
+        "line_number": 2,
+        "line_total": "9374.40",
+        "quantity": "124.00",
+        "sku": "CBL-CU-2C-014",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 3,
+        "line_total": "510.30",
+        "quantity": "126.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-074",
+        "line_number": 4,
+        "line_total": "548.68",
+        "quantity": "116.00",
+        "sku": "NUT-M8-ZN-074",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-02-07",
+    "po_number": "PO-000037",
+    "total_amount": "59833.38",
+    "vendor_id": "VEN-005"
+  },
+  "scenario": "ITEMS_MISSING",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

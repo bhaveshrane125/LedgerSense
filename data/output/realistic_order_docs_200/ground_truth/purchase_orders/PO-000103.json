@@ -1,0 +1,63 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000103",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-064",
+        "line_number": 1,
+        "line_total": "32844.00",
+        "quantity": "34.00",
+        "sku": "PKG-STRAP-16-064",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-067",
+        "line_number": 2,
+        "line_total": "14448.50",
+        "quantity": "71.00",
+        "sku": "BRG-6205-2RS-067",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-050",
+        "line_number": 3,
+        "line_total": "283.50",
+        "quantity": "70.00",
+        "sku": "NUT-M8-ZN-050",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-072",
+        "line_number": 4,
+        "line_total": "108560.00",
+        "quantity": "118.00",
+        "sku": "PKG-STRAP-16-072",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-04-14",
+    "po_number": "PO-000103",
+    "total_amount": "156136.00",
+    "vendor_id": "VEN-001"
+  },
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

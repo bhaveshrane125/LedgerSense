@@ -1,0 +1,107 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000091",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-021",
+        "line_number": 1,
+        "line_total": "17965.50",
+        "quantity": "145.00",
+        "sku": "OIL-HYD-46-021",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 2,
+        "line_total": "141.90",
+        "quantity": "30.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-078",
+        "line_number": 3,
+        "line_total": "9792.00",
+        "quantity": "136.00",
+        "sku": "CBL-CU-2C-078",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 4,
+        "line_total": "157.50",
+        "quantity": "35.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-033",
+        "line_number": 5,
+        "line_total": "912.00",
+        "quantity": "76.00",
+        "sku": "BLT-M8-040-ZN-033",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-007",
+        "line_number": 6,
+        "line_total": "19500.00",
+        "quantity": "25.00",
+        "sku": "FLT-AIR-010",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-062",
+        "line_number": 7,
+        "line_total": "3888.00",
+        "quantity": "45.00",
+        "sku": "CBL-CU-2C-062",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-048",
+        "line_number": 8,
+        "line_total": "60444.00",
+        "quantity": "73.00",
+        "sku": "PKG-STRAP-16-048",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-04-02",
+    "po_number": "PO-000091",
+    "total_amount": "112800.90",
+    "vendor_id": "VEN-009"
+  },
+  "vendor": {
+    "name": "Saffron Warehouse Services Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0009Z4",
+    "vendor_id": "VEN-009"
+  }
+}

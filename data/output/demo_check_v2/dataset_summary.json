@@ -1,0 +1,20 @@
+{
+  "dataset_id": "DS-001",
+  "failed_pdf_count": 0,
+  "generated_pdf_count": 5,
+  "generator_version": "0.1.0",
+  "layout_distribution": {
+    "CLASSIC": 2,
+    "COMPACT": 1,
+    "MINIMAL": 1,
+    "MODERN": 1
+  },
+  "requested_pdf_count": 5,
+  "scenario_distribution": {
+    "CLEAN": 2,
+    "PRICE_VARIANCE_OVER": 1,
+    "QTY_OVER_BILLED": 1,
+    "UOM_MISMATCH": 1
+  },
+  "seed": 42
+}

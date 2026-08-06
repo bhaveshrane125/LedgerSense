@@ -1,0 +1,95 @@
+[
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000001",
+    "lines": [
+      {
+        "item_id": "ITEM-020",
+        "line_number": "1",
+        "quantity_received": "46",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "2",
+        "quantity_received": "91",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-004",
+        "line_number": "3",
+        "quantity_received": "42",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-017",
+        "line_number": "4",
+        "quantity_received": "129",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "5",
+        "quantity_received": "111",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      }
+    ],
+    "po_number": "PO-000001",
+    "receipt_date": "2026-01-06"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000002",
+    "lines": [
+      {
+        "item_id": "ITEM-011",
+        "line_number": "1",
+        "quantity_received": "120",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-023",
+        "line_number": "2",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-012",
+        "line_number": "3",
+        "quantity_received": "27",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-020",
+        "line_number": "4",
+        "quantity_received": "73",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-016",
+        "line_number": "5",
+        "quantity_received": "125",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "6",
+        "quantity_received": "20",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000002",
+    "receipt_date": "2026-01-07"
+  }
+]

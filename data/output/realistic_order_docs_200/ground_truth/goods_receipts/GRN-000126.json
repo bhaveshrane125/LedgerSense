@@ -1,0 +1,109 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000126",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-037",
+        "item_id": "ITEM-037",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-037",
+        "ordered_sku": "OIL-HYD-46-037",
+        "quantity_ordered": "123",
+        "quantity_received": "123",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-059",
+        "item_id": "ITEM-059",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-059",
+        "ordered_sku": "BRG-6205-2RS-059",
+        "quantity_ordered": "73",
+        "quantity_received": "73",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-070",
+        "item_id": "ITEM-070",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-070",
+        "ordered_sku": "CBL-CU-2C-070",
+        "quantity_ordered": "53",
+        "quantity_received": "53",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-068",
+        "item_id": "ITEM-068",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-068",
+        "ordered_sku": "GLV-NIT-L-068",
+        "quantity_ordered": "32",
+        "quantity_received": "32",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-064",
+        "item_id": "ITEM-064",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-064",
+        "ordered_sku": "PKG-STRAP-16-064",
+        "quantity_ordered": "88",
+        "quantity_received": "88",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-018",
+        "item_id": "ITEM-018",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-018",
+        "ordered_sku": "NUT-M8-ZN-018",
+        "quantity_ordered": "45",
+        "quantity_received": "45",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-065",
+        "item_id": "ITEM-065",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-065",
+        "ordered_sku": "BLT-M8-040-ZN-065",
+        "quantity_ordered": "121",
+        "quantity_received": "121",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000126",
+    "receipt_date": "2026-05-11"
+  },
+  "grn_number": "GRN-000126",
+  "po_number": "PO-000126",
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

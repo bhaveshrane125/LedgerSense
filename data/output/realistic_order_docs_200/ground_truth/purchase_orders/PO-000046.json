@@ -1,0 +1,118 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000046",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-057",
+        "line_number": 1,
+        "line_total": "367.50",
+        "quantity": "35.00",
+        "sku": "BLT-M8-040-ZN-057",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-007",
+        "line_number": 2,
+        "line_total": "8580.00",
+        "quantity": "11.00",
+        "sku": "FLT-AIR-010",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-027",
+        "line_number": 3,
+        "line_total": "35298.00",
+        "quantity": "159.00",
+        "sku": "BRG-6205-2RS-027",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 4,
+        "line_total": "10822.50",
+        "quantity": "65.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-071",
+        "line_number": 5,
+        "line_total": "28600.00",
+        "quantity": "44.00",
+        "sku": "FLT-AIR-010-071",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-017",
+        "line_number": 6,
+        "line_total": "913.00",
+        "quantity": "83.00",
+        "sku": "BLT-M8-040-ZN-017",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-037",
+        "line_number": 7,
+        "line_total": "17965.50",
+        "quantity": "145.00",
+        "sku": "OIL-HYD-46-037",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-080",
+        "line_number": 8,
+        "line_total": "6440.00",
+        "quantity": "7.00",
+        "sku": "PKG-STRAP-16-080",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-063",
+        "line_number": 9,
+        "line_total": "94250.00",
+        "quantity": "145.00",
+        "sku": "FLT-AIR-010-063",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-02-16",
+    "po_number": "PO-000046",
+    "total_amount": "203236.50",
+    "vendor_id": "VEN-010"
+  },
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

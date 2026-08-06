@@ -1,0 +1,109 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "102029.17",
+    "printed_gross_total": null,
+    "subtotal": "86465.40",
+    "tax": "15563.77"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000047",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-27",
+    "grn_reference": "GRN-000047",
+    "invoice_date": "2026-02-25",
+    "po_reference": "PO-000047"
+  },
+  "invoice_number": "INV-000047",
+  "layout": "CLASSIC",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-060",
+      "line_number": 1,
+      "line_total": "6052.20",
+      "quantity": "131.00",
+      "sku": "GLV-NIT-L-060",
+      "tax_rate": "0.18",
+      "unit_price": "46.20",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-016",
+      "line_number": 2,
+      "line_total": "75348.00",
+      "quantity": "78.00",
+      "sku": "PKG-STRAP-16-016",
+      "tax_rate": "0.18",
+      "unit_price": "966.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-020",
+      "line_number": 3,
+      "line_total": "5065.20",
+      "quantity": "134.00",
+      "sku": "GLV-NIT-L-020",
+      "tax_rate": "0.18",
+      "unit_price": "37.80",
+      "uom": "PAIR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-060",
+        "line_number": 1,
+        "line_total": "6052.20",
+        "quantity": "131.00",
+        "sku": "GLV-NIT-L-060",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-016",
+        "line_number": 2,
+        "line_total": "75348.00",
+        "quantity": "78.00",
+        "sku": "PKG-STRAP-16-016",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 3,
+        "line_total": "5065.20",
+        "quantity": "134.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-02-17",
+    "po_number": "PO-000047",
+    "total_amount": "86465.40",
+    "vendor_id": "VEN-014"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

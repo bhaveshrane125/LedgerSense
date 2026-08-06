@@ -1,0 +1,41 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000019",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 1,
+        "line_total": "8301.30",
+        "quantity": "67.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 2,
+        "line_total": "28120.00",
+        "quantity": "152.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "185.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-20",
+    "po_number": "PO-000019",
+    "total_amount": "36421.30",
+    "vendor_id": "VEN-004"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000167",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-067",
+        "line_number": 1,
+        "line_total": "23606.00",
+        "quantity": "116.00",
+        "sku": "BRG-6205-2RS-067",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-062",
+        "line_number": 2,
+        "line_total": "10281.60",
+        "quantity": "119.00",
+        "sku": "CBL-CU-2C-062",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-045",
+        "line_number": 3,
+        "line_total": "10030.00",
+        "quantity": "85.00",
+        "sku": "OIL-HYD-46-045",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-061",
+        "line_number": 4,
+        "line_total": "2478.00",
+        "quantity": "21.00",
+        "sku": "OIL-HYD-46-061",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-013",
+        "line_number": 5,
+        "line_total": "9912.00",
+        "quantity": "80.00",
+        "sku": "OIL-HYD-46-013",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-06-17",
+    "po_number": "PO-000167",
+    "total_amount": "56307.60",
+    "vendor_id": "VEN-008"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

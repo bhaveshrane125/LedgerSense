@@ -1,0 +1,46 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000164",
+    "lines": [
+      {
+        "item_id": "ITEM-008",
+        "line_number": "1",
+        "quantity_received": "63",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-018",
+        "line_number": "2",
+        "quantity_received": "151",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-065",
+        "line_number": "3",
+        "quantity_received": "85",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-038",
+        "line_number": "4",
+        "quantity_received": "151",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      }
+    ],
+    "po_number": "PO-000164",
+    "receipt_date": "2026-06-18"
+  },
+  "grn_number": "GRN-000164",
+  "po_number": "PO-000164",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000151",
+    "lines": [
+      {
+        "delivered_sku": "NUT-M8-ZN",
+        "item_id": "ITEM-002",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-002",
+        "ordered_sku": "NUT-M8-ZN",
+        "quantity_ordered": "25",
+        "quantity_received": "25",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-022",
+        "item_id": "ITEM-022",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-022",
+        "ordered_sku": "CBL-CU-2C-022",
+        "quantity_ordered": "131",
+        "quantity_received": "131",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000151",
+    "receipt_date": "2026-06-05"
+  },
+  "grn_number": "GRN-000151",
+  "po_number": "PO-000151",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

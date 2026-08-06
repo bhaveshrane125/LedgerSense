@@ -1,0 +1,52 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000127",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-017",
+        "line_number": 1,
+        "line_total": "198.00",
+        "quantity": "18.00",
+        "sku": "BLT-M8-040-ZN-017",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-056",
+        "line_number": 2,
+        "line_total": "32200.00",
+        "quantity": "35.00",
+        "sku": "PKG-STRAP-16-056",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-065",
+        "line_number": 3,
+        "line_total": "1496.00",
+        "quantity": "136.00",
+        "sku": "BLT-M8-040-ZN-065",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-08",
+    "po_number": "PO-000127",
+    "total_amount": "33894.00",
+    "vendor_id": "VEN-011"
+  },
+  "vendor": {
+    "name": "Cobalt Warehouse Services Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0011Z4",
+    "vendor_id": "VEN-011"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000127",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-038",
+        "line_number": 1,
+        "line_total": "6890.40",
+        "quantity": "87.00",
+        "sku": "CBL-CU-2C-038",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-073",
+        "line_number": 2,
+        "line_total": "234.00",
+        "quantity": "26.00",
+        "sku": "BLT-M8-040-ZN-073",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-025",
+        "line_number": 3,
+        "line_total": "954.00",
+        "quantity": "106.00",
+        "sku": "BLT-M8-040-ZN-025",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-023",
+        "line_number": 4,
+        "line_total": "18200.00",
+        "quantity": "28.00",
+        "sku": "FLT-AIR-010-023",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-052",
+        "line_number": 5,
+        "line_total": "2142.00",
+        "quantity": "51.00",
+        "sku": "GLV-NIT-L-052",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-055",
+        "line_number": 6,
+        "line_total": "30420.00",
+        "quantity": "39.00",
+        "sku": "FLT-AIR-010-055",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-066",
+        "line_number": 7,
+        "line_total": "595.98",
+        "quantity": "126.00",
+        "sku": "NUT-M8-ZN-066",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-08",
+    "po_number": "PO-000127",
+    "total_amount": "59436.38",
+    "vendor_id": "VEN-012"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 45",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

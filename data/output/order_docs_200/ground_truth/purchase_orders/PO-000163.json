@@ -1,0 +1,63 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000163",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-009",
+        "line_number": 1,
+        "line_total": "1416.00",
+        "quantity": "118.00",
+        "sku": "BLT-M8-040-ZN-009",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-013",
+        "line_number": 2,
+        "line_total": "19452.30",
+        "quantity": "157.00",
+        "sku": "OIL-HYD-46-013",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-077",
+        "line_number": 3,
+        "line_total": "2265.60",
+        "quantity": "16.00",
+        "sku": "OIL-HYD-46-077",
+        "tax_rate": "0.18",
+        "unit_price": "141.60",
+        "uom": "LTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-005",
+        "line_number": 4,
+        "line_total": "9345.60",
+        "quantity": "66.00",
+        "sku": "OIL-HYD-46",
+        "tax_rate": "0.18",
+        "unit_price": "141.60",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-06-13",
+    "po_number": "PO-000163",
+    "total_amount": "32479.50",
+    "vendor_id": "VEN-004"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000026",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 1,
+        "line_total": "756.00",
+        "quantity": "20.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-030",
+        "line_number": 2,
+        "line_total": "7920.00",
+        "quantity": "110.00",
+        "sku": "CBL-CU-2C-030",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-050",
+        "line_number": 3,
+        "line_total": "437.40",
+        "quantity": "108.00",
+        "sku": "NUT-M8-ZN-050",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-028",
+        "line_number": 4,
+        "line_total": "4435.20",
+        "quantity": "88.00",
+        "sku": "GLV-NIT-L-028",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-01-27",
+    "po_number": "PO-000026",
+    "total_amount": "13548.60",
+    "vendor_id": "VEN-002"
+  },
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

@@ -1,0 +1,1424 @@
+[
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000001",
+    "lines": [
+      {
+        "item_id": "ITEM-006",
+        "line_number": "1",
+        "quantity_received": "146",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-015",
+        "line_number": "2",
+        "quantity_received": "60",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-013",
+        "line_number": "3",
+        "quantity_received": "87",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-009",
+        "line_number": "4",
+        "quantity_received": "18",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000001",
+    "receipt_date": "2026-01-06"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000002",
+    "lines": [
+      {
+        "item_id": "ITEM-003",
+        "line_number": "1",
+        "quantity_received": "84",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "2",
+        "quantity_received": "58",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-030",
+        "line_number": "3",
+        "quantity_received": "131",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "4",
+        "quantity_received": "105",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "5",
+        "quantity_received": "121",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000002",
+    "receipt_date": "2026-01-07"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000003",
+    "lines": [
+      {
+        "item_id": "ITEM-024",
+        "line_number": "1",
+        "quantity_received": "96",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "2",
+        "quantity_received": "60",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "3",
+        "quantity_received": "39",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "4",
+        "quantity_received": "134",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-013",
+        "line_number": "5",
+        "quantity_received": "130",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000003",
+    "receipt_date": "2026-01-08"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000004",
+    "lines": [
+      {
+        "item_id": "ITEM-021",
+        "line_number": "1",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-006",
+        "line_number": "2",
+        "quantity_received": "156",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-026",
+        "line_number": "3",
+        "quantity_received": "20",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000004",
+    "receipt_date": "2026-01-09"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000005",
+    "lines": [
+      {
+        "item_id": "ITEM-018",
+        "line_number": "1",
+        "quantity_received": "33",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-028",
+        "line_number": "2",
+        "quantity_received": "141",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-001",
+        "line_number": "3",
+        "quantity_received": "72",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-022",
+        "line_number": "4",
+        "quantity_received": "91",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-024",
+        "line_number": "5",
+        "quantity_received": "32",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      }
+    ],
+    "po_number": "PO-000005",
+    "receipt_date": "2026-01-10"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000006",
+    "lines": [
+      {
+        "item_id": "ITEM-017",
+        "line_number": "1",
+        "quantity_received": "80",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-025",
+        "line_number": "2",
+        "quantity_received": "133",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-006",
+        "line_number": "3",
+        "quantity_received": "159",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-030",
+        "line_number": "4",
+        "quantity_received": "54",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-004",
+        "line_number": "5",
+        "quantity_received": "43",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      }
+    ],
+    "po_number": "PO-000006",
+    "receipt_date": "2026-01-11"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000008",
+    "lines": [
+      {
+        "item_id": "ITEM-008",
+        "line_number": "1",
+        "quantity_received": "25",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-002",
+        "line_number": "2",
+        "quantity_received": "128",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "3",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "4",
+        "quantity_received": "140",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "5",
+        "quantity_received": "36",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000008",
+    "receipt_date": "2026-01-13"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000009",
+    "lines": [
+      {
+        "item_id": "ITEM-017",
+        "line_number": "1",
+        "quantity_received": "142",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-028",
+        "line_number": "2",
+        "quantity_received": "55",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-020",
+        "line_number": "3",
+        "quantity_received": "83",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "4",
+        "quantity_received": "106",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "5",
+        "quantity_received": "99",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000009",
+    "receipt_date": "2026-01-14"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000010",
+    "lines": [
+      {
+        "item_id": "ITEM-008",
+        "line_number": "1",
+        "quantity_received": "154",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "2",
+        "quantity_received": "145",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-011",
+        "line_number": "3",
+        "quantity_received": "62",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-001",
+        "line_number": "4",
+        "quantity_received": "154",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000010",
+    "receipt_date": "2026-01-15"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000011",
+    "lines": [
+      {
+        "item_id": "ITEM-003",
+        "line_number": "1",
+        "quantity_received": "88",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "2",
+        "quantity_received": "22",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-002",
+        "line_number": "3",
+        "quantity_received": "135",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-028",
+        "line_number": "4",
+        "quantity_received": "64",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      }
+    ],
+    "po_number": "PO-000011",
+    "receipt_date": "2026-01-16"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000012",
+    "lines": [
+      {
+        "item_id": "ITEM-024",
+        "line_number": "1",
+        "quantity_received": "150",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-030",
+        "line_number": "2",
+        "quantity_received": "151",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "3",
+        "quantity_received": "125",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000012",
+    "receipt_date": "2026-01-17"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000013",
+    "lines": [
+      {
+        "item_id": "ITEM-004",
+        "line_number": "1",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-022",
+        "line_number": "2",
+        "quantity_received": "109",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "3",
+        "quantity_received": "123",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-012",
+        "line_number": "4",
+        "quantity_received": "17",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      }
+    ],
+    "po_number": "PO-000013",
+    "receipt_date": "2026-01-18"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000014",
+    "lines": [
+      {
+        "item_id": "ITEM-024",
+        "line_number": "1",
+        "quantity_received": "141",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-011",
+        "line_number": "2",
+        "quantity_received": "118",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-026",
+        "line_number": "3",
+        "quantity_received": "39",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-004",
+        "line_number": "4",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-008",
+        "line_number": "5",
+        "quantity_received": "50",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "6",
+        "quantity_received": "75",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-025",
+        "line_number": "7",
+        "quantity_received": "122",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000014",
+    "receipt_date": "2026-01-19"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000015",
+    "lines": [
+      {
+        "item_id": "ITEM-002",
+        "line_number": "1",
+        "quantity_received": "142",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-021",
+        "line_number": "2",
+        "quantity_received": "7",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000015",
+    "receipt_date": "2026-01-20"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000016",
+    "lines": [
+      {
+        "item_id": "ITEM-016",
+        "line_number": "1",
+        "quantity_received": "4",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-030",
+        "line_number": "2",
+        "quantity_received": "103",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "3",
+        "quantity_received": "71",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-013",
+        "line_number": "4",
+        "quantity_received": "120",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-002",
+        "line_number": "5",
+        "quantity_received": "77",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-006",
+        "line_number": "6",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-027",
+        "line_number": "7",
+        "quantity_received": "146",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000016",
+    "receipt_date": "2026-01-21"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000017",
+    "lines": [
+      {
+        "item_id": "ITEM-010",
+        "line_number": "1",
+        "quantity_received": "142",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "2",
+        "quantity_received": "19",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-002",
+        "line_number": "3",
+        "quantity_received": "84",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "4",
+        "quantity_received": "18",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000017",
+    "receipt_date": "2026-01-22"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000018",
+    "lines": [
+      {
+        "item_id": "ITEM-002",
+        "line_number": "1",
+        "quantity_received": "51",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-017",
+        "line_number": "2",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "3",
+        "quantity_received": "156",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000018",
+    "receipt_date": "2026-01-23"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000019",
+    "lines": [
+      {
+        "item_id": "ITEM-029",
+        "line_number": "1",
+        "quantity_received": "67",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "2",
+        "quantity_received": "152",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000019",
+    "receipt_date": "2026-01-24"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000020",
+    "lines": [
+      {
+        "item_id": "ITEM-030",
+        "line_number": "1",
+        "quantity_received": "65",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-009",
+        "line_number": "2",
+        "quantity_received": "71",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "3",
+        "quantity_received": "105",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-022",
+        "line_number": "4",
+        "quantity_received": "37",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-023",
+        "line_number": "5",
+        "quantity_received": "80",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-011",
+        "line_number": "6",
+        "quantity_received": "121",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000020",
+    "receipt_date": "2026-01-25"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000021",
+    "lines": [
+      {
+        "item_id": "ITEM-020",
+        "line_number": "1",
+        "quantity_received": "37",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "2",
+        "quantity_received": "93",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-004",
+        "line_number": "3",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "4",
+        "quantity_received": "66",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-018",
+        "line_number": "5",
+        "quantity_received": "98",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "6",
+        "quantity_received": "76",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-017",
+        "line_number": "7",
+        "quantity_received": "44",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-009",
+        "line_number": "8",
+        "quantity_received": "116",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000021",
+    "receipt_date": "2026-01-26"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000022",
+    "lines": [
+      {
+        "item_id": "ITEM-022",
+        "line_number": "1",
+        "quantity_received": "145",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      }
+    ],
+    "po_number": "PO-000022",
+    "receipt_date": "2026-01-27"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000023",
+    "lines": [
+      {
+        "item_id": "ITEM-004",
+        "line_number": "1",
+        "quantity_received": "73",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "2",
+        "quantity_received": "76",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-024",
+        "line_number": "3",
+        "quantity_received": "158",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-018",
+        "line_number": "4",
+        "quantity_received": "57",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-005",
+        "line_number": "5",
+        "quantity_received": "91",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000023",
+    "receipt_date": "2026-01-28"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000024",
+    "lines": [
+      {
+        "item_id": "ITEM-009",
+        "line_number": "1",
+        "quantity_received": "15",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "2",
+        "quantity_received": "4",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-028",
+        "line_number": "3",
+        "quantity_received": "89",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-002",
+        "line_number": "4",
+        "quantity_received": "37",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "5",
+        "quantity_received": "71",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-021",
+        "line_number": "6",
+        "quantity_received": "45",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "7",
+        "quantity_received": "117",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-030",
+        "line_number": "8",
+        "quantity_received": "145",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      }
+    ],
+    "po_number": "PO-000024",
+    "receipt_date": "2026-01-29"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000026",
+    "lines": [
+      {
+        "item_id": "ITEM-014",
+        "line_number": "1",
+        "quantity_received": "82",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-005",
+        "line_number": "2",
+        "quantity_received": "97",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-002",
+        "line_number": "3",
+        "quantity_received": "14",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000026",
+    "receipt_date": "2026-01-31"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000027",
+    "lines": [
+      {
+        "item_id": "ITEM-012",
+        "line_number": "1",
+        "quantity_received": "147",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-025",
+        "line_number": "2",
+        "quantity_received": "108",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000027",
+    "receipt_date": "2026-02-01"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000028",
+    "lines": [
+      {
+        "item_id": "ITEM-026",
+        "line_number": "1",
+        "quantity_received": "109",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-006",
+        "line_number": "2",
+        "quantity_received": "10",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "3",
+        "quantity_received": "49",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000028",
+    "receipt_date": "2026-02-02"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000030",
+    "lines": [
+      {
+        "item_id": "ITEM-027",
+        "line_number": "1",
+        "quantity_received": "53",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-026",
+        "line_number": "2",
+        "quantity_received": "106",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-028",
+        "line_number": "3",
+        "quantity_received": "88",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-008",
+        "line_number": "4",
+        "quantity_received": "75",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-001",
+        "line_number": "5",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000030",
+    "receipt_date": "2026-02-04"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000031",
+    "lines": [
+      {
+        "item_id": "ITEM-022",
+        "line_number": "1",
+        "quantity_received": "49",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-027",
+        "line_number": "2",
+        "quantity_received": "152",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-018",
+        "line_number": "3",
+        "quantity_received": "71",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-011",
+        "line_number": "4",
+        "quantity_received": "13",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-001",
+        "line_number": "5",
+        "quantity_received": "31",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-004",
+        "line_number": "6",
+        "quantity_received": "156",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-009",
+        "line_number": "7",
+        "quantity_received": "115",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000031",
+    "receipt_date": "2026-02-05"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000032",
+    "lines": [
+      {
+        "item_id": "ITEM-013",
+        "line_number": "1",
+        "quantity_received": "151",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "2",
+        "quantity_received": "52",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000032",
+    "receipt_date": "2026-02-06"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000033",
+    "lines": [
+      {
+        "item_id": "ITEM-012",
+        "line_number": "1",
+        "quantity_received": "88",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "2",
+        "quantity_received": "84",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-003",
+        "line_number": "3",
+        "quantity_received": "35",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-022",
+        "line_number": "4",
+        "quantity_received": "80",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      }
+    ],
+    "po_number": "PO-000033",
+    "receipt_date": "2026-02-07"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000034",
+    "lines": [
+      {
+        "item_id": "ITEM-023",
+        "line_number": "1",
+        "quantity_received": "101",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-010",
+        "line_number": "2",
+        "quantity_received": "48",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-018",
+        "line_number": "3",
+        "quantity_received": "149",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-005",
+        "line_number": "4",
+        "quantity_received": "81",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "5",
+        "quantity_received": "107",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-014",
+        "line_number": "6",
+        "quantity_received": "144",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-022",
+        "line_number": "7",
+        "quantity_received": "4",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      }
+    ],
+    "po_number": "PO-000034",
+    "receipt_date": "2026-02-08"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000035",
+    "lines": [
+      {
+        "item_id": "ITEM-015",
+        "line_number": "1",
+        "quantity_received": "125",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-030",
+        "line_number": "2",
+        "quantity_received": "47",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "3",
+        "quantity_received": "25",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-022",
+        "line_number": "4",
+        "quantity_received": "76",
+        "quantity_rejected": "0",
+        "uom": "MTR"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "5",
+        "quantity_received": "135",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-017",
+        "line_number": "6",
+        "quantity_received": "89",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000035",
+    "receipt_date": "2026-02-09"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000036",
+    "lines": [
+      {
+        "item_id": "ITEM-026",
+        "line_number": "1",
+        "quantity_received": "15",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "2",
+        "quantity_received": "66",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-005",
+        "line_number": "3",
+        "quantity_received": "125",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-001",
+        "line_number": "4",
+        "quantity_received": "160",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000036",
+    "receipt_date": "2026-02-10"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000037",
+    "lines": [
+      {
+        "item_id": "ITEM-029",
+        "line_number": "1",
+        "quantity_received": "130",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-021",
+        "line_number": "2",
+        "quantity_received": "106",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-019",
+        "line_number": "3",
+        "quantity_received": "66",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-007",
+        "line_number": "4",
+        "quantity_received": "41",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-023",
+        "line_number": "5",
+        "quantity_received": "5",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-026",
+        "line_number": "6",
+        "quantity_received": "31",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-013",
+        "line_number": "7",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      }
+    ],
+    "po_number": "PO-000037",
+    "receipt_date": "2026-02-11"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000038",
+    "lines": [
+      {
+        "item_id": "ITEM-018",
+        "line_number": "1",
+        "quantity_received": "67",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000038",
+    "receipt_date": "2026-02-12"
+  },
+  {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000040",
+    "lines": [
+      {
+        "item_id": "ITEM-025",
+        "line_number": "1",
+        "quantity_received": "113",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-029",
+        "line_number": "2",
+        "quantity_received": "144",
+        "quantity_rejected": "0",
+        "uom": "LTR"
+      },
+      {
+        "item_id": "ITEM-015",
+        "line_number": "3",
+        "quantity_received": "118",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-020",
+        "line_number": "4",
+        "quantity_received": "44",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-024",
+        "line_number": "5",
+        "quantity_received": "125",
+        "quantity_rejected": "0",
+        "uom": "ROLL"
+      },
+      {
+        "item_id": "ITEM-017",
+        "line_number": "6",
+        "quantity_received": "119",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      }
+    ],
+    "po_number": "PO-000040",
+    "receipt_date": "2026-02-14"
+  }
+]

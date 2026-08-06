@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1407 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000028    Receipt Date: 2026-02-02) Tj
+T*
+(Linked PO: PO-000028) Tj
+T*
+(Vendor: Prism Machine Tools Pvt Ltd \(VEN-007\)) Tj
+T*
+(Condition: Partial delivery recorded; invoice still bills the ordered quantity.) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Ordered Item  Delivered SKU        Recv     Rej  UOM   Status) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-052      GLV-NIT-L-052             155      0 PAIR  ACCEPTED  ) Tj
+T*
+(2   ITEM-022      CBL-CU-2C-022             144      0 MTR   PARTIAL   ) Tj
+T*
+(    Note: Short received by 4 MTR) Tj
+T*
+(3   ITEM-060      GLV-NIT-L-060              10      0 PAIR  ACCEPTED  ) Tj
+T*
+(4   ITEM-017      BLT-M8-040-ZN-017          25      0 EA    ACCEPTED  ) Tj
+T*
+(5   ITEM-069      OIL-HYD-46-069            113      0 LTR   ACCEPTED  ) Tj
+T*
+(6   ITEM-004      GLV-NIT-L                  38      0 PAIR  ACCEPTED  ) Tj
+T*
+(7   ITEM-051      BRG-6205-2RS-051          122      0 EA    ACCEPTED  ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001594 00000 n 
+0000001651 00000 n 
+0000001721 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1770
+%%EOF

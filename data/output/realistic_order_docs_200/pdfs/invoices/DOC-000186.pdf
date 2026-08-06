@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1608 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(TAX INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Cobalt Warehouse Services Pvt Ltd \(VEN-011\)) Tj
+T*
+(Tax ID: 99SYNTH0011Z4) Tj
+T*
+(Address: 851 Test Estate, Pune, Fictional India) Tj
+T*
+(Invoice No: INV-000186    Document: DOC-000186) Tj
+T*
+(Invoice Date: 2026-01-15    Due Date: 2026-02-14) Tj
+T*
+(PO: PO-000186    GRN: GRN-000186) Tj
+T*
+(Currency: INR    Scenario: ARITHMETIC_ERROR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   BLT-M8-040-ZN-009    M8x40 Hex Bolt Zinc                 160 EA        12.00    1920.00) Tj
+T*
+(2   GLV-NIT-L-068        Nitrile Safety Gloves Large          46 PAIR      50.40    2318.40) Tj
+T*
+(3   BLT-M8-040-ZN-073    M8x40 Hex Bolt Zinc                 116 EA         9.00    1044.00) Tj
+T*
+(4   NUT-M8-ZN            M8 Zinc Hex Nut                      93 EA         4.05     376.65) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 5659.05) Tj
+T*
+(Tax: INR 1018.63) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 6676.68) Tj
+T*
+(Calculated Gross Total: INR 6677.68) Tj
+T*
+(Source document intentionally contains an arithmetic error.) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001795 00000 n 
+0000001852 00000 n 
+0000001922 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1971
+%%EOF

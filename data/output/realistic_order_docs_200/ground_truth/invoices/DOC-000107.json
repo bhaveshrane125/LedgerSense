@@ -1,0 +1,109 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "72418.96",
+    "printed_gross_total": null,
+    "subtotal": "61372.00",
+    "tax": "11046.96"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000107",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-05-26",
+    "grn_reference": "GRN-000107",
+    "invoice_date": "2026-04-26",
+    "po_reference": "PO-000107"
+  },
+  "invoice_number": "INV-000107",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-067",
+      "line_number": 1,
+      "line_total": "9361.00",
+      "quantity": "46.00",
+      "sku": "BRG-6205-2RS-067",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-020",
+      "line_number": 2,
+      "line_total": "1701.00",
+      "quantity": "45.00",
+      "sku": "GLV-NIT-L-020",
+      "tax_rate": "0.18",
+      "unit_price": "37.80",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-039",
+      "line_number": 3,
+      "line_total": "50310.00",
+      "quantity": "86.00",
+      "sku": "FLT-AIR-010-039",
+      "tax_rate": "0.18",
+      "unit_price": "585.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-067",
+        "line_number": 1,
+        "line_total": "9361.00",
+        "quantity": "46.00",
+        "sku": "BRG-6205-2RS-067",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 2,
+        "line_total": "1701.00",
+        "quantity": "45.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-039",
+        "line_number": 3,
+        "line_total": "50310.00",
+        "quantity": "86.00",
+        "sku": "FLT-AIR-010-039",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-04-18",
+    "po_number": "PO-000107",
+    "total_amount": "61372.00",
+    "vendor_id": "VEN-014"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

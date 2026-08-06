@@ -1,0 +1,197 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "244017.20",
+    "printed_gross_total": null,
+    "subtotal": "206794.24",
+    "tax": "37222.96"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000141",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "PRICE_VARIANCE_OVER"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-06-29",
+    "grn_reference": "GRN-000141",
+    "invoice_date": "2026-05-30",
+    "po_reference": "PO-000141"
+  },
+  "invoice_number": "INV-000141",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-019",
+      "line_number": 1,
+      "line_total": "27147.48",
+      "quantity": "116.00",
+      "sku": "BRG-6205-2RS-019",
+      "tax_rate": "0.18",
+      "unit_price": "234.03",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-032",
+      "line_number": 2,
+      "line_total": "77280.00",
+      "quantity": "84.00",
+      "sku": "PKG-STRAP-16-032",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-005",
+      "line_number": 3,
+      "line_total": "15717.60",
+      "quantity": "111.00",
+      "sku": "OIL-HYD-46",
+      "tax_rate": "0.18",
+      "unit_price": "141.60",
+      "uom": "LTR"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-074",
+      "line_number": 4,
+      "line_total": "198.66",
+      "quantity": "42.00",
+      "sku": "NUT-M8-ZN-074",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-015",
+      "line_number": 5,
+      "line_total": "63765.00",
+      "quantity": "109.00",
+      "sku": "FLT-AIR-010-015",
+      "tax_rate": "0.18",
+      "unit_price": "585.00",
+      "uom": "EA"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-025",
+      "line_number": 6,
+      "line_total": "504.00",
+      "quantity": "56.00",
+      "sku": "BLT-M8-040-ZN-025",
+      "tax_rate": "0.18",
+      "unit_price": "9.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-003",
+      "line_number": 7,
+      "line_total": "22181.50",
+      "quantity": "109.00",
+      "sku": "BRG-6205-2RS",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 1,
+        "line_total": "23606.00",
+        "quantity": "116.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-032",
+        "line_number": 2,
+        "line_total": "77280.00",
+        "quantity": "84.00",
+        "sku": "PKG-STRAP-16-032",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-005",
+        "line_number": 3,
+        "line_total": "15717.60",
+        "quantity": "111.00",
+        "sku": "OIL-HYD-46",
+        "tax_rate": "0.18",
+        "unit_price": "141.60",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-074",
+        "line_number": 4,
+        "line_total": "198.66",
+        "quantity": "42.00",
+        "sku": "NUT-M8-ZN-074",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-015",
+        "line_number": 5,
+        "line_total": "63765.00",
+        "quantity": "109.00",
+        "sku": "FLT-AIR-010-015",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-025",
+        "line_number": 6,
+        "line_total": "504.00",
+        "quantity": "56.00",
+        "sku": "BLT-M8-040-ZN-025",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 7,
+        "line_total": "22181.50",
+        "quantity": "109.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-22",
+    "po_number": "PO-000141",
+    "total_amount": "203252.76",
+    "vendor_id": "VEN-011"
+  },
+  "scenario": "PRICE_VARIANCE_OVER",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Cobalt Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0011Z4",
+    "vendor_id": "VEN-011"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Receiving team recorded a delivered item mismatch.",
+    "grn_number": "GRN-000034",
+    "lines": [
+      {
+        "delivered_sku": "FLT-AIR-010-063",
+        "item_id": "ITEM-063",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-063",
+        "ordered_sku": "FLT-AIR-010-063",
+        "quantity_ordered": "79",
+        "quantity_received": "79",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-072",
+        "item_id": "ITEM-072",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-072",
+        "ordered_sku": "PKG-STRAP-16-072",
+        "quantity_ordered": "60",
+        "quantity_received": "60",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-031",
+        "item_id": "ITEM-031",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-031",
+        "ordered_sku": "FLT-AIR-010-031",
+        "quantity_ordered": "107",
+        "quantity_received": "107",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-061",
+        "item_id": "ITEM-061",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-061",
+        "ordered_sku": "OIL-HYD-46-061",
+        "quantity_ordered": "66",
+        "quantity_received": "66",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-080",
+        "item_id": "ITEM-080",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-080",
+        "ordered_sku": "PKG-STRAP-16-080",
+        "quantity_ordered": "82",
+        "quantity_received": "82",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-055",
+        "item_id": "ITEM-055",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-058",
+        "ordered_sku": "NUT-M8-ZN-058",
+        "quantity_ordered": "152",
+        "quantity_received": "152",
+        "quantity_rejected": "0",
+        "receipt_status": "WRONG_ITEM",
+        "uom": "EA",
+        "variance_note": "Delivered FLT-AIR-010-055 instead of ordered SKU NUT-M8-ZN-058"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS",
+        "item_id": "ITEM-003",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-003",
+        "ordered_sku": "BRG-6205-2RS",
+        "quantity_ordered": "98",
+        "quantity_received": "98",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-012",
+        "item_id": "ITEM-012",
+        "line_number": "8",
+        "ordered_item_id": "ITEM-012",
+        "ordered_sku": "GLV-NIT-L-012",
+        "quantity_ordered": "125",
+        "quantity_received": "125",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000034",
+    "receipt_date": "2026-02-08"
+  },
+  "grn_number": "GRN-000034",
+  "po_number": "PO-000034",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

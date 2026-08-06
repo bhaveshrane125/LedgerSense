@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "One ordered line was not present in the delivery.",
+    "grn_number": "GRN-000064",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-077",
+        "item_id": "ITEM-077",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-077",
+        "ordered_sku": "OIL-HYD-46-077",
+        "quantity_ordered": "36",
+        "quantity_received": "36",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010",
+        "item_id": "ITEM-007",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-007",
+        "ordered_sku": "FLT-AIR-010",
+        "quantity_ordered": "56",
+        "quantity_received": "56",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-043",
+        "item_id": "ITEM-043",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-043",
+        "ordered_sku": "BRG-6205-2RS-043",
+        "quantity_ordered": "21",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-032",
+        "item_id": "ITEM-032",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-032",
+        "ordered_sku": "PKG-STRAP-16-032",
+        "quantity_ordered": "145",
+        "quantity_received": "145",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000064",
+    "receipt_date": "2026-03-10"
+  },
+  "grn_number": "GRN-000064",
+  "po_number": "PO-000064",
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

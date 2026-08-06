@@ -1,0 +1,87 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "124816.86",
+    "printed_gross_total": null,
+    "subtotal": "105777.00",
+    "tax": "19039.86"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000125",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "PRICE_VARIANCE_OVER"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-06-13",
+    "grn_reference": "GRN-000125",
+    "invoice_date": "2026-05-14",
+    "po_reference": "PO-000125"
+  },
+  "invoice_number": "INV-000125",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-009",
+      "line_number": 1,
+      "line_total": "1449.00",
+      "quantity": "105.00",
+      "sku": "BLT-M8-040-ZN-009",
+      "tax_rate": "0.18",
+      "unit_price": "13.80",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-040",
+      "line_number": 2,
+      "line_total": "104328.00",
+      "quantity": "126.00",
+      "sku": "PKG-STRAP-16-040",
+      "tax_rate": "0.18",
+      "unit_price": "828.00",
+      "uom": "ROLL"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-009",
+        "line_number": 1,
+        "line_total": "1260.00",
+        "quantity": "105.00",
+        "sku": "BLT-M8-040-ZN-009",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-040",
+        "line_number": 2,
+        "line_total": "104328.00",
+        "quantity": "126.00",
+        "sku": "PKG-STRAP-16-040",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-05-06",
+    "po_number": "PO-000125",
+    "total_amount": "105588.00",
+    "vendor_id": "VEN-003"
+  },
+  "scenario": "PRICE_VARIANCE_OVER",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

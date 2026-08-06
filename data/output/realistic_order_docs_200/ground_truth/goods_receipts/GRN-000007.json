@@ -1,0 +1,57 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Material partially received; balance is pending vendor dispatch.",
+    "grn_number": "GRN-000007",
+    "lines": [
+      {
+        "delivered_sku": "FLT-AIR-010-031",
+        "item_id": "ITEM-031",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-031",
+        "ordered_sku": "FLT-AIR-010-031",
+        "quantity_ordered": "149",
+        "quantity_received": "149",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-052",
+        "item_id": "ITEM-052",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-052",
+        "ordered_sku": "GLV-NIT-L-052",
+        "quantity_ordered": "67",
+        "quantity_received": "67",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-016",
+        "item_id": "ITEM-016",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-016",
+        "ordered_sku": "PKG-STRAP-16-016",
+        "quantity_ordered": "152",
+        "quantity_received": "149",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "ROLL",
+        "variance_note": "Short received by 3 ROLL"
+      }
+    ],
+    "po_number": "PO-000007",
+    "receipt_date": "2026-01-12"
+  },
+  "grn_number": "GRN-000007",
+  "po_number": "PO-000007",
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

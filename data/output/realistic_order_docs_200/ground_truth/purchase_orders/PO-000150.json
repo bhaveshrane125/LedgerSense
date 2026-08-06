@@ -1,0 +1,96 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000150",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 1,
+        "line_total": "10989.00",
+        "quantity": "66.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 2,
+        "line_total": "13542.00",
+        "quantity": "61.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-011",
+        "line_number": 3,
+        "line_total": "13320.00",
+        "quantity": "80.00",
+        "sku": "BRG-6205-2RS-011",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-048",
+        "line_number": 4,
+        "line_total": "19872.00",
+        "quantity": "24.00",
+        "sku": "PKG-STRAP-16-048",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-052",
+        "line_number": 5,
+        "line_total": "504.00",
+        "quantity": "12.00",
+        "sku": "GLV-NIT-L-052",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 6,
+        "line_total": "5994.00",
+        "quantity": "27.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-073",
+        "line_number": 7,
+        "line_total": "963.00",
+        "quantity": "107.00",
+        "sku": "BLT-M8-040-ZN-073",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-31",
+    "po_number": "PO-000150",
+    "total_amount": "65184.00",
+    "vendor_id": "VEN-014"
+  },
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

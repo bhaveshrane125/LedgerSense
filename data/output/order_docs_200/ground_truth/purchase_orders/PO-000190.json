@@ -1,0 +1,107 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000190",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-010",
+        "line_number": 1,
+        "line_total": "153.90",
+        "quantity": "38.00",
+        "sku": "NUT-M8-ZN-010",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-047",
+        "line_number": 2,
+        "line_total": "47385.00",
+        "quantity": "81.00",
+        "sku": "FLT-AIR-010-047",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-033",
+        "line_number": 3,
+        "line_total": "60.00",
+        "quantity": "5.00",
+        "sku": "BLT-M8-040-ZN-033",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-032",
+        "line_number": 4,
+        "line_total": "96600.00",
+        "quantity": "105.00",
+        "sku": "PKG-STRAP-16-032",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-064",
+        "line_number": 5,
+        "line_total": "85974.00",
+        "quantity": "89.00",
+        "sku": "PKG-STRAP-16-064",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 6,
+        "line_total": "477.73",
+        "quantity": "101.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 7,
+        "line_total": "19536.00",
+        "quantity": "88.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-014",
+        "line_number": 8,
+        "line_total": "8769.60",
+        "quantity": "116.00",
+        "sku": "CBL-CU-2C-014",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      }
+    ],
+    "po_date": "2026-01-11",
+    "po_number": "PO-000190",
+    "total_amount": "258956.23",
+    "vendor_id": "VEN-005"
+  },
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

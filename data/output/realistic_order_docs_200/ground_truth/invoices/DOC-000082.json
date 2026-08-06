@@ -1,0 +1,131 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "86320.30",
+    "printed_gross_total": null,
+    "subtotal": "73152.80",
+    "tax": "13167.50"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000082",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "WRONG_ITEM_DELIVERED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-05-01",
+    "grn_reference": "GRN-000082",
+    "invoice_date": "2026-04-01",
+    "po_reference": "PO-000082"
+  },
+  "invoice_number": "INV-000082",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-031",
+      "line_number": 1,
+      "line_total": "36855.00",
+      "quantity": "54.00",
+      "sku": "FLT-AIR-010-031",
+      "tax_rate": "0.18",
+      "unit_price": "682.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-014",
+      "line_number": 2,
+      "line_total": "3628.80",
+      "quantity": "48.00",
+      "sku": "CBL-CU-2C-014",
+      "tax_rate": "0.18",
+      "unit_price": "75.60",
+      "uom": "MTR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-019",
+      "line_number": 3,
+      "line_total": "32153.00",
+      "quantity": "158.00",
+      "sku": "BRG-6205-2RS-019",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-033",
+      "line_number": 4,
+      "line_total": "516.00",
+      "quantity": "43.00",
+      "sku": "BLT-M8-040-ZN-033",
+      "tax_rate": "0.18",
+      "unit_price": "12.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-031",
+        "line_number": 1,
+        "line_total": "36855.00",
+        "quantity": "54.00",
+        "sku": "FLT-AIR-010-031",
+        "tax_rate": "0.18",
+        "unit_price": "682.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-014",
+        "line_number": 2,
+        "line_total": "3628.80",
+        "quantity": "48.00",
+        "sku": "CBL-CU-2C-014",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 3,
+        "line_total": "32153.00",
+        "quantity": "158.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-033",
+        "line_number": 4,
+        "line_total": "516.00",
+        "quantity": "43.00",
+        "sku": "BLT-M8-040-ZN-033",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-24",
+    "po_number": "PO-000082",
+    "total_amount": "73152.80",
+    "vendor_id": "VEN-006"
+  },
+  "scenario": "WRONG_ITEM_DELIVERED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

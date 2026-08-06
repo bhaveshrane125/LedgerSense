@@ -1,0 +1,65 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "229.39",
+    "printed_gross_total": null,
+    "subtotal": "194.40",
+    "tax": "34.99"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000098",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-05-17",
+    "grn_reference": "GRN-000098",
+    "invoice_date": "2026-04-17",
+    "po_reference": "PO-000098"
+  },
+  "invoice_number": "INV-000098",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-058",
+      "line_number": 1,
+      "line_total": "194.40",
+      "quantity": "36.00",
+      "sku": "NUT-M8-ZN-058",
+      "tax_rate": "0.18",
+      "unit_price": "5.40",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-058",
+        "line_number": 1,
+        "line_total": "162.00",
+        "quantity": "30.00",
+        "sku": "NUT-M8-ZN-058",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-04-09",
+    "po_number": "PO-000098",
+    "total_amount": "162.00",
+    "vendor_id": "VEN-003"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

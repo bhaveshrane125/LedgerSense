@@ -1,0 +1,219 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "231211.91",
+    "printed_gross_total": null,
+    "subtotal": "195942.30",
+    "tax": "35269.61"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000038",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "UOM_MISMATCH"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-18",
+    "grn_reference": "GRN-000038",
+    "invoice_date": "2026-02-16",
+    "po_reference": "PO-000038"
+  },
+  "invoice_number": "INV-000038",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-060",
+      "line_number": 1,
+      "line_total": "5497.80",
+      "quantity": "119.00",
+      "sku": "GLV-NIT-L-060",
+      "tax_rate": "0.18",
+      "unit_price": "46.20",
+      "uom": "ALT"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-056",
+      "line_number": 2,
+      "line_total": "60720.00",
+      "quantity": "66.00",
+      "sku": "PKG-STRAP-16-056",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-076",
+      "line_number": 3,
+      "line_total": "6148.80",
+      "quantity": "122.00",
+      "sku": "GLV-NIT-L-076",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-035",
+      "line_number": 4,
+      "line_total": "24808.50",
+      "quantity": "149.00",
+      "sku": "BRG-6205-2RS-035",
+      "tax_rate": "0.18",
+      "unit_price": "166.50",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-042",
+      "line_number": 5,
+      "line_total": "756.80",
+      "quantity": "160.00",
+      "sku": "NUT-M8-ZN-042",
+      "tax_rate": "0.18",
+      "unit_price": "4.73",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-032",
+      "line_number": 6,
+      "line_total": "92920.00",
+      "quantity": "101.00",
+      "sku": "PKG-STRAP-16-032",
+      "tax_rate": "0.18",
+      "unit_price": "920.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-012",
+      "line_number": 7,
+      "line_total": "4536.00",
+      "quantity": "90.00",
+      "sku": "GLV-NIT-L-012",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-036",
+      "line_number": 8,
+      "line_total": "554.40",
+      "quantity": "11.00",
+      "sku": "GLV-NIT-L-036",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-060",
+        "line_number": 1,
+        "line_total": "5497.80",
+        "quantity": "119.00",
+        "sku": "GLV-NIT-L-060",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-056",
+        "line_number": 2,
+        "line_total": "60720.00",
+        "quantity": "66.00",
+        "sku": "PKG-STRAP-16-056",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-076",
+        "line_number": 3,
+        "line_total": "6148.80",
+        "quantity": "122.00",
+        "sku": "GLV-NIT-L-076",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 4,
+        "line_total": "24808.50",
+        "quantity": "149.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-042",
+        "line_number": 5,
+        "line_total": "756.80",
+        "quantity": "160.00",
+        "sku": "NUT-M8-ZN-042",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-032",
+        "line_number": 6,
+        "line_total": "92920.00",
+        "quantity": "101.00",
+        "sku": "PKG-STRAP-16-032",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-012",
+        "line_number": 7,
+        "line_total": "4536.00",
+        "quantity": "90.00",
+        "sku": "GLV-NIT-L-012",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-036",
+        "line_number": 8,
+        "line_total": "554.40",
+        "quantity": "11.00",
+        "sku": "GLV-NIT-L-036",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-02-08",
+    "po_number": "PO-000038",
+    "total_amount": "195942.30",
+    "vendor_id": "VEN-013"
+  },
+  "scenario": "UOM_MISMATCH",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

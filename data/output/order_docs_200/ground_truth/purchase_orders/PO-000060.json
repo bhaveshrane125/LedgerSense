@@ -1,0 +1,41 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000060",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-043",
+        "line_number": 1,
+        "line_total": "18685.00",
+        "quantity": "101.00",
+        "sku": "BRG-6205-2RS-043",
+        "tax_rate": "0.18",
+        "unit_price": "185.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-069",
+        "line_number": 2,
+        "line_total": "11033.00",
+        "quantity": "85.00",
+        "sku": "OIL-HYD-46-069",
+        "tax_rate": "0.18",
+        "unit_price": "129.80",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-03-02",
+    "po_number": "PO-000060",
+    "total_amount": "29718.00",
+    "vendor_id": "VEN-011"
+  },
+  "vendor": {
+    "name": "Cobalt Warehouse Services Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0011Z4",
+    "vendor_id": "VEN-011"
+  }
+}

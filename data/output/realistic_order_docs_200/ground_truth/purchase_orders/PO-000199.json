@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000199",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 1,
+        "line_total": "5367.60",
+        "quantity": "142.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-001",
+        "line_number": 2,
+        "line_total": "1104.00",
+        "quantity": "92.00",
+        "sku": "BLT-M8-040-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-053",
+        "line_number": 3,
+        "line_total": "708.00",
+        "quantity": "6.00",
+        "sku": "OIL-HYD-46-053",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-004",
+        "line_number": 4,
+        "line_total": "4111.80",
+        "quantity": "89.00",
+        "sku": "GLV-NIT-L",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-030",
+        "line_number": 5,
+        "line_total": "288.00",
+        "quantity": "4.00",
+        "sku": "CBL-CU-2C-030",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      }
+    ],
+    "po_date": "2026-01-20",
+    "po_number": "PO-000199",
+    "total_amount": "11579.40",
+    "vendor_id": "VEN-012"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 45",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

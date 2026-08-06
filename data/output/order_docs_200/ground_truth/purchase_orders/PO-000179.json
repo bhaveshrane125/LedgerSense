@@ -1,0 +1,85 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000179",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 1,
+        "line_total": "24642.00",
+        "quantity": "148.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 2,
+        "line_total": "14652.00",
+        "quantity": "66.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-011",
+        "line_number": 3,
+        "line_total": "10156.50",
+        "quantity": "61.00",
+        "sku": "BRG-6205-2RS-011",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-048",
+        "line_number": 4,
+        "line_total": "66240.00",
+        "quantity": "80.00",
+        "sku": "PKG-STRAP-16-048",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-052",
+        "line_number": 5,
+        "line_total": "1008.00",
+        "quantity": "24.00",
+        "sku": "GLV-NIT-L-052",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 6,
+        "line_total": "2664.00",
+        "quantity": "12.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-06-29",
+    "po_number": "PO-000179",
+    "total_amount": "119362.50",
+    "vendor_id": "VEN-005"
+  },
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

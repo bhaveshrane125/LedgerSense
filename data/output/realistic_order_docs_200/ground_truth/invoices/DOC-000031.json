@@ -1,0 +1,173 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "156984.84",
+    "printed_gross_total": null,
+    "subtotal": "133038.00",
+    "tax": "23946.84"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000031",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-11",
+    "grn_reference": "GRN-000031",
+    "invoice_date": "2026-02-09",
+    "po_reference": "PO-000031"
+  },
+  "invoice_number": "INV-000031",
+  "layout": "CLASSIC",
+  "line_items": [
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-077",
+      "line_number": 1,
+      "line_total": "16000.80",
+      "quantity": "113.00",
+      "sku": "OIL-HYD-46-077",
+      "tax_rate": "0.18",
+      "unit_price": "141.60",
+      "uom": "LTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-016",
+      "line_number": 2,
+      "line_total": "94668.00",
+      "quantity": "98.00",
+      "sku": "PKG-STRAP-16-016",
+      "tax_rate": "0.18",
+      "unit_price": "966.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-073",
+      "line_number": 3,
+      "line_total": "189.00",
+      "quantity": "21.00",
+      "sku": "BLT-M8-040-ZN-073",
+      "tax_rate": "0.18",
+      "unit_price": "9.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-006",
+      "line_number": 4,
+      "line_total": "10533.60",
+      "quantity": "133.00",
+      "sku": "CBL-CU-2C",
+      "tax_rate": "0.18",
+      "unit_price": "79.20",
+      "uom": "MTR"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-045",
+      "line_number": 5,
+      "line_total": "10738.00",
+      "quantity": "91.00",
+      "sku": "OIL-HYD-46-045",
+      "tax_rate": "0.18",
+      "unit_price": "118.00",
+      "uom": "LTR"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-069",
+      "line_number": 6,
+      "line_total": "908.60",
+      "quantity": "7.00",
+      "sku": "OIL-HYD-46-069",
+      "tax_rate": "0.18",
+      "unit_price": "129.80",
+      "uom": "LTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-077",
+        "line_number": 1,
+        "line_total": "16000.80",
+        "quantity": "113.00",
+        "sku": "OIL-HYD-46-077",
+        "tax_rate": "0.18",
+        "unit_price": "141.60",
+        "uom": "LTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-016",
+        "line_number": 2,
+        "line_total": "94668.00",
+        "quantity": "98.00",
+        "sku": "PKG-STRAP-16-016",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-073",
+        "line_number": 3,
+        "line_total": "189.00",
+        "quantity": "21.00",
+        "sku": "BLT-M8-040-ZN-073",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-006",
+        "line_number": 4,
+        "line_total": "10533.60",
+        "quantity": "133.00",
+        "sku": "CBL-CU-2C",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-045",
+        "line_number": 5,
+        "line_total": "10738.00",
+        "quantity": "91.00",
+        "sku": "OIL-HYD-46-045",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-069",
+        "line_number": 6,
+        "line_total": "908.60",
+        "quantity": "7.00",
+        "sku": "OIL-HYD-46-069",
+        "tax_rate": "0.18",
+        "unit_price": "129.80",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-02-01",
+    "po_number": "PO-000031",
+    "total_amount": "133038.00",
+    "vendor_id": "VEN-002"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

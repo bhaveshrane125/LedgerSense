@@ -1,0 +1,109 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "193427.90",
+    "printed_gross_total": null,
+    "subtotal": "163921.95",
+    "tax": "29505.95"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000049",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-29",
+    "grn_reference": "GRN-000049",
+    "invoice_date": "2026-02-27",
+    "po_reference": "PO-000049"
+  },
+  "invoice_number": "INV-000049",
+  "layout": "COMPACT",
+  "line_items": [
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-010",
+      "line_number": 1,
+      "line_total": "352.35",
+      "quantity": "87.00",
+      "sku": "NUT-M8-ZN-010",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-008",
+      "line_number": 2,
+      "line_total": "150696.00",
+      "quantity": "156.00",
+      "sku": "PKG-STRAP-16",
+      "tax_rate": "0.18",
+      "unit_price": "966.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-022",
+      "line_number": 3,
+      "line_total": "12873.60",
+      "quantity": "149.00",
+      "sku": "CBL-CU-2C-022",
+      "tax_rate": "0.18",
+      "unit_price": "86.40",
+      "uom": "MTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-010",
+        "line_number": 1,
+        "line_total": "332.10",
+        "quantity": "82.00",
+        "sku": "NUT-M8-ZN-010",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-008",
+        "line_number": 2,
+        "line_total": "150696.00",
+        "quantity": "156.00",
+        "sku": "PKG-STRAP-16",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-022",
+        "line_number": 3,
+        "line_total": "12873.60",
+        "quantity": "149.00",
+        "sku": "CBL-CU-2C-022",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      }
+    ],
+    "po_date": "2026-02-19",
+    "po_number": "PO-000049",
+    "total_amount": "163901.70",
+    "vendor_id": "VEN-014"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

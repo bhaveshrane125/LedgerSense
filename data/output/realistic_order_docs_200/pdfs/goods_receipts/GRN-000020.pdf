@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1334 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000020    Receipt Date: 2026-01-25) Tj
+T*
+(Linked PO: PO-000020) Tj
+T*
+(Vendor: Kaveri Industrial Supplies Pvt Ltd \(VEN-005\)) Tj
+T*
+(Condition: Partial delivery recorded; invoice still bills the ordered quantity.) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Ordered Item  Delivered SKU        Recv     Rej  UOM   Status) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-027      BRG-6205-2RS-027          117      0 EA    ACCEPTED  ) Tj
+T*
+(2   ITEM-056      PKG-STRAP-16-056           58      0 ROLL  ACCEPTED  ) Tj
+T*
+(3   ITEM-075      BRG-6205-2RS-075          101      0 EA    PARTIAL   ) Tj
+T*
+(    Note: Short received by 33 EA) Tj
+T*
+(4   ITEM-042      NUT-M8-ZN-042             125      0 EA    ACCEPTED  ) Tj
+T*
+(5   ITEM-060      GLV-NIT-L-060              47      0 PAIR  ACCEPTED  ) Tj
+T*
+(6   ITEM-057      BLT-M8-040-ZN-057          25      0 EA    ACCEPTED  ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001521 00000 n 
+0000001578 00000 n 
+0000001648 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1697
+%%EOF

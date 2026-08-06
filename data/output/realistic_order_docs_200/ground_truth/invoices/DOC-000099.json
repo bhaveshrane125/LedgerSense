@@ -1,0 +1,175 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "161506.60",
+    "printed_gross_total": null,
+    "subtotal": "136870.00",
+    "tax": "24636.60"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000099",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "ITEMS_MISSING"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-05-18",
+    "grn_reference": "GRN-000099",
+    "invoice_date": "2026-04-18",
+    "po_reference": "PO-000099"
+  },
+  "invoice_number": "INV-000099",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-005",
+      "line_number": 1,
+      "line_total": "10336.80",
+      "quantity": "73.00",
+      "sku": "OIL-HYD-46",
+      "tax_rate": "0.18",
+      "unit_price": "141.60",
+      "uom": "LTR"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-025",
+      "line_number": 2,
+      "line_total": "315.00",
+      "quantity": "35.00",
+      "sku": "BLT-M8-040-ZN-025",
+      "tax_rate": "0.18",
+      "unit_price": "9.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-037",
+      "line_number": 3,
+      "line_total": "12142.20",
+      "quantity": "98.00",
+      "sku": "OIL-HYD-46-037",
+      "tax_rate": "0.18",
+      "unit_price": "123.90",
+      "uom": "LTR"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-046",
+      "line_number": 4,
+      "line_total": "9936.00",
+      "quantity": "115.00",
+      "sku": "CBL-CU-2C-046",
+      "tax_rate": "0.18",
+      "unit_price": "86.40",
+      "uom": "MTR"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-007",
+      "line_number": 5,
+      "line_total": "82680.00",
+      "quantity": "106.00",
+      "sku": "FLT-AIR-010",
+      "tax_rate": "0.18",
+      "unit_price": "780.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-043",
+      "line_number": 6,
+      "line_total": "21460.00",
+      "quantity": "116.00",
+      "sku": "BRG-6205-2RS-043",
+      "tax_rate": "0.18",
+      "unit_price": "185.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-005",
+        "line_number": 1,
+        "line_total": "10336.80",
+        "quantity": "73.00",
+        "sku": "OIL-HYD-46",
+        "tax_rate": "0.18",
+        "unit_price": "141.60",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-025",
+        "line_number": 2,
+        "line_total": "315.00",
+        "quantity": "35.00",
+        "sku": "BLT-M8-040-ZN-025",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-037",
+        "line_number": 3,
+        "line_total": "12142.20",
+        "quantity": "98.00",
+        "sku": "OIL-HYD-46-037",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-046",
+        "line_number": 4,
+        "line_total": "9936.00",
+        "quantity": "115.00",
+        "sku": "CBL-CU-2C-046",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-007",
+        "line_number": 5,
+        "line_total": "82680.00",
+        "quantity": "106.00",
+        "sku": "FLT-AIR-010",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-043",
+        "line_number": 6,
+        "line_total": "21460.00",
+        "quantity": "116.00",
+        "sku": "BRG-6205-2RS-043",
+        "tax_rate": "0.18",
+        "unit_price": "185.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-04-10",
+    "po_number": "PO-000099",
+    "total_amount": "136870.00",
+    "vendor_id": "VEN-008"
+  },
+  "scenario": "ITEMS_MISSING",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Material partially received; balance is pending vendor dispatch.",
+    "grn_number": "GRN-000180",
+    "lines": [
+      {
+        "delivered_sku": "PKG-STRAP-16-032",
+        "item_id": "ITEM-032",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-032",
+        "ordered_sku": "PKG-STRAP-16-032",
+        "quantity_ordered": "129",
+        "quantity_received": "129",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-019",
+        "item_id": "ITEM-019",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-019",
+        "ordered_sku": "BRG-6205-2RS-019",
+        "quantity_ordered": "40",
+        "quantity_received": "40",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-042",
+        "item_id": "ITEM-042",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-042",
+        "ordered_sku": "NUT-M8-ZN-042",
+        "quantity_ordered": "151",
+        "quantity_received": "151",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-051",
+        "item_id": "ITEM-051",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-051",
+        "ordered_sku": "BRG-6205-2RS-051",
+        "quantity_ordered": "72",
+        "quantity_received": "59",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 13 EA"
+      }
+    ],
+    "po_number": "PO-000180",
+    "receipt_date": "2026-01-05"
+  },
+  "grn_number": "GRN-000180",
+  "po_number": "PO-000180",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

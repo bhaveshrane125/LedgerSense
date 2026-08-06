@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000059",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-017",
+        "line_number": 1,
+        "line_total": "803.00",
+        "quantity": "73.00",
+        "sku": "BLT-M8-040-ZN-017",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-070",
+        "line_number": 2,
+        "line_total": "2980.80",
+        "quantity": "46.00",
+        "sku": "CBL-CU-2C-070",
+        "tax_rate": "0.18",
+        "unit_price": "64.80",
+        "uom": "MTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-047",
+        "line_number": 3,
+        "line_total": "40365.00",
+        "quantity": "69.00",
+        "sku": "FLT-AIR-010-047",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-068",
+        "line_number": 4,
+        "line_total": "6400.80",
+        "quantity": "127.00",
+        "sku": "GLV-NIT-L-068",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-065",
+        "line_number": 5,
+        "line_total": "869.00",
+        "quantity": "79.00",
+        "sku": "BLT-M8-040-ZN-065",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-01",
+    "po_number": "PO-000059",
+    "total_amount": "51418.60",
+    "vendor_id": "VEN-003"
+  },
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

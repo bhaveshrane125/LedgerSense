@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000002",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 1,
+        "line_total": "17094.00",
+        "quantity": "84.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-007",
+        "line_number": 2,
+        "line_total": "33930.00",
+        "quantity": "58.00",
+        "sku": "FLT-AIR-010",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-030",
+        "line_number": 3,
+        "line_total": "8488.80",
+        "quantity": "131.00",
+        "sku": "CBL-CU-2C-030",
+        "tax_rate": "0.18",
+        "unit_price": "64.80",
+        "uom": "MTR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 4,
+        "line_total": "19425.00",
+        "quantity": "105.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "185.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 5,
+        "line_total": "14991.90",
+        "quantity": "121.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-01-03",
+    "po_number": "PO-000002",
+    "total_amount": "93929.70",
+    "vendor_id": "VEN-004"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

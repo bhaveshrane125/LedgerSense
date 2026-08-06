@@ -1,0 +1,41 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000062",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-056",
+        "line_number": 1,
+        "line_total": "26680.00",
+        "quantity": "29.00",
+        "sku": "PKG-STRAP-16-056",
+        "tax_rate": "0.18",
+        "unit_price": "920.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-013",
+        "line_number": 2,
+        "line_total": "14496.30",
+        "quantity": "117.00",
+        "sku": "OIL-HYD-46-013",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-03-04",
+    "po_number": "PO-000062",
+    "total_amount": "41176.30",
+    "vendor_id": "VEN-004"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

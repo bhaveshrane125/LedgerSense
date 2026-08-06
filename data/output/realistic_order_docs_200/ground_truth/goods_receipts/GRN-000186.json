@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000186",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-009",
+        "item_id": "ITEM-009",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-009",
+        "ordered_sku": "BLT-M8-040-ZN-009",
+        "quantity_ordered": "160",
+        "quantity_received": "160",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-068",
+        "item_id": "ITEM-068",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-068",
+        "ordered_sku": "GLV-NIT-L-068",
+        "quantity_ordered": "46",
+        "quantity_received": "46",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-073",
+        "item_id": "ITEM-073",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-073",
+        "ordered_sku": "BLT-M8-040-ZN-073",
+        "quantity_ordered": "116",
+        "quantity_received": "116",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN",
+        "item_id": "ITEM-002",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-002",
+        "ordered_sku": "NUT-M8-ZN",
+        "quantity_ordered": "93",
+        "quantity_received": "93",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000186",
+    "receipt_date": "2026-01-11"
+  },
+  "grn_number": "GRN-000186",
+  "po_number": "PO-000186",
+  "vendor": {
+    "name": "Cobalt Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0011Z4",
+    "vendor_id": "VEN-011"
+  }
+}

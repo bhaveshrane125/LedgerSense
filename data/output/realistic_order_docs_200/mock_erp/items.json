@@ -1,0 +1,1202 @@
+[
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-001",
+    "sku": "BLT-M8-040-ZN",
+    "tax_rate": "0.18",
+    "unit_price": "12.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-002",
+    "sku": "NUT-M8-ZN",
+    "tax_rate": "0.18",
+    "unit_price": "4.05",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-003",
+    "sku": "BRG-6205-2RS",
+    "tax_rate": "0.18",
+    "unit_price": "203.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-004",
+    "sku": "GLV-NIT-L",
+    "tax_rate": "0.18",
+    "unit_price": "46.20",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-005",
+    "sku": "OIL-HYD-46",
+    "tax_rate": "0.18",
+    "unit_price": "141.60",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-006",
+    "sku": "CBL-CU-2C",
+    "tax_rate": "0.18",
+    "unit_price": "79.20",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-007",
+    "sku": "FLT-AIR-010",
+    "tax_rate": "0.18",
+    "unit_price": "780.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-008",
+    "sku": "PKG-STRAP-16",
+    "tax_rate": "0.18",
+    "unit_price": "966.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-009",
+    "sku": "BLT-M8-040-ZN-009",
+    "tax_rate": "0.18",
+    "unit_price": "12.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-010",
+    "sku": "NUT-M8-ZN-010",
+    "tax_rate": "0.18",
+    "unit_price": "4.05",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-011",
+    "sku": "BRG-6205-2RS-011",
+    "tax_rate": "0.18",
+    "unit_price": "166.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-012",
+    "sku": "GLV-NIT-L-012",
+    "tax_rate": "0.18",
+    "unit_price": "50.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-013",
+    "sku": "OIL-HYD-46-013",
+    "tax_rate": "0.18",
+    "unit_price": "123.90",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-014",
+    "sku": "CBL-CU-2C-014",
+    "tax_rate": "0.18",
+    "unit_price": "75.60",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-015",
+    "sku": "FLT-AIR-010-015",
+    "tax_rate": "0.18",
+    "unit_price": "585.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-016",
+    "sku": "PKG-STRAP-16-016",
+    "tax_rate": "0.18",
+    "unit_price": "966.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-017",
+    "sku": "BLT-M8-040-ZN-017",
+    "tax_rate": "0.18",
+    "unit_price": "11.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-018",
+    "sku": "NUT-M8-ZN-018",
+    "tax_rate": "0.18",
+    "unit_price": "4.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-019",
+    "sku": "BRG-6205-2RS-019",
+    "tax_rate": "0.18",
+    "unit_price": "203.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-020",
+    "sku": "GLV-NIT-L-020",
+    "tax_rate": "0.18",
+    "unit_price": "37.80",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-021",
+    "sku": "OIL-HYD-46-021",
+    "tax_rate": "0.18",
+    "unit_price": "123.90",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-022",
+    "sku": "CBL-CU-2C-022",
+    "tax_rate": "0.18",
+    "unit_price": "86.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-023",
+    "sku": "FLT-AIR-010-023",
+    "tax_rate": "0.18",
+    "unit_price": "650.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-024",
+    "sku": "PKG-STRAP-16-024",
+    "tax_rate": "0.18",
+    "unit_price": "1104.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-025",
+    "sku": "BLT-M8-040-ZN-025",
+    "tax_rate": "0.18",
+    "unit_price": "9.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-026",
+    "sku": "NUT-M8-ZN-026",
+    "tax_rate": "0.18",
+    "unit_price": "4.73",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-027",
+    "sku": "BRG-6205-2RS-027",
+    "tax_rate": "0.18",
+    "unit_price": "222.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-028",
+    "sku": "GLV-NIT-L-028",
+    "tax_rate": "0.18",
+    "unit_price": "50.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-029",
+    "sku": "OIL-HYD-46-029",
+    "tax_rate": "0.18",
+    "unit_price": "118.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-030",
+    "sku": "CBL-CU-2C-030",
+    "tax_rate": "0.18",
+    "unit_price": "72.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-031",
+    "sku": "FLT-AIR-010-031",
+    "tax_rate": "0.18",
+    "unit_price": "682.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-032",
+    "sku": "PKG-STRAP-16-032",
+    "tax_rate": "0.18",
+    "unit_price": "920.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-033",
+    "sku": "BLT-M8-040-ZN-033",
+    "tax_rate": "0.18",
+    "unit_price": "12.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-034",
+    "sku": "NUT-M8-ZN-034",
+    "tax_rate": "0.18",
+    "unit_price": "5.40",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-035",
+    "sku": "BRG-6205-2RS-035",
+    "tax_rate": "0.18",
+    "unit_price": "166.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-036",
+    "sku": "GLV-NIT-L-036",
+    "tax_rate": "0.18",
+    "unit_price": "50.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-037",
+    "sku": "OIL-HYD-46-037",
+    "tax_rate": "0.18",
+    "unit_price": "123.90",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-038",
+    "sku": "CBL-CU-2C-038",
+    "tax_rate": "0.18",
+    "unit_price": "79.20",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-039",
+    "sku": "FLT-AIR-010-039",
+    "tax_rate": "0.18",
+    "unit_price": "585.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-040",
+    "sku": "PKG-STRAP-16-040",
+    "tax_rate": "0.18",
+    "unit_price": "828.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-041",
+    "sku": "BLT-M8-040-ZN-041",
+    "tax_rate": "0.18",
+    "unit_price": "10.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-042",
+    "sku": "NUT-M8-ZN-042",
+    "tax_rate": "0.18",
+    "unit_price": "4.73",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-043",
+    "sku": "BRG-6205-2RS-043",
+    "tax_rate": "0.18",
+    "unit_price": "185.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-044",
+    "sku": "GLV-NIT-L-044",
+    "tax_rate": "0.18",
+    "unit_price": "37.80",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-045",
+    "sku": "OIL-HYD-46-045",
+    "tax_rate": "0.18",
+    "unit_price": "118.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-046",
+    "sku": "CBL-CU-2C-046",
+    "tax_rate": "0.18",
+    "unit_price": "86.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-047",
+    "sku": "FLT-AIR-010-047",
+    "tax_rate": "0.18",
+    "unit_price": "585.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-048",
+    "sku": "PKG-STRAP-16-048",
+    "tax_rate": "0.18",
+    "unit_price": "828.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-049",
+    "sku": "BLT-M8-040-ZN-049",
+    "tax_rate": "0.18",
+    "unit_price": "11.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-050",
+    "sku": "NUT-M8-ZN-050",
+    "tax_rate": "0.18",
+    "unit_price": "4.05",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-051",
+    "sku": "BRG-6205-2RS-051",
+    "tax_rate": "0.18",
+    "unit_price": "222.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-052",
+    "sku": "GLV-NIT-L-052",
+    "tax_rate": "0.18",
+    "unit_price": "42.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-053",
+    "sku": "OIL-HYD-46-053",
+    "tax_rate": "0.18",
+    "unit_price": "118.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-054",
+    "sku": "CBL-CU-2C-054",
+    "tax_rate": "0.18",
+    "unit_price": "79.20",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-055",
+    "sku": "FLT-AIR-010-055",
+    "tax_rate": "0.18",
+    "unit_price": "780.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-056",
+    "sku": "PKG-STRAP-16-056",
+    "tax_rate": "0.18",
+    "unit_price": "920.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-057",
+    "sku": "BLT-M8-040-ZN-057",
+    "tax_rate": "0.18",
+    "unit_price": "10.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-058",
+    "sku": "NUT-M8-ZN-058",
+    "tax_rate": "0.18",
+    "unit_price": "5.40",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-059",
+    "sku": "BRG-6205-2RS-059",
+    "tax_rate": "0.18",
+    "unit_price": "222.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-060",
+    "sku": "GLV-NIT-L-060",
+    "tax_rate": "0.18",
+    "unit_price": "46.20",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-061",
+    "sku": "OIL-HYD-46-061",
+    "tax_rate": "0.18",
+    "unit_price": "118.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-062",
+    "sku": "CBL-CU-2C-062",
+    "tax_rate": "0.18",
+    "unit_price": "86.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-063",
+    "sku": "FLT-AIR-010-063",
+    "tax_rate": "0.18",
+    "unit_price": "650.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-064",
+    "sku": "PKG-STRAP-16-064",
+    "tax_rate": "0.18",
+    "unit_price": "966.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-065",
+    "sku": "BLT-M8-040-ZN-065",
+    "tax_rate": "0.18",
+    "unit_price": "11.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-066",
+    "sku": "NUT-M8-ZN-066",
+    "tax_rate": "0.18",
+    "unit_price": "4.73",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-067",
+    "sku": "BRG-6205-2RS-067",
+    "tax_rate": "0.18",
+    "unit_price": "203.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-068",
+    "sku": "GLV-NIT-L-068",
+    "tax_rate": "0.18",
+    "unit_price": "50.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-069",
+    "sku": "OIL-HYD-46-069",
+    "tax_rate": "0.18",
+    "unit_price": "129.80",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-070",
+    "sku": "CBL-CU-2C-070",
+    "tax_rate": "0.18",
+    "unit_price": "64.80",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-071",
+    "sku": "FLT-AIR-010-071",
+    "tax_rate": "0.18",
+    "unit_price": "650.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-072",
+    "sku": "PKG-STRAP-16-072",
+    "tax_rate": "0.18",
+    "unit_price": "920.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "M8X40 HEX BOLT ZINC",
+      "M8 X 40 He X  Bolt Zinc"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8x40 Hex Bolt Zinc",
+    "item_id": "ITEM-073",
+    "sku": "BLT-M8-040-ZN-073",
+    "tax_rate": "0.18",
+    "unit_price": "9.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "M8 ZINC HEX NUT",
+      "M8 Zinc He X  Nut"
+    ],
+    "base_uom": "EA",
+    "category": "FASTENERS",
+    "description": "M8 Zinc Hex Nut",
+    "item_id": "ITEM-074",
+    "sku": "NUT-M8-ZN-074",
+    "tax_rate": "0.18",
+    "unit_price": "4.73",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "SEALED BALL BEARING 6205",
+      "Sealed Ball Bearing 6205"
+    ],
+    "base_uom": "EA",
+    "category": "BEARINGS",
+    "description": "Sealed Ball Bearing 6205",
+    "item_id": "ITEM-075",
+    "sku": "BRG-6205-2RS-075",
+    "tax_rate": "0.18",
+    "unit_price": "166.50",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "NITRILE SAFETY GLOVES LARGE",
+      "Nitrile Safety Gloves Large"
+    ],
+    "base_uom": "PAIR",
+    "category": "SAFETY",
+    "description": "Nitrile Safety Gloves Large",
+    "item_id": "ITEM-076",
+    "sku": "GLV-NIT-L-076",
+    "tax_rate": "0.18",
+    "unit_price": "50.40",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "HYDRAULIC OIL ISO VG 46",
+      "Hydraulic Oil ISO VG 46"
+    ],
+    "base_uom": "LTR",
+    "category": "LUBRICANTS",
+    "description": "Hydraulic Oil ISO VG 46",
+    "item_id": "ITEM-077",
+    "sku": "OIL-HYD-46-077",
+    "tax_rate": "0.18",
+    "unit_price": "141.60",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COPPER CONTROL CABLE 2 CORE",
+      "Copper Control Cable 2 Core"
+    ],
+    "base_uom": "MTR",
+    "category": "ELECTRICAL",
+    "description": "Copper Control Cable 2 Core",
+    "item_id": "ITEM-078",
+    "sku": "CBL-CU-2C-078",
+    "tax_rate": "0.18",
+    "unit_price": "72.00",
+    "uom_conversions": {}
+  },
+  {
+    "aliases": [
+      "COMPRESSED AIR FILTER ELEMENT",
+      "Compressed Air Filter Element"
+    ],
+    "base_uom": "EA",
+    "category": "FILTERS",
+    "description": "Compressed Air Filter Element",
+    "item_id": "ITEM-079",
+    "sku": "FLT-AIR-010-079",
+    "tax_rate": "0.18",
+    "unit_price": "780.00",
+    "uom_conversions": {
+      "BOX": "12.00"
+    }
+  },
+  {
+    "aliases": [
+      "POLYESTER PACKING STRAP 16MM",
+      "Polyester Packing Strap 16mm"
+    ],
+    "base_uom": "ROLL",
+    "category": "PACKING",
+    "description": "Polyester Packing Strap 16mm",
+    "item_id": "ITEM-080",
+    "sku": "PKG-STRAP-16-080",
+    "tax_rate": "0.18",
+    "unit_price": "920.00",
+    "uom_conversions": {}
+  }
+]

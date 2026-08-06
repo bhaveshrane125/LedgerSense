@@ -1,0 +1,175 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "90691.26",
+    "printed_gross_total": "90690.26",
+    "subtotal": "76857.00",
+    "tax": "13834.26"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000184",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "ARITHMETIC_ERROR"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-12",
+    "grn_reference": "GRN-000184",
+    "invoice_date": "2026-01-13",
+    "po_reference": "PO-000184"
+  },
+  "invoice_number": "INV-000184",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-004",
+      "line_number": 1,
+      "line_total": "6699.00",
+      "quantity": "145.00",
+      "sku": "GLV-NIT-L",
+      "tax_rate": "0.18",
+      "unit_price": "46.20",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-035",
+      "line_number": 2,
+      "line_total": "16650.00",
+      "quantity": "100.00",
+      "sku": "BRG-6205-2RS-035",
+      "tax_rate": "0.18",
+      "unit_price": "166.50",
+      "uom": "EA"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-058",
+      "line_number": 3,
+      "line_total": "615.60",
+      "quantity": "114.00",
+      "sku": "NUT-M8-ZN-058",
+      "tax_rate": "0.18",
+      "unit_price": "5.40",
+      "uom": "EA"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-063",
+      "line_number": 4,
+      "line_total": "33150.00",
+      "quantity": "51.00",
+      "sku": "FLT-AIR-010-063",
+      "tax_rate": "0.18",
+      "unit_price": "650.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-030",
+      "line_number": 5,
+      "line_total": "11016.00",
+      "quantity": "153.00",
+      "sku": "CBL-CU-2C-030",
+      "tax_rate": "0.18",
+      "unit_price": "72.00",
+      "uom": "MTR"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-046",
+      "line_number": 6,
+      "line_total": "8726.40",
+      "quantity": "101.00",
+      "sku": "CBL-CU-2C-046",
+      "tax_rate": "0.18",
+      "unit_price": "86.40",
+      "uom": "MTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-004",
+        "line_number": 1,
+        "line_total": "6699.00",
+        "quantity": "145.00",
+        "sku": "GLV-NIT-L",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 2,
+        "line_total": "16650.00",
+        "quantity": "100.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-058",
+        "line_number": 3,
+        "line_total": "615.60",
+        "quantity": "114.00",
+        "sku": "NUT-M8-ZN-058",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-063",
+        "line_number": 4,
+        "line_total": "33150.00",
+        "quantity": "51.00",
+        "sku": "FLT-AIR-010-063",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-030",
+        "line_number": 5,
+        "line_total": "11016.00",
+        "quantity": "153.00",
+        "sku": "CBL-CU-2C-030",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-046",
+        "line_number": 6,
+        "line_total": "8726.40",
+        "quantity": "101.00",
+        "sku": "CBL-CU-2C-046",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      }
+    ],
+    "po_date": "2026-01-05",
+    "po_number": "PO-000184",
+    "total_amount": "76857.00",
+    "vendor_id": "VEN-013"
+  },
+  "scenario": "ARITHMETIC_ERROR",
+  "source_contains_intentional_error": true,
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

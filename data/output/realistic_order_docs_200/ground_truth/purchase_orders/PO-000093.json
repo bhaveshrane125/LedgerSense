@@ -1,0 +1,63 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000093",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 1,
+        "line_total": "175.50",
+        "quantity": "39.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-005",
+        "line_number": 2,
+        "line_total": "17558.40",
+        "quantity": "124.00",
+        "sku": "OIL-HYD-46",
+        "tax_rate": "0.18",
+        "unit_price": "141.60",
+        "uom": "LTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-037",
+        "line_number": 3,
+        "line_total": "14620.20",
+        "quantity": "118.00",
+        "sku": "OIL-HYD-46-037",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-061",
+        "line_number": 4,
+        "line_total": "590.00",
+        "quantity": "5.00",
+        "sku": "OIL-HYD-46-061",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-04-04",
+    "po_number": "PO-000093",
+    "total_amount": "32944.10",
+    "vendor_id": "VEN-013"
+  },
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "payment_terms": "NET 45",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

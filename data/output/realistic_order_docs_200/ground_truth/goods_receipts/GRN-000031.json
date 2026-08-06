@@ -1,0 +1,96 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000031",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-077",
+        "item_id": "ITEM-077",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-077",
+        "ordered_sku": "OIL-HYD-46-077",
+        "quantity_ordered": "113",
+        "quantity_received": "113",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-016",
+        "item_id": "ITEM-016",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-016",
+        "ordered_sku": "PKG-STRAP-16-016",
+        "quantity_ordered": "98",
+        "quantity_received": "98",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-073",
+        "item_id": "ITEM-073",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-073",
+        "ordered_sku": "BLT-M8-040-ZN-073",
+        "quantity_ordered": "21",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C",
+        "item_id": "ITEM-006",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-006",
+        "ordered_sku": "CBL-CU-2C",
+        "quantity_ordered": "133",
+        "quantity_received": "133",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-045",
+        "item_id": "ITEM-045",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-045",
+        "ordered_sku": "OIL-HYD-46-045",
+        "quantity_ordered": "91",
+        "quantity_received": "91",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-069",
+        "item_id": "ITEM-069",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-069",
+        "ordered_sku": "OIL-HYD-46-069",
+        "quantity_ordered": "7",
+        "quantity_received": "7",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000031",
+    "receipt_date": "2026-02-05"
+  },
+  "grn_number": "GRN-000031",
+  "po_number": "PO-000031",
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 2042 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(INVOICE) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Vendor: Prism Industrial Supplies Pvt Ltd \(VEN-008\)) Tj
+T*
+(Tax ID: 99SYNTH0008Z2) Tj
+T*
+(Address: 399 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Invoice No: INV-000195    Document: DOC-000195) Tj
+T*
+(Invoice Date: 2026-01-24    Due Date: 2026-02-23) Tj
+T*
+(PO: PO-000195    GRN: GRN-000195) Tj
+T*
+(Currency: INR    Scenario: ITEMS_MISSING) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(1   NUT-M8-ZN-066        M8 Zinc Hex Nut                      30 EA         4.73     141.90) Tj
+T*
+(2   FLT-AIR-010-047      Compressed Air Filter Element       150 EA       585.00   87750.00) Tj
+T*
+(3   PKG-STRAP-16         Polyester Packing Strap 16mm         33 ROLL     966.00   31878.00) Tj
+T*
+(4   PKG-STRAP-16-064     Polyester Packing Strap 16mm         62 ROLL     966.00   59892.00) Tj
+T*
+(5   BLT-M8-040-ZN-073    M8x40 Hex Bolt Zinc                 134 EA         9.00    1206.00) Tj
+T*
+(6   CBL-CU-2C-022        Copper Control Cable 2 Core           4 MTR       86.40     345.60) Tj
+T*
+(7   PKG-STRAP-16-048     Polyester Packing Strap 16mm         15 ROLL     828.00   12420.00) Tj
+T*
+(8   OIL-HYD-46-021       Hydraulic Oil ISO VG 46               7 LTR      123.90     867.30) Tj
+T*
+(9   BLT-M8-040-ZN-033    M8x40 Hex Bolt Zinc                  66 EA        12.00     792.00) Tj
+T*
+(------------------------------------------------------------------------------) Tj
+T*
+(Subtotal: INR 195292.80) Tj
+T*
+(Tax: INR 35152.70) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 230445.50) Tj
+T*
+(Calculated Gross Total: INR 230445.50) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000002229 00000 n 
+0000002286 00000 n 
+0000002356 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2405
+%%EOF

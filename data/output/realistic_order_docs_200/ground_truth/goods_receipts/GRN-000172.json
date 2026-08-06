@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000172",
+    "lines": [
+      {
+        "delivered_sku": "NUT-M8-ZN-066",
+        "item_id": "ITEM-066",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-066",
+        "ordered_sku": "NUT-M8-ZN-066",
+        "quantity_ordered": "39",
+        "quantity_received": "39",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-050",
+        "item_id": "ITEM-050",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-050",
+        "ordered_sku": "NUT-M8-ZN-050",
+        "quantity_ordered": "151",
+        "quantity_received": "151",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-054",
+        "item_id": "ITEM-054",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-054",
+        "ordered_sku": "CBL-CU-2C-054",
+        "quantity_ordered": "102",
+        "quantity_received": "102",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-077",
+        "item_id": "ITEM-077",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-077",
+        "ordered_sku": "OIL-HYD-46-077",
+        "quantity_ordered": "112",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000172",
+    "receipt_date": "2026-06-26"
+  },
+  "grn_number": "GRN-000172",
+  "po_number": "PO-000172",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

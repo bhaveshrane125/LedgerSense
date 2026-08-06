@@ -1,0 +1,87 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "1744.75",
+    "printed_gross_total": null,
+    "subtotal": "1478.60",
+    "tax": "266.15"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000005",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-13",
+    "grn_reference": "GRN-000005",
+    "invoice_date": "2026-01-14",
+    "po_reference": "PO-000005"
+  },
+  "invoice_number": "INV-000005",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-022",
+      "line_number": 1,
+      "line_total": "345.60",
+      "quantity": "4.00",
+      "sku": "CBL-CU-2C-022",
+      "tax_rate": "0.18",
+      "unit_price": "86.40",
+      "uom": "MTR"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-049",
+      "line_number": 2,
+      "line_total": "1133.00",
+      "quantity": "103.00",
+      "sku": "BLT-M8-040-ZN-049",
+      "tax_rate": "0.18",
+      "unit_price": "11.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-022",
+        "line_number": 1,
+        "line_total": "345.60",
+        "quantity": "4.00",
+        "sku": "CBL-CU-2C-022",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-049",
+        "line_number": 2,
+        "line_total": "1133.00",
+        "quantity": "103.00",
+        "sku": "BLT-M8-040-ZN-049",
+        "tax_rate": "0.18",
+        "unit_price": "11.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-06",
+    "po_number": "PO-000005",
+    "total_amount": "1478.60",
+    "vendor_id": "VEN-015"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

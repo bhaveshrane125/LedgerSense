@@ -1,0 +1,96 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000018",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C",
+        "item_id": "ITEM-006",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-006",
+        "ordered_sku": "CBL-CU-2C",
+        "quantity_ordered": "97",
+        "quantity_received": "97",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-056",
+        "item_id": "ITEM-056",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-056",
+        "ordered_sku": "PKG-STRAP-16-056",
+        "quantity_ordered": "114",
+        "quantity_received": "114",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN",
+        "item_id": "ITEM-001",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-001",
+        "ordered_sku": "BLT-M8-040-ZN",
+        "quantity_ordered": "21",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-067",
+        "item_id": "ITEM-067",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-067",
+        "ordered_sku": "BRG-6205-2RS-067",
+        "quantity_ordered": "88",
+        "quantity_received": "88",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-069",
+        "item_id": "ITEM-069",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-069",
+        "ordered_sku": "OIL-HYD-46-069",
+        "quantity_ordered": "84",
+        "quantity_received": "84",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-026",
+        "item_id": "ITEM-026",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-026",
+        "ordered_sku": "NUT-M8-ZN-026",
+        "quantity_ordered": "35",
+        "quantity_received": "35",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000018",
+    "receipt_date": "2026-01-23"
+  },
+  "grn_number": "GRN-000018",
+  "po_number": "PO-000018",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

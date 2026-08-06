@@ -1,0 +1,122 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000149",
+    "lines": [
+      {
+        "delivered_sku": "NUT-M8-ZN",
+        "item_id": "ITEM-002",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-002",
+        "ordered_sku": "NUT-M8-ZN",
+        "quantity_ordered": "114",
+        "quantity_received": "114",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS",
+        "item_id": "ITEM-003",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-003",
+        "ordered_sku": "BRG-6205-2RS",
+        "quantity_ordered": "49",
+        "quantity_received": "49",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-068",
+        "item_id": "ITEM-068",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-068",
+        "ordered_sku": "GLV-NIT-L-068",
+        "quantity_ordered": "31",
+        "quantity_received": "31",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-036",
+        "item_id": "ITEM-036",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-036",
+        "ordered_sku": "GLV-NIT-L-036",
+        "quantity_ordered": "28",
+        "quantity_received": "28",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-069",
+        "item_id": "ITEM-069",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-069",
+        "ordered_sku": "OIL-HYD-46-069",
+        "quantity_ordered": "138",
+        "quantity_received": "138",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-037",
+        "item_id": "ITEM-037",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-037",
+        "ordered_sku": "OIL-HYD-46-037",
+        "quantity_ordered": "42",
+        "quantity_received": "42",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-079",
+        "item_id": "ITEM-079",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-079",
+        "ordered_sku": "FLT-AIR-010-079",
+        "quantity_ordered": "65",
+        "quantity_received": "65",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-065",
+        "item_id": "ITEM-065",
+        "line_number": "8",
+        "ordered_item_id": "ITEM-065",
+        "ordered_sku": "BLT-M8-040-ZN-065",
+        "quantity_ordered": "53",
+        "quantity_received": "53",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000149",
+    "receipt_date": "2026-06-03"
+  },
+  "grn_number": "GRN-000149",
+  "po_number": "PO-000149",
+  "vendor": {
+    "name": "Saffron Warehouse Services Pvt Ltd",
+    "tax_id": "99SYNTH0009Z4",
+    "vendor_id": "VEN-009"
+  }
+}

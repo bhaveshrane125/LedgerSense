@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000178",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-027",
+        "line_number": 1,
+        "line_total": "10212.00",
+        "quantity": "46.00",
+        "sku": "BRG-6205-2RS-027",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-076",
+        "line_number": 2,
+        "line_total": "1965.60",
+        "quantity": "39.00",
+        "sku": "GLV-NIT-L-076",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-045",
+        "line_number": 3,
+        "line_total": "6608.00",
+        "quantity": "56.00",
+        "sku": "OIL-HYD-46-045",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-079",
+        "line_number": 4,
+        "line_total": "43680.00",
+        "quantity": "56.00",
+        "sku": "FLT-AIR-010-079",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-055",
+        "line_number": 5,
+        "line_total": "14820.00",
+        "quantity": "19.00",
+        "sku": "FLT-AIR-010-055",
+        "tax_rate": "0.18",
+        "unit_price": "780.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-06-28",
+    "po_number": "PO-000178",
+    "total_amount": "77285.60",
+    "vendor_id": "VEN-013"
+  },
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "payment_terms": "NET 45",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

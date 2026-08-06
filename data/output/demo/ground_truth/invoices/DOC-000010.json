@@ -1,0 +1,131 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "251557.12",
+    "printed_gross_total": null,
+    "subtotal": "213184.00",
+    "tax": "38373.12"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000010",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "UOM_MISMATCH"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-18",
+    "grn_reference": "GRN-000010",
+    "invoice_date": "2026-01-19",
+    "po_reference": "PO-000010"
+  },
+  "invoice_number": "INV-000010",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-008",
+      "line_number": 1,
+      "line_total": "170016.00",
+      "quantity": "154.00",
+      "sku": "PKG-STRAP-16",
+      "tax_rate": "0.18",
+      "unit_price": "1104.00",
+      "uom": "ALT"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-003",
+      "line_number": 2,
+      "line_total": "29507.50",
+      "quantity": "145.00",
+      "sku": "BRG-6205-2RS",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-011",
+      "line_number": 3,
+      "line_total": "12043.50",
+      "quantity": "62.00",
+      "sku": "BRG-6205-2RS-011",
+      "tax_rate": "0.18",
+      "unit_price": "194.25",
+      "uom": "EA"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-001",
+      "line_number": 4,
+      "line_total": "1617.00",
+      "quantity": "154.00",
+      "sku": "BLT-M8-040-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "10.50",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-008",
+        "line_number": 1,
+        "line_total": "170016.00",
+        "quantity": "154.00",
+        "sku": "PKG-STRAP-16",
+        "tax_rate": "0.18",
+        "unit_price": "1104.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 2,
+        "line_total": "29507.50",
+        "quantity": "145.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-011",
+        "line_number": 3,
+        "line_total": "12043.50",
+        "quantity": "62.00",
+        "sku": "BRG-6205-2RS-011",
+        "tax_rate": "0.18",
+        "unit_price": "194.25",
+        "uom": "EA"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-001",
+        "line_number": 4,
+        "line_total": "1617.00",
+        "quantity": "154.00",
+        "sku": "BLT-M8-040-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-11",
+    "po_number": "PO-000010",
+    "total_amount": "213184.00",
+    "vendor_id": "VEN-001"
+  },
+  "scenario": "UOM_MISMATCH",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

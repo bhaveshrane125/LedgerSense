@@ -1,0 +1,83 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "One ordered line was not present in the delivery.",
+    "grn_number": "GRN-000155",
+    "lines": [
+      {
+        "delivered_sku": "NUT-M8-ZN-058",
+        "item_id": "ITEM-058",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-058",
+        "ordered_sku": "NUT-M8-ZN-058",
+        "quantity_ordered": "114",
+        "quantity_received": "114",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-030",
+        "item_id": "ITEM-030",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-030",
+        "ordered_sku": "CBL-CU-2C-030",
+        "quantity_ordered": "153",
+        "quantity_received": "153",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-046",
+        "item_id": "ITEM-046",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-046",
+        "ordered_sku": "CBL-CU-2C-046",
+        "quantity_ordered": "101",
+        "quantity_received": "101",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-071",
+        "item_id": "ITEM-071",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-071",
+        "ordered_sku": "FLT-AIR-010-071",
+        "quantity_ordered": "25",
+        "quantity_received": "25",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-049",
+        "item_id": "ITEM-049",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-049",
+        "ordered_sku": "BLT-M8-040-ZN-049",
+        "quantity_ordered": "79",
+        "quantity_received": "79",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000155",
+    "receipt_date": "2026-06-09"
+  },
+  "grn_number": "GRN-000155",
+  "po_number": "PO-000155",
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

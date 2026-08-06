@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000045",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C-070",
+        "item_id": "ITEM-070",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-070",
+        "ordered_sku": "CBL-CU-2C-070",
+        "quantity_ordered": "109",
+        "quantity_received": "109",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-060",
+        "item_id": "ITEM-060",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-060",
+        "ordered_sku": "GLV-NIT-L-060",
+        "quantity_ordered": "17",
+        "quantity_received": "17",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000045",
+    "receipt_date": "2026-02-19"
+  },
+  "grn_number": "GRN-000045",
+  "po_number": "PO-000045",
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

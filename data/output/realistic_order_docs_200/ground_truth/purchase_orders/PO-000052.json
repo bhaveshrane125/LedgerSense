@@ -1,0 +1,118 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000052",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 1,
+        "line_total": "97.20",
+        "quantity": "24.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-019",
+        "line_number": 2,
+        "line_total": "17908.00",
+        "quantity": "88.00",
+        "sku": "BRG-6205-2RS-019",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-053",
+        "line_number": 3,
+        "line_total": "16520.00",
+        "quantity": "140.00",
+        "sku": "OIL-HYD-46-053",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-020",
+        "line_number": 4,
+        "line_total": "3817.80",
+        "quantity": "101.00",
+        "sku": "GLV-NIT-L-020",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-010",
+        "line_number": 5,
+        "line_total": "344.25",
+        "quantity": "85.00",
+        "sku": "NUT-M8-ZN-010",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-061",
+        "line_number": 6,
+        "line_total": "15104.00",
+        "quantity": "128.00",
+        "sku": "OIL-HYD-46-061",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-034",
+        "line_number": 7,
+        "line_total": "766.80",
+        "quantity": "142.00",
+        "sku": "NUT-M8-ZN-034",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-044",
+        "line_number": 8,
+        "line_total": "491.40",
+        "quantity": "13.00",
+        "sku": "GLV-NIT-L-044",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 9,
+        "line_total": "4662.00",
+        "quantity": "21.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-02-22",
+    "po_number": "PO-000052",
+    "total_amount": "59711.45",
+    "vendor_id": "VEN-002"
+  },
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

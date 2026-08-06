@@ -1,0 +1,195 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "119925.29",
+    "printed_gross_total": null,
+    "subtotal": "101631.60",
+    "tax": "18293.69"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000016",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-24",
+    "grn_reference": "GRN-000016",
+    "invoice_date": "2026-01-25",
+    "po_reference": "PO-000016"
+  },
+  "invoice_number": "INV-000016",
+  "layout": "INDUSTRIAL",
+  "line_items": [
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-006",
+      "line_number": 1,
+      "line_total": "2296.80",
+      "quantity": "29.00",
+      "sku": "CBL-CU-2C",
+      "tax_rate": "0.18",
+      "unit_price": "79.20",
+      "uom": "MTR"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-009",
+      "line_number": 2,
+      "line_total": "168.00",
+      "quantity": "16.00",
+      "sku": "BLT-M8-040-ZN-009",
+      "tax_rate": "0.18",
+      "unit_price": "10.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-015",
+      "line_number": 3,
+      "line_total": "83070.00",
+      "quantity": "142.00",
+      "sku": "FLT-AIR-010-015",
+      "tax_rate": "0.18",
+      "unit_price": "585.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-008",
+      "line_number": 4,
+      "line_total": "7728.00",
+      "quantity": "7.00",
+      "sku": "PKG-STRAP-16",
+      "tax_rate": "0.18",
+      "unit_price": "1104.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-003",
+      "line_number": 5,
+      "line_total": "5494.50",
+      "quantity": "27.00",
+      "sku": "BRG-6205-2RS",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-028",
+      "line_number": 6,
+      "line_total": "2688.00",
+      "quantity": "64.00",
+      "sku": "GLV-NIT-L-028",
+      "tax_rate": "0.18",
+      "unit_price": "42.00",
+      "uom": "PAIR"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-018",
+      "line_number": 7,
+      "line_total": "186.30",
+      "quantity": "46.00",
+      "sku": "NUT-M8-ZN-018",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-006",
+        "line_number": 1,
+        "line_total": "2296.80",
+        "quantity": "29.00",
+        "sku": "CBL-CU-2C",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-009",
+        "line_number": 2,
+        "line_total": "168.00",
+        "quantity": "16.00",
+        "sku": "BLT-M8-040-ZN-009",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-015",
+        "line_number": 3,
+        "line_total": "83070.00",
+        "quantity": "142.00",
+        "sku": "FLT-AIR-010-015",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-008",
+        "line_number": 4,
+        "line_total": "7728.00",
+        "quantity": "7.00",
+        "sku": "PKG-STRAP-16",
+        "tax_rate": "0.18",
+        "unit_price": "1104.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 5,
+        "line_total": "5494.50",
+        "quantity": "27.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-028",
+        "line_number": 6,
+        "line_total": "2688.00",
+        "quantity": "64.00",
+        "sku": "GLV-NIT-L-028",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 7,
+        "line_total": "186.30",
+        "quantity": "46.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-17",
+    "po_number": "PO-000016",
+    "total_amount": "101631.60",
+    "vendor_id": "VEN-002"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

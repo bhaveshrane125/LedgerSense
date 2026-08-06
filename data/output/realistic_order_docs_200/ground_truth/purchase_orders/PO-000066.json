@@ -1,0 +1,41 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000066",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-046",
+        "line_number": 1,
+        "line_total": "13305.60",
+        "quantity": "154.00",
+        "sku": "CBL-CU-2C-046",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-031",
+        "line_number": 2,
+        "line_total": "58695.00",
+        "quantity": "86.00",
+        "sku": "FLT-AIR-010-031",
+        "tax_rate": "0.18",
+        "unit_price": "682.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-03-08",
+    "po_number": "PO-000066",
+    "total_amount": "72000.60",
+    "vendor_id": "VEN-003"
+  },
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

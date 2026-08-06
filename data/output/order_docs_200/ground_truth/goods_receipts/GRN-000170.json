@@ -1,0 +1,32 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000170",
+    "lines": [
+      {
+        "item_id": "ITEM-025",
+        "line_number": "1",
+        "quantity_received": "147",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-076",
+        "line_number": "2",
+        "quantity_received": "59",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      }
+    ],
+    "po_number": "PO-000170",
+    "receipt_date": "2026-06-24"
+  },
+  "grn_number": "GRN-000170",
+  "po_number": "PO-000170",
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

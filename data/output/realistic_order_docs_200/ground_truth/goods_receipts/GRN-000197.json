@@ -1,0 +1,57 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Material partially received; balance is pending vendor dispatch.",
+    "grn_number": "GRN-000197",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-065",
+        "item_id": "ITEM-065",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-065",
+        "ordered_sku": "BLT-M8-040-ZN-065",
+        "quantity_ordered": "61",
+        "quantity_received": "61",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010",
+        "item_id": "ITEM-007",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-007",
+        "ordered_sku": "FLT-AIR-010",
+        "quantity_ordered": "136",
+        "quantity_received": "131",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 5 EA"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-023",
+        "item_id": "ITEM-023",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-023",
+        "ordered_sku": "FLT-AIR-010-023",
+        "quantity_ordered": "15",
+        "quantity_received": "15",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000197",
+    "receipt_date": "2026-01-22"
+  },
+  "grn_number": "GRN-000197",
+  "po_number": "PO-000197",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

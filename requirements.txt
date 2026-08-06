@@ -1,0 +1,3 @@
+# The generator itself uses only the Python 3.12 standard library.
+# pytest is optional for running the included tests.
+pytest>=8.0

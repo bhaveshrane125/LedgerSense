@@ -1,0 +1,96 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "One ordered line was not present in the delivery.",
+    "grn_number": "GRN-000035",
+    "lines": [
+      {
+        "delivered_sku": "BRG-6205-2RS-059",
+        "item_id": "ITEM-059",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-059",
+        "ordered_sku": "BRG-6205-2RS-059",
+        "quantity_ordered": "84",
+        "quantity_received": "84",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-035",
+        "item_id": "ITEM-035",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-035",
+        "ordered_sku": "BRG-6205-2RS-035",
+        "quantity_ordered": "34",
+        "quantity_received": "34",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-033",
+        "item_id": "ITEM-033",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-033",
+        "ordered_sku": "BLT-M8-040-ZN-033",
+        "quantity_ordered": "51",
+        "quantity_received": "51",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-030",
+        "item_id": "ITEM-030",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-030",
+        "ordered_sku": "CBL-CU-2C-030",
+        "quantity_ordered": "53",
+        "quantity_received": "53",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-016",
+        "item_id": "ITEM-016",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-016",
+        "ordered_sku": "PKG-STRAP-16-016",
+        "quantity_ordered": "59",
+        "quantity_received": "59",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-025",
+        "item_id": "ITEM-025",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-025",
+        "ordered_sku": "BLT-M8-040-ZN-025",
+        "quantity_ordered": "127",
+        "quantity_received": "127",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000035",
+    "receipt_date": "2026-02-09"
+  },
+  "grn_number": "GRN-000035",
+  "po_number": "PO-000035",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

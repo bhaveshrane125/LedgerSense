@@ -1,0 +1,57 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000022",
+    "lines": [
+      {
+        "delivered_sku": "BRG-6205-2RS-059",
+        "item_id": "ITEM-059",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-059",
+        "ordered_sku": "BRG-6205-2RS-059",
+        "quantity_ordered": "53",
+        "quantity_received": "53",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-054",
+        "item_id": "ITEM-054",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-054",
+        "ordered_sku": "CBL-CU-2C-054",
+        "quantity_ordered": "102",
+        "quantity_received": "102",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-074",
+        "item_id": "ITEM-074",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-074",
+        "ordered_sku": "NUT-M8-ZN-074",
+        "quantity_ordered": "130",
+        "quantity_received": "130",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000022",
+    "receipt_date": "2026-01-27"
+  },
+  "grn_number": "GRN-000022",
+  "po_number": "PO-000022",
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

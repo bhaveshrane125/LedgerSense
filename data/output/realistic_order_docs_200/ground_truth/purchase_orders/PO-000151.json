@@ -1,0 +1,41 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000151",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-002",
+        "line_number": 1,
+        "line_total": "101.25",
+        "quantity": "25.00",
+        "sku": "NUT-M8-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-022",
+        "line_number": 2,
+        "line_total": "11318.40",
+        "quantity": "131.00",
+        "sku": "CBL-CU-2C-022",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      }
+    ],
+    "po_date": "2026-06-01",
+    "po_number": "PO-000151",
+    "total_amount": "11419.65",
+    "vendor_id": "VEN-008"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0008Z2",
+    "vendor_id": "VEN-008"
+  }
+}

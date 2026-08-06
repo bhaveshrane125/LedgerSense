@@ -1,0 +1,63 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000051",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-074",
+        "line_number": 1,
+        "line_total": "714.23",
+        "quantity": "151.00",
+        "sku": "NUT-M8-ZN-074",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-076",
+        "line_number": 2,
+        "line_total": "705.60",
+        "quantity": "14.00",
+        "sku": "GLV-NIT-L-076",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 3,
+        "line_total": "9768.00",
+        "quantity": "48.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 4,
+        "line_total": "20646.00",
+        "quantity": "124.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-02-21",
+    "po_number": "PO-000051",
+    "total_amount": "31833.83",
+    "vendor_id": "VEN-002"
+  },
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

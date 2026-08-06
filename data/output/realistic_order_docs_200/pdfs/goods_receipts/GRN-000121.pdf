@@ -1,0 +1,79 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1568 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(GOODS RECEIPT NOTE) Tj
+T*
+(==============================================================================) Tj
+T*
+(GRN No: GRN-000121    Receipt Date: 2026-05-06) Tj
+T*
+(Linked PO: PO-000121) Tj
+T*
+(Vendor: Aarav Machine Tools Pvt Ltd \(VEN-003\)) Tj
+T*
+(Condition: Partial delivery recorded; invoice still bills the ordered quantity.) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  Ordered Item  Delivered SKU        Recv     Rej  UOM   Status) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   ITEM-069      OIL-HYD-46-069            146      0 LTR   ACCEPTED  ) Tj
+T*
+(2   ITEM-044      GLV-NIT-L-044              80      0 PAIR  ACCEPTED  ) Tj
+T*
+(3   ITEM-070      CBL-CU-2C-070              61      0 MTR   ACCEPTED  ) Tj
+T*
+(4   ITEM-046      CBL-CU-2C-046              80      0 MTR   ACCEPTED  ) Tj
+T*
+(5   ITEM-034      NUT-M8-ZN-034              77      0 EA    ACCEPTED  ) Tj
+T*
+(6   ITEM-062      CBL-CU-2C-062              39      0 MTR   PARTIAL   ) Tj
+T*
+(    Note: Short received by 18 MTR) Tj
+T*
+(7   ITEM-025      BLT-M8-040-ZN-025         129      0 EA    ACCEPTED  ) Tj
+T*
+(8   ITEM-032      PKG-STRAP-16-032           85      0 ROLL  ACCEPTED  ) Tj
+T*
+(9   ITEM-036      GLV-NIT-L-036             126      0 PAIR  ACCEPTED  ) Tj
+T*
+(==============================================================================) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001755 00000 n 
+0000001812 00000 n 
+0000001882 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1931
+%%EOF

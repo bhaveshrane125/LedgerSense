@@ -1,0 +1,60 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000032",
+    "lines": [
+      {
+        "item_id": "ITEM-028",
+        "line_number": "1",
+        "quantity_received": "111",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-059",
+        "line_number": "2",
+        "quantity_received": "68",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-042",
+        "line_number": "3",
+        "quantity_received": "24",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-044",
+        "line_number": "4",
+        "quantity_received": "124",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      },
+      {
+        "item_id": "ITEM-049",
+        "line_number": "5",
+        "quantity_received": "8",
+        "quantity_rejected": "0",
+        "uom": "EA"
+      },
+      {
+        "item_id": "ITEM-036",
+        "line_number": "6",
+        "quantity_received": "142",
+        "quantity_rejected": "0",
+        "uom": "PAIR"
+      }
+    ],
+    "po_number": "PO-000032",
+    "receipt_date": "2026-02-06"
+  },
+  "grn_number": "GRN-000032",
+  "po_number": "PO-000032",
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0007Z4",
+    "vendor_id": "VEN-007"
+  }
+}

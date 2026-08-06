@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000162",
+    "lines": [
+      {
+        "delivered_sku": "GLV-NIT-L-060",
+        "item_id": "ITEM-060",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-060",
+        "ordered_sku": "GLV-NIT-L-060",
+        "quantity_ordered": "116",
+        "quantity_received": "116",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-027",
+        "item_id": "ITEM-027",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-027",
+        "ordered_sku": "BRG-6205-2RS-027",
+        "quantity_ordered": "78",
+        "quantity_received": "78",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000162",
+    "receipt_date": "2026-06-16"
+  },
+  "grn_number": "GRN-000162",
+  "po_number": "PO-000162",
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000024",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 1,
+        "line_total": "30858.00",
+        "quantity": "139.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 2,
+        "line_total": "661.50",
+        "quantity": "147.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-060",
+        "line_number": 3,
+        "line_total": "7207.20",
+        "quantity": "156.00",
+        "sku": "GLV-NIT-L-060",
+        "tax_rate": "0.18",
+        "unit_price": "46.20",
+        "uom": "PAIR"
+      }
+    ],
+    "po_date": "2026-01-25",
+    "po_number": "PO-000024",
+    "total_amount": "38726.70",
+    "vendor_id": "VEN-015"
+  },
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 45",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

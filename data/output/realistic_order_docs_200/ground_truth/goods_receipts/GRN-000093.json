@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Material partially received; balance is pending vendor dispatch.",
+    "grn_number": "GRN-000093",
+    "lines": [
+      {
+        "delivered_sku": "NUT-M8-ZN-018",
+        "item_id": "ITEM-018",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-018",
+        "ordered_sku": "NUT-M8-ZN-018",
+        "quantity_ordered": "39",
+        "quantity_received": "38",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 1 EA"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46",
+        "item_id": "ITEM-005",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-005",
+        "ordered_sku": "OIL-HYD-46",
+        "quantity_ordered": "124",
+        "quantity_received": "124",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-037",
+        "item_id": "ITEM-037",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-037",
+        "ordered_sku": "OIL-HYD-46-037",
+        "quantity_ordered": "118",
+        "quantity_received": "118",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-061",
+        "item_id": "ITEM-061",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-061",
+        "ordered_sku": "OIL-HYD-46-061",
+        "quantity_ordered": "5",
+        "quantity_received": "5",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000093",
+    "receipt_date": "2026-04-08"
+  },
+  "grn_number": "GRN-000093",
+  "po_number": "PO-000093",
+  "vendor": {
+    "name": "Helio Precision Components Pvt Ltd",
+    "tax_id": "99SYNTH0013Z3",
+    "vendor_id": "VEN-013"
+  }
+}

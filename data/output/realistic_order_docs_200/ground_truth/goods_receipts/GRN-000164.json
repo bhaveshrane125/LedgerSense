@@ -1,0 +1,57 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000164",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C-014",
+        "item_id": "ITEM-014",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-014",
+        "ordered_sku": "CBL-CU-2C-014",
+        "quantity_ordered": "46",
+        "quantity_received": "46",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-032",
+        "item_id": "ITEM-032",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-032",
+        "ordered_sku": "PKG-STRAP-16-032",
+        "quantity_ordered": "160",
+        "quantity_received": "160",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-046",
+        "item_id": "ITEM-046",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-046",
+        "ordered_sku": "CBL-CU-2C-046",
+        "quantity_ordered": "15",
+        "quantity_received": "15",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000164",
+    "receipt_date": "2026-06-18"
+  },
+  "grn_number": "GRN-000164",
+  "po_number": "PO-000164",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0012Z6",
+    "vendor_id": "VEN-012"
+  }
+}

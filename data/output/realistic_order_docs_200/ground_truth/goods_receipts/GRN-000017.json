@@ -1,0 +1,44 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "One ordered line was not present in the delivery.",
+    "grn_number": "GRN-000017",
+    "lines": [
+      {
+        "delivered_sku": "OIL-HYD-46-077",
+        "item_id": "ITEM-077",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-077",
+        "ordered_sku": "OIL-HYD-46-077",
+        "quantity_ordered": "84",
+        "quantity_received": "84",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-056",
+        "item_id": "ITEM-056",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-056",
+        "ordered_sku": "PKG-STRAP-16-056",
+        "quantity_ordered": "115",
+        "quantity_received": "115",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000017",
+    "receipt_date": "2026-01-22"
+  },
+  "grn_number": "GRN-000017",
+  "po_number": "PO-000017",
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

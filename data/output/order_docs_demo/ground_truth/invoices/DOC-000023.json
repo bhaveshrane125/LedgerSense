@@ -1,0 +1,151 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "207230.01",
+    "printed_gross_total": null,
+    "subtotal": "175618.65",
+    "tax": "31611.36"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000023",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-03-03",
+    "grn_reference": "GRN-000023",
+    "invoice_date": "2026-02-01",
+    "po_reference": "PO-000023"
+  },
+  "invoice_number": "INV-000023",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-004",
+      "line_number": 1,
+      "line_total": "3679.20",
+      "quantity": "73.00",
+      "sku": "GLV-NIT-L",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-029",
+      "line_number": 2,
+      "line_total": "9416.40",
+      "quantity": "76.00",
+      "sku": "OIL-HYD-46-029",
+      "tax_rate": "0.18",
+      "unit_price": "123.90",
+      "uom": "LTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-024",
+      "line_number": 3,
+      "line_total": "152628.00",
+      "quantity": "158.00",
+      "sku": "PKG-STRAP-16-024",
+      "tax_rate": "0.18",
+      "unit_price": "966.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-018",
+      "line_number": 4,
+      "line_total": "230.85",
+      "quantity": "57.00",
+      "sku": "NUT-M8-ZN-018",
+      "tax_rate": "0.18",
+      "unit_price": "4.05",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-005",
+      "line_number": 5,
+      "line_total": "9664.20",
+      "quantity": "91.00",
+      "sku": "OIL-HYD-46",
+      "tax_rate": "0.18",
+      "unit_price": "106.20",
+      "uom": "LTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-004",
+        "line_number": 1,
+        "line_total": "3679.20",
+        "quantity": "73.00",
+        "sku": "GLV-NIT-L",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 2,
+        "line_total": "9416.40",
+        "quantity": "76.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "123.90",
+        "uom": "LTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-024",
+        "line_number": 3,
+        "line_total": "152628.00",
+        "quantity": "158.00",
+        "sku": "PKG-STRAP-16-024",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 4,
+        "line_total": "230.85",
+        "quantity": "57.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-005",
+        "line_number": 5,
+        "line_total": "9664.20",
+        "quantity": "91.00",
+        "sku": "OIL-HYD-46",
+        "tax_rate": "0.18",
+        "unit_price": "106.20",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-01-24",
+    "po_number": "PO-000023",
+    "total_amount": "175618.65",
+    "vendor_id": "VEN-002"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

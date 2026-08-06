@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000011",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-014",
+        "line_number": 1,
+        "line_total": "3250.80",
+        "quantity": "43.00",
+        "sku": "CBL-CU-2C-014",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 2,
+        "line_total": "328.50",
+        "quantity": "73.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.50",
+        "uom": "EA"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-034",
+        "line_number": 3,
+        "line_total": "410.40",
+        "quantity": "76.00",
+        "sku": "NUT-M8-ZN-034",
+        "tax_rate": "0.18",
+        "unit_price": "5.40",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-015",
+        "line_number": 4,
+        "line_total": "92430.00",
+        "quantity": "158.00",
+        "sku": "FLT-AIR-010-015",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-071",
+        "line_number": 5,
+        "line_total": "37050.00",
+        "quantity": "57.00",
+        "sku": "FLT-AIR-010-071",
+        "tax_rate": "0.18",
+        "unit_price": "650.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-12",
+    "po_number": "PO-000011",
+    "total_amount": "133469.70",
+    "vendor_id": "VEN-001"
+  },
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000022",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 1,
+        "line_total": "11766.00",
+        "quantity": "53.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-054",
+        "line_number": 2,
+        "line_total": "8078.40",
+        "quantity": "102.00",
+        "sku": "CBL-CU-2C-054",
+        "tax_rate": "0.18",
+        "unit_price": "79.20",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-074",
+        "line_number": 3,
+        "line_total": "614.90",
+        "quantity": "130.00",
+        "sku": "NUT-M8-ZN-074",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-23",
+    "po_number": "PO-000022",
+    "total_amount": "20459.30",
+    "vendor_id": "VEN-010"
+  },
+  "vendor": {
+    "name": "Saffron Machine Tools Pvt Ltd",
+    "payment_terms": "NET 30",
+    "tax_id": "99SYNTH0010Z4",
+    "vendor_id": "VEN-010"
+  }
+}

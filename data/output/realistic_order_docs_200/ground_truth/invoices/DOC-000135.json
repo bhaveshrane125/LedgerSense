@@ -1,0 +1,87 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "128008.76",
+    "printed_gross_total": null,
+    "subtotal": "108482.00",
+    "tax": "19526.76"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000135",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "QTY_OVER_BILLED"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-06-23",
+    "grn_reference": "GRN-000135",
+    "invoice_date": "2026-05-24",
+    "po_reference": "PO-000135"
+  },
+  "invoice_number": "INV-000135",
+  "layout": "CLASSIC",
+  "line_items": [
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-003",
+      "line_number": 1,
+      "line_total": "24827.00",
+      "quantity": "122.00",
+      "sku": "BRG-6205-2RS",
+      "tax_rate": "0.18",
+      "unit_price": "203.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-039",
+      "line_number": 2,
+      "line_total": "83655.00",
+      "quantity": "143.00",
+      "sku": "FLT-AIR-010-039",
+      "tax_rate": "0.18",
+      "unit_price": "585.00",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 1,
+        "line_total": "24827.00",
+        "quantity": "122.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-039",
+        "line_number": 2,
+        "line_total": "83655.00",
+        "quantity": "143.00",
+        "sku": "FLT-AIR-010-039",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-16",
+    "po_number": "PO-000135",
+    "total_amount": "108482.00",
+    "vendor_id": "VEN-014"
+  },
+  "scenario": "QTY_OVER_BILLED",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

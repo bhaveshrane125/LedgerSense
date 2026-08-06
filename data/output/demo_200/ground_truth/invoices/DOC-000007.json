@@ -1,0 +1,107 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "127193.26",
+    "printed_gross_total": null,
+    "subtotal": "107790.90",
+    "tax": "19402.36"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000007",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-15",
+    "grn_reference": "GRN-000007",
+    "invoice_date": "2026-01-16",
+    "po_reference": "PO-000007"
+  },
+  "invoice_number": "INV-000007",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-009",
+      "line_number": 1,
+      "line_total": "1284.00",
+      "quantity": "107.00",
+      "sku": "BLT-M8-040-ZN-009",
+      "tax_rate": "0.18",
+      "unit_price": "12.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-077",
+      "line_number": 2,
+      "line_total": "4814.40",
+      "quantity": "34.00",
+      "sku": "OIL-HYD-46-077",
+      "tax_rate": "0.18",
+      "unit_price": "141.60",
+      "uom": "LTR"
+    },
+    {
+      "description": "Compressed Air Filter Element",
+      "item_id": "ITEM-031",
+      "line_number": 3,
+      "line_total": "101692.50",
+      "quantity": "149.00",
+      "sku": "FLT-AIR-010-031",
+      "tax_rate": "0.18",
+      "unit_price": "682.50",
+      "uom": "EA"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-009",
+        "line_number": 1,
+        "line_total": "1284.00",
+        "quantity": "107.00",
+        "sku": "BLT-M8-040-ZN-009",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-077",
+        "line_number": 2,
+        "line_total": "4814.40",
+        "quantity": "34.00",
+        "sku": "OIL-HYD-46-077",
+        "tax_rate": "0.18",
+        "unit_price": "141.60",
+        "uom": "LTR"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-031",
+        "line_number": 3,
+        "line_total": "101692.50",
+        "quantity": "149.00",
+        "sku": "FLT-AIR-010-031",
+        "tax_rate": "0.18",
+        "unit_price": "682.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-08",
+    "po_number": "PO-000007",
+    "total_amount": "107790.90",
+    "vendor_id": "VEN-002"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

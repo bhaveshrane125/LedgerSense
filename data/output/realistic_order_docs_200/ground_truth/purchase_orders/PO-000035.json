@@ -1,0 +1,96 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000035",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-059",
+        "line_number": 1,
+        "line_total": "18648.00",
+        "quantity": "84.00",
+        "sku": "BRG-6205-2RS-059",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-035",
+        "line_number": 2,
+        "line_total": "5661.00",
+        "quantity": "34.00",
+        "sku": "BRG-6205-2RS-035",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-040",
+        "line_number": 3,
+        "line_total": "116748.00",
+        "quantity": "141.00",
+        "sku": "PKG-STRAP-16-040",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-033",
+        "line_number": 4,
+        "line_total": "612.00",
+        "quantity": "51.00",
+        "sku": "BLT-M8-040-ZN-033",
+        "tax_rate": "0.18",
+        "unit_price": "12.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-030",
+        "line_number": 5,
+        "line_total": "3816.00",
+        "quantity": "53.00",
+        "sku": "CBL-CU-2C-030",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-016",
+        "line_number": 6,
+        "line_total": "56994.00",
+        "quantity": "59.00",
+        "sku": "PKG-STRAP-16-016",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-025",
+        "line_number": 7,
+        "line_total": "1143.00",
+        "quantity": "127.00",
+        "sku": "BLT-M8-040-ZN-025",
+        "tax_rate": "0.18",
+        "unit_price": "9.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-02-05",
+    "po_number": "PO-000035",
+    "total_amount": "203622.00",
+    "vendor_id": "VEN-006"
+  },
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

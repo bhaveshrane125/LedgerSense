@@ -1,0 +1,153 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "52647.80",
+    "printed_gross_total": null,
+    "subtotal": "44616.78",
+    "tax": "8031.02"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000005",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "PRICE_VARIANCE_OVER"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-13",
+    "grn_reference": "GRN-000005",
+    "invoice_date": "2026-01-14",
+    "po_reference": "PO-000005"
+  },
+  "invoice_number": "INV-000005",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "M8 Zinc Hex Nut",
+      "item_id": "ITEM-018",
+      "line_number": 1,
+      "line_total": "147.18",
+      "quantity": "33.00",
+      "sku": "NUT-M8-ZN-018",
+      "tax_rate": "0.18",
+      "unit_price": "4.46",
+      "uom": "EA"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-028",
+      "line_number": 2,
+      "line_total": "5922.00",
+      "quantity": "141.00",
+      "sku": "GLV-NIT-L-028",
+      "tax_rate": "0.18",
+      "unit_price": "42.00",
+      "uom": "PAIR"
+    },
+    {
+      "description": "M8x40 Hex Bolt Zinc",
+      "item_id": "ITEM-001",
+      "line_number": 3,
+      "line_total": "756.00",
+      "quantity": "72.00",
+      "sku": "BLT-M8-040-ZN",
+      "tax_rate": "0.18",
+      "unit_price": "10.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Copper Control Cable 2 Core",
+      "item_id": "ITEM-022",
+      "line_number": 4,
+      "line_total": "6879.60",
+      "quantity": "91.00",
+      "sku": "CBL-CU-2C-022",
+      "tax_rate": "0.18",
+      "unit_price": "75.60",
+      "uom": "MTR"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-024",
+      "line_number": 5,
+      "line_total": "30912.00",
+      "quantity": "32.00",
+      "sku": "PKG-STRAP-16-024",
+      "tax_rate": "0.18",
+      "unit_price": "966.00",
+      "uom": "ROLL"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-018",
+        "line_number": 1,
+        "line_total": "133.65",
+        "quantity": "33.00",
+        "sku": "NUT-M8-ZN-018",
+        "tax_rate": "0.18",
+        "unit_price": "4.05",
+        "uom": "EA"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-028",
+        "line_number": 2,
+        "line_total": "5922.00",
+        "quantity": "141.00",
+        "sku": "GLV-NIT-L-028",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-001",
+        "line_number": 3,
+        "line_total": "756.00",
+        "quantity": "72.00",
+        "sku": "BLT-M8-040-ZN",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-022",
+        "line_number": 4,
+        "line_total": "6879.60",
+        "quantity": "91.00",
+        "sku": "CBL-CU-2C-022",
+        "tax_rate": "0.18",
+        "unit_price": "75.60",
+        "uom": "MTR"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-024",
+        "line_number": 5,
+        "line_total": "30912.00",
+        "quantity": "32.00",
+        "sku": "PKG-STRAP-16-024",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-01-06",
+    "po_number": "PO-000005",
+    "total_amount": "44603.25",
+    "vendor_id": "VEN-004"
+  },
+  "scenario": "PRICE_VARIANCE_OVER",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

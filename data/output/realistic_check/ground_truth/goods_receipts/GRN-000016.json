@@ -1,0 +1,109 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000016",
+    "lines": [
+      {
+        "delivered_sku": "CBL-CU-2C",
+        "item_id": "ITEM-006",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-006",
+        "ordered_sku": "CBL-CU-2C",
+        "quantity_ordered": "29",
+        "quantity_received": "29",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-009",
+        "item_id": "ITEM-009",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-009",
+        "ordered_sku": "BLT-M8-040-ZN-009",
+        "quantity_ordered": "16",
+        "quantity_received": "16",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-015",
+        "item_id": "ITEM-015",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-015",
+        "ordered_sku": "FLT-AIR-010-015",
+        "quantity_ordered": "142",
+        "quantity_received": "142",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16",
+        "item_id": "ITEM-008",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-008",
+        "ordered_sku": "PKG-STRAP-16",
+        "quantity_ordered": "7",
+        "quantity_received": "7",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS",
+        "item_id": "ITEM-003",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-003",
+        "ordered_sku": "BRG-6205-2RS",
+        "quantity_ordered": "27",
+        "quantity_received": "27",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-028",
+        "item_id": "ITEM-028",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-028",
+        "ordered_sku": "GLV-NIT-L-028",
+        "quantity_ordered": "64",
+        "quantity_received": "64",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-018",
+        "item_id": "ITEM-018",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-018",
+        "ordered_sku": "NUT-M8-ZN-018",
+        "quantity_ordered": "46",
+        "quantity_received": "46",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000016",
+    "receipt_date": "2026-01-21"
+  },
+  "grn_number": "GRN-000016",
+  "po_number": "PO-000016",
+  "vendor": {
+    "name": "Nila Machine Tools Pvt Ltd",
+    "tax_id": "99SYNTH0002Z1",
+    "vendor_id": "VEN-002"
+  }
+}

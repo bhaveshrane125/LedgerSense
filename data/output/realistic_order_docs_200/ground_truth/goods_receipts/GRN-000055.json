@@ -1,0 +1,135 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Receiving team recorded a delivered item mismatch.",
+    "grn_number": "GRN-000055",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-033",
+        "item_id": "ITEM-033",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-033",
+        "ordered_sku": "BLT-M8-040-ZN-033",
+        "quantity_ordered": "117",
+        "quantity_received": "117",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-059",
+        "item_id": "ITEM-059",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-059",
+        "ordered_sku": "BRG-6205-2RS-059",
+        "quantity_ordered": "92",
+        "quantity_received": "92",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-080",
+        "item_id": "ITEM-080",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-080",
+        "ordered_sku": "PKG-STRAP-16-080",
+        "quantity_ordered": "154",
+        "quantity_received": "154",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN",
+        "item_id": "ITEM-002",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-002",
+        "ordered_sku": "NUT-M8-ZN",
+        "quantity_ordered": "80",
+        "quantity_received": "80",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-060",
+        "item_id": "ITEM-060",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-060",
+        "ordered_sku": "GLV-NIT-L-060",
+        "quantity_ordered": "112",
+        "quantity_received": "112",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-037",
+        "item_id": "ITEM-037",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-037",
+        "ordered_sku": "OIL-HYD-46-037",
+        "quantity_ordered": "68",
+        "quantity_received": "68",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-062",
+        "item_id": "ITEM-062",
+        "line_number": "7",
+        "ordered_item_id": "ITEM-070",
+        "ordered_sku": "CBL-CU-2C-070",
+        "quantity_ordered": "120",
+        "quantity_received": "120",
+        "quantity_rejected": "0",
+        "receipt_status": "WRONG_ITEM",
+        "uom": "MTR",
+        "variance_note": "Delivered CBL-CU-2C-062 instead of ordered SKU CBL-CU-2C-070"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-021",
+        "item_id": "ITEM-021",
+        "line_number": "8",
+        "ordered_item_id": "ITEM-021",
+        "ordered_sku": "OIL-HYD-46-021",
+        "quantity_ordered": "81",
+        "quantity_received": "81",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-010",
+        "item_id": "ITEM-010",
+        "line_number": "9",
+        "ordered_item_id": "ITEM-010",
+        "ordered_sku": "NUT-M8-ZN-010",
+        "quantity_ordered": "54",
+        "quantity_received": "54",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000055",
+    "receipt_date": "2026-03-01"
+  },
+  "grn_number": "GRN-000055",
+  "po_number": "PO-000055",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000191",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-042",
+        "line_number": 1,
+        "line_total": "231.77",
+        "quantity": "49.00",
+        "sku": "NUT-M8-ZN-042",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-078",
+        "line_number": 2,
+        "line_total": "7560.00",
+        "quantity": "105.00",
+        "sku": "CBL-CU-2C-078",
+        "tax_rate": "0.18",
+        "unit_price": "72.00",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8 Zinc Hex Nut",
+        "item_id": "ITEM-026",
+        "line_number": 3,
+        "line_total": "402.05",
+        "quantity": "85.00",
+        "sku": "NUT-M8-ZN-026",
+        "tax_rate": "0.18",
+        "unit_price": "4.73",
+        "uom": "EA"
+      },
+      {
+        "description": "Copper Control Cable 2 Core",
+        "item_id": "ITEM-062",
+        "line_number": 4,
+        "line_total": "6739.20",
+        "quantity": "78.00",
+        "sku": "CBL-CU-2C-062",
+        "tax_rate": "0.18",
+        "unit_price": "86.40",
+        "uom": "MTR"
+      },
+      {
+        "description": "M8x40 Hex Bolt Zinc",
+        "item_id": "ITEM-041",
+        "line_number": 5,
+        "line_total": "1354.50",
+        "quantity": "129.00",
+        "sku": "BLT-M8-040-ZN-041",
+        "tax_rate": "0.18",
+        "unit_price": "10.50",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-01-12",
+    "po_number": "PO-000191",
+    "total_amount": "16287.52",
+    "vendor_id": "VEN-003"
+  },
+  "vendor": {
+    "name": "Aarav Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0003Z9",
+    "vendor_id": "VEN-003"
+  }
+}

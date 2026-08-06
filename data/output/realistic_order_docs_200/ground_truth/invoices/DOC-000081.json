@@ -1,0 +1,217 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "193127.06",
+    "printed_gross_total": null,
+    "subtotal": "163667.00",
+    "tax": "29460.06"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000081",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-04-30",
+    "grn_reference": "GRN-000081",
+    "invoice_date": "2026-03-31",
+    "po_reference": "PO-000081"
+  },
+  "invoice_number": "INV-000081",
+  "layout": "MODERN",
+  "line_items": [
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-076",
+      "line_number": 1,
+      "line_total": "4485.60",
+      "quantity": "89.00",
+      "sku": "GLV-NIT-L-076",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-052",
+      "line_number": 2,
+      "line_total": "1974.00",
+      "quantity": "47.00",
+      "sku": "GLV-NIT-L-052",
+      "tax_rate": "0.18",
+      "unit_price": "42.00",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-068",
+      "line_number": 3,
+      "line_total": "1159.20",
+      "quantity": "23.00",
+      "sku": "GLV-NIT-L-068",
+      "tax_rate": "0.18",
+      "unit_price": "50.40",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-011",
+      "line_number": 4,
+      "line_total": "22311.00",
+      "quantity": "134.00",
+      "sku": "BRG-6205-2RS-011",
+      "tax_rate": "0.18",
+      "unit_price": "166.50",
+      "uom": "EA"
+    },
+    {
+      "description": "Sealed Ball Bearing 6205",
+      "item_id": "ITEM-051",
+      "line_number": 5,
+      "line_total": "7326.00",
+      "quantity": "33.00",
+      "sku": "BRG-6205-2RS-051",
+      "tax_rate": "0.18",
+      "unit_price": "222.00",
+      "uom": "EA"
+    },
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-040",
+      "line_number": 6,
+      "line_total": "115092.00",
+      "quantity": "139.00",
+      "sku": "PKG-STRAP-16-040",
+      "tax_rate": "0.18",
+      "unit_price": "828.00",
+      "uom": "ROLL"
+    },
+    {
+      "description": "Nitrile Safety Gloves Large",
+      "item_id": "ITEM-044",
+      "line_number": 7,
+      "line_total": "5065.20",
+      "quantity": "134.00",
+      "sku": "GLV-NIT-L-044",
+      "tax_rate": "0.18",
+      "unit_price": "37.80",
+      "uom": "PAIR"
+    },
+    {
+      "description": "Hydraulic Oil ISO VG 46",
+      "item_id": "ITEM-029",
+      "line_number": 8,
+      "line_total": "6254.00",
+      "quantity": "53.00",
+      "sku": "OIL-HYD-46-029",
+      "tax_rate": "0.18",
+      "unit_price": "118.00",
+      "uom": "LTR"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-076",
+        "line_number": 1,
+        "line_total": "4485.60",
+        "quantity": "89.00",
+        "sku": "GLV-NIT-L-076",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-052",
+        "line_number": 2,
+        "line_total": "1974.00",
+        "quantity": "47.00",
+        "sku": "GLV-NIT-L-052",
+        "tax_rate": "0.18",
+        "unit_price": "42.00",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-068",
+        "line_number": 3,
+        "line_total": "1159.20",
+        "quantity": "23.00",
+        "sku": "GLV-NIT-L-068",
+        "tax_rate": "0.18",
+        "unit_price": "50.40",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-011",
+        "line_number": 4,
+        "line_total": "22311.00",
+        "quantity": "134.00",
+        "sku": "BRG-6205-2RS-011",
+        "tax_rate": "0.18",
+        "unit_price": "166.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-051",
+        "line_number": 5,
+        "line_total": "7326.00",
+        "quantity": "33.00",
+        "sku": "BRG-6205-2RS-051",
+        "tax_rate": "0.18",
+        "unit_price": "222.00",
+        "uom": "EA"
+      },
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-040",
+        "line_number": 6,
+        "line_total": "115092.00",
+        "quantity": "139.00",
+        "sku": "PKG-STRAP-16-040",
+        "tax_rate": "0.18",
+        "unit_price": "828.00",
+        "uom": "ROLL"
+      },
+      {
+        "description": "Nitrile Safety Gloves Large",
+        "item_id": "ITEM-044",
+        "line_number": 7,
+        "line_total": "5065.20",
+        "quantity": "134.00",
+        "sku": "GLV-NIT-L-044",
+        "tax_rate": "0.18",
+        "unit_price": "37.80",
+        "uom": "PAIR"
+      },
+      {
+        "description": "Hydraulic Oil ISO VG 46",
+        "item_id": "ITEM-029",
+        "line_number": 8,
+        "line_total": "6254.00",
+        "quantity": "53.00",
+        "sku": "OIL-HYD-46-029",
+        "tax_rate": "0.18",
+        "unit_price": "118.00",
+        "uom": "LTR"
+      }
+    ],
+    "po_date": "2026-03-23",
+    "po_number": "PO-000081",
+    "total_amount": "163667.00",
+    "vendor_id": "VEN-004"
+  },
+  "scenario": "CLEAN",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0004Z7",
+    "vendor_id": "VEN-004"
+  }
+}

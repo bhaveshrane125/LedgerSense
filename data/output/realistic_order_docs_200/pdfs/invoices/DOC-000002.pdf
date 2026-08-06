@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1545 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(TAX INVOICE) Tj
+T*
+(==============================================================================) Tj
+T*
+(Vendor: Saffron Warehouse Services Pvt Ltd \(VEN-009\)) Tj
+T*
+(Tax ID: 99SYNTH0009Z4) Tj
+T*
+(Address: 696 Test Estate, Bengaluru, Fictional India) Tj
+T*
+(Invoice No: INV-000002    Document: DOC-000002) Tj
+T*
+(Invoice Date: 2026-01-11    Due Date: 2026-02-10) Tj
+T*
+(PO: PO-000002    GRN: GRN-000002) Tj
+T*
+(Currency: INR    Scenario: UOM_MISMATCH) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Qty      UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   NUT-M8-ZN-074        M8 Zinc Hex Nut                    4.33 BOX       56.76     245.77) Tj
+T*
+(2   OIL-HYD-46-061       Hydraulic Oil ISO VG 46              28 LTR      118.00    3304.00) Tj
+T*
+(3   PKG-STRAP-16-032     Polyester Packing Strap 16mm         28 ROLL     920.00   25760.00) Tj
+T*
+(4   OIL-HYD-46-053       Hydraulic Oil ISO VG 46             114 LTR      118.00   13452.00) Tj
+T*
+(==============================================================================) Tj
+T*
+(Subtotal: INR 42761.77) Tj
+T*
+(Tax: INR 7697.12) Tj
+T*
+(Freight: INR 0.00) Tj
+T*
+(Discount: INR 0.00) Tj
+T*
+(Gross Total Printed: INR 50458.89) Tj
+T*
+(Calculated Gross Total: INR 50458.89) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001732 00000 n 
+0000001789 00000 n 
+0000001859 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1908
+%%EOF

@@ -1,0 +1,57 @@
+[
+  {
+    "address": "260 Test Estate, Ahmedabad, Fictional India",
+    "bank_fingerprint": "FAKE-BANK-28728463",
+    "email": "ap.nila.1@example.test",
+    "legal_name": "Nila Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 15",
+    "preferred_layout": "MODERN",
+    "tax_id": "99SYNTH0001Z5",
+    "trading_name": "Nila Industrial Supplies",
+    "vendor_id": "VEN-001"
+  },
+  {
+    "address": "40 Test Estate, Chennai, Fictional India",
+    "bank_fingerprint": "FAKE-BANK-39345092",
+    "email": "ap.nila.2@example.test",
+    "legal_name": "Nila Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "preferred_layout": "CLASSIC",
+    "tax_id": "99SYNTH0002Z1",
+    "trading_name": "Nila Machine Tools",
+    "vendor_id": "VEN-002"
+  },
+  {
+    "address": "439 Test Estate, Mumbai, Fictional India",
+    "bank_fingerprint": "FAKE-BANK-70291817",
+    "email": "ap.aarav.3@example.test",
+    "legal_name": "Aarav Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "preferred_layout": "MINIMAL",
+    "tax_id": "99SYNTH0003Z9",
+    "trading_name": "Aarav Machine Tools",
+    "vendor_id": "VEN-003"
+  },
+  {
+    "address": "358 Test Estate, Mumbai, Fictional India",
+    "bank_fingerprint": "FAKE-BANK-30868105",
+    "email": "ap.prism.4@example.test",
+    "legal_name": "Prism Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "preferred_layout": "CLASSIC",
+    "tax_id": "99SYNTH0004Z7",
+    "trading_name": "Prism Industrial Supplies",
+    "vendor_id": "VEN-004"
+  },
+  {
+    "address": "109 Test Estate, Pune, Fictional India",
+    "bank_fingerprint": "FAKE-BANK-56164955",
+    "email": "ap.kaveri.5@example.test",
+    "legal_name": "Kaveri Industrial Supplies Pvt Ltd",
+    "payment_terms": "NET 30",
+    "preferred_layout": "MINIMAL",
+    "tax_id": "99SYNTH0005Z7",
+    "trading_name": "Kaveri Industrial Supplies",
+    "vendor_id": "VEN-005"
+  }
+]

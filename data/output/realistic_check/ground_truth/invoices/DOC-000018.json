@@ -1,0 +1,65 @@
+{
+  "amounts": {
+    "discount": "0.00",
+    "freight": "0.00",
+    "gross_total": "95749.92",
+    "printed_gross_total": null,
+    "subtotal": "81144.00",
+    "tax": "14605.92"
+  },
+  "dataset_id": "DS-001",
+  "document_id": "DOC-000018",
+  "duplicate_of_document_id": null,
+  "expected_exception_codes": [
+    "ITEMS_MISSING"
+  ],
+  "invoice": {
+    "currency": "INR",
+    "due_date": "2026-02-26",
+    "grn_reference": "GRN-000018",
+    "invoice_date": "2026-01-27",
+    "po_reference": "PO-000018"
+  },
+  "invoice_number": "INV-000018",
+  "layout": "MINIMAL",
+  "line_items": [
+    {
+      "description": "Polyester Packing Strap 16mm",
+      "item_id": "ITEM-024",
+      "line_number": 1,
+      "line_total": "81144.00",
+      "quantity": "84.00",
+      "sku": "PKG-STRAP-16-024",
+      "tax_rate": "0.18",
+      "unit_price": "966.00",
+      "uom": "ROLL"
+    }
+  ],
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Polyester Packing Strap 16mm",
+        "item_id": "ITEM-024",
+        "line_number": 1,
+        "line_total": "81144.00",
+        "quantity": "84.00",
+        "sku": "PKG-STRAP-16-024",
+        "tax_rate": "0.18",
+        "unit_price": "966.00",
+        "uom": "ROLL"
+      }
+    ],
+    "po_date": "2026-01-19",
+    "po_number": "PO-000018",
+    "total_amount": "81144.00",
+    "vendor_id": "VEN-005"
+  },
+  "scenario": "ITEMS_MISSING",
+  "source_contains_intentional_error": false,
+  "vendor": {
+    "name": "Kaveri Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0005Z7",
+    "vendor_id": "VEN-005"
+  }
+}

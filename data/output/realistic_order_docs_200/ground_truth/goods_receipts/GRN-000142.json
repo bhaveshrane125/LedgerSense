@@ -1,0 +1,83 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000142",
+    "lines": [
+      {
+        "delivered_sku": "FLT-AIR-010-071",
+        "item_id": "ITEM-071",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-071",
+        "ordered_sku": "FLT-AIR-010-071",
+        "quantity_ordered": "140",
+        "quantity_received": "140",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "NUT-M8-ZN-042",
+        "item_id": "ITEM-042",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-042",
+        "ordered_sku": "NUT-M8-ZN-042",
+        "quantity_ordered": "95",
+        "quantity_received": "95",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-037",
+        "item_id": "ITEM-037",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-037",
+        "ordered_sku": "OIL-HYD-46-037",
+        "quantity_ordered": "82",
+        "quantity_received": "82",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-049",
+        "item_id": "ITEM-049",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-049",
+        "ordered_sku": "BLT-M8-040-ZN-049",
+        "quantity_ordered": "70",
+        "quantity_received": "70",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-060",
+        "item_id": "ITEM-060",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-060",
+        "ordered_sku": "GLV-NIT-L-060",
+        "quantity_ordered": "96",
+        "quantity_received": "96",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000142",
+    "receipt_date": "2026-05-27"
+  },
+  "grn_number": "GRN-000142",
+  "po_number": "PO-000142",
+  "vendor": {
+    "name": "Helio Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0015Z2",
+    "vendor_id": "VEN-015"
+  }
+}

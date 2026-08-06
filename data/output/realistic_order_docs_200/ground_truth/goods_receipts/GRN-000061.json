@@ -1,0 +1,96 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000061",
+    "lines": [
+      {
+        "delivered_sku": "BRG-6205-2RS-075",
+        "item_id": "ITEM-075",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-075",
+        "ordered_sku": "BRG-6205-2RS-075",
+        "quantity_ordered": "10",
+        "quantity_received": "10",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN-049",
+        "item_id": "ITEM-049",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-049",
+        "ordered_sku": "BLT-M8-040-ZN-049",
+        "quantity_ordered": "147",
+        "quantity_received": "147",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16-048",
+        "item_id": "ITEM-048",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-048",
+        "ordered_sku": "PKG-STRAP-16-048",
+        "quantity_ordered": "87",
+        "quantity_received": "87",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-014",
+        "item_id": "ITEM-014",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-014",
+        "ordered_sku": "CBL-CU-2C-014",
+        "quantity_ordered": "160",
+        "quantity_received": "160",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "CBL-CU-2C-030",
+        "item_id": "ITEM-030",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-030",
+        "ordered_sku": "CBL-CU-2C-030",
+        "quantity_ordered": "60",
+        "quantity_received": "60",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "MTR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-061",
+        "item_id": "ITEM-061",
+        "line_number": "6",
+        "ordered_item_id": "ITEM-061",
+        "ordered_sku": "OIL-HYD-46-061",
+        "quantity_ordered": "20",
+        "quantity_received": "16",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "LTR",
+        "variance_note": "Short received by 4 LTR"
+      }
+    ],
+    "po_number": "PO-000061",
+    "receipt_date": "2026-03-07"
+  },
+  "grn_number": "GRN-000061",
+  "po_number": "PO-000061",
+  "vendor": {
+    "name": "Prism Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0006Z8",
+    "vendor_id": "VEN-006"
+  }
+}

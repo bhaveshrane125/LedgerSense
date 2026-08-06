@@ -1,0 +1,70 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Synthetic goods received in acceptable condition",
+    "grn_number": "GRN-000012",
+    "lines": [
+      {
+        "delivered_sku": "BRG-6205-2RS-019",
+        "item_id": "ITEM-019",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-019",
+        "ordered_sku": "BRG-6205-2RS-019",
+        "quantity_ordered": "19",
+        "quantity_received": "19",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "PKG-STRAP-16",
+        "item_id": "ITEM-008",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-008",
+        "ordered_sku": "PKG-STRAP-16",
+        "quantity_ordered": "62",
+        "quantity_received": "62",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "ROLL",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BLT-M8-040-ZN",
+        "item_id": "ITEM-001",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-001",
+        "ordered_sku": "BLT-M8-040-ZN",
+        "quantity_ordered": "21",
+        "quantity_received": "21",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS",
+        "item_id": "ITEM-003",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-003",
+        "ordered_sku": "BRG-6205-2RS",
+        "quantity_ordered": "12",
+        "quantity_received": "12",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000012",
+    "receipt_date": "2026-01-17"
+  },
+  "grn_number": "GRN-000012",
+  "po_number": "PO-000012",
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

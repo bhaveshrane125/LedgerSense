@@ -1,0 +1,83 @@
+{
+  "document_type": "GOODS_RECEIPT",
+  "goods_receipt": {
+    "condition_note": "Partial delivery recorded; invoice still bills the ordered quantity.",
+    "grn_number": "GRN-000086",
+    "lines": [
+      {
+        "delivered_sku": "BLT-M8-040-ZN-057",
+        "item_id": "ITEM-057",
+        "line_number": "1",
+        "ordered_item_id": "ITEM-057",
+        "ordered_sku": "BLT-M8-040-ZN-057",
+        "quantity_ordered": "97",
+        "quantity_received": "97",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "GLV-NIT-L-068",
+        "item_id": "ITEM-068",
+        "line_number": "2",
+        "ordered_item_id": "ITEM-068",
+        "ordered_sku": "GLV-NIT-L-068",
+        "quantity_ordered": "99",
+        "quantity_received": "99",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "PAIR",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "BRG-6205-2RS-067",
+        "item_id": "ITEM-067",
+        "line_number": "3",
+        "ordered_item_id": "ITEM-067",
+        "ordered_sku": "BRG-6205-2RS-067",
+        "quantity_ordered": "76",
+        "quantity_received": "54",
+        "quantity_rejected": "0",
+        "receipt_status": "PARTIAL",
+        "uom": "EA",
+        "variance_note": "Short received by 22 EA"
+      },
+      {
+        "delivered_sku": "FLT-AIR-010-079",
+        "item_id": "ITEM-079",
+        "line_number": "4",
+        "ordered_item_id": "ITEM-079",
+        "ordered_sku": "FLT-AIR-010-079",
+        "quantity_ordered": "103",
+        "quantity_received": "103",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "EA",
+        "variance_note": "Received as ordered"
+      },
+      {
+        "delivered_sku": "OIL-HYD-46-021",
+        "item_id": "ITEM-021",
+        "line_number": "5",
+        "ordered_item_id": "ITEM-021",
+        "ordered_sku": "OIL-HYD-46-021",
+        "quantity_ordered": "108",
+        "quantity_received": "108",
+        "quantity_rejected": "0",
+        "receipt_status": "ACCEPTED",
+        "uom": "LTR",
+        "variance_note": "Received as ordered"
+      }
+    ],
+    "po_number": "PO-000086",
+    "receipt_date": "2026-04-01"
+  },
+  "grn_number": "GRN-000086",
+  "po_number": "PO-000086",
+  "vendor": {
+    "name": "Nila Industrial Supplies Pvt Ltd",
+    "tax_id": "99SYNTH0001Z5",
+    "vendor_id": "VEN-001"
+  }
+}

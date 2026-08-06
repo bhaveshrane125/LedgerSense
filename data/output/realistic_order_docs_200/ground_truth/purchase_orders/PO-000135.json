@@ -1,0 +1,41 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "po_number": "PO-000135",
+  "purchase_order": {
+    "currency": "INR",
+    "lines": [
+      {
+        "description": "Sealed Ball Bearing 6205",
+        "item_id": "ITEM-003",
+        "line_number": 1,
+        "line_total": "24827.00",
+        "quantity": "122.00",
+        "sku": "BRG-6205-2RS",
+        "tax_rate": "0.18",
+        "unit_price": "203.50",
+        "uom": "EA"
+      },
+      {
+        "description": "Compressed Air Filter Element",
+        "item_id": "ITEM-039",
+        "line_number": 2,
+        "line_total": "83655.00",
+        "quantity": "143.00",
+        "sku": "FLT-AIR-010-039",
+        "tax_rate": "0.18",
+        "unit_price": "585.00",
+        "uom": "EA"
+      }
+    ],
+    "po_date": "2026-05-16",
+    "po_number": "PO-000135",
+    "total_amount": "108482.00",
+    "vendor_id": "VEN-014"
+  },
+  "vendor": {
+    "name": "Prism Machine Tools Pvt Ltd",
+    "payment_terms": "NET 15",
+    "tax_id": "99SYNTH0014Z7",
+    "vendor_id": "VEN-014"
+  }
+}

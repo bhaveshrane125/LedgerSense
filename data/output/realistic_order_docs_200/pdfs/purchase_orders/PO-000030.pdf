@@ -1,0 +1,81 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 2 0 R >>
+endobj
+2 0 obj
+<< /Length 1767 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+14 TL
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+T*
+(PURCHASE ORDER) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO No: PO-000030    PO Date: 2026-01-31) Tj
+T*
+(Vendor: Aarav Machine Tools Pvt Ltd \(VEN-003\)) Tj
+T*
+(Tax ID: 99SYNTH0003Z9    Payment Terms: NET 15) Tj
+T*
+(Address: 439 Test Estate, Mumbai, Fictional India) Tj
+T*
+(Currency: INR) Tj
+T*
+(==============================================================================) Tj
+T*
+(Ln  SKU                  Description                       Ordered UOM   Unit       Line) Tj
+T*
+(==============================================================================) Tj
+T*
+(1   FLT-AIR-010-015      Compressed Air Filter Element        83 EA       585.00   48555.00) Tj
+T*
+(2   BLT-M8-040-ZN-073    M8x40 Hex Bolt Zinc                  31 EA         9.00     279.00) Tj
+T*
+(3   GLV-NIT-L-028        Nitrile Safety Gloves Large         152 PAIR      50.40    7660.80) Tj
+T*
+(4   GLV-NIT-L-060        Nitrile Safety Gloves Large          10 PAIR      46.20     462.00) Tj
+T*
+(5   BLT-M8-040-ZN-033    M8x40 Hex Bolt Zinc                  83 EA        12.00     996.00) Tj
+T*
+(6   PKG-STRAP-16-048     Polyester Packing Strap 16mm        151 ROLL     828.00  125028.00) Tj
+T*
+(7   CBL-CU-2C-022        Copper Control Cable 2 Core         100 MTR       86.40    8640.00) Tj
+T*
+(8   PKG-STRAP-16-080     Polyester Packing Strap 16mm        105 ROLL     920.00   96600.00) Tj
+T*
+(9   OIL-HYD-46-021       Hydraulic Oil ISO VG 46              54 LTR      123.90    6690.60) Tj
+T*
+(==============================================================================) Tj
+T*
+(PO Total: INR 294911.40) Tj
+T*
+(SYNTHETIC TEST DOCUMENT - NOT FOR PAYMENT) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000135 00000 n 
+0000001954 00000 n 
+0000002011 00000 n 
+0000002081 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2130
+%%EOF
